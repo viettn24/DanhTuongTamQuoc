@@ -1,0 +1,34 @@
+
+guide.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boot_finger/Boot_finger_dian
+  rotate: false
+  xy: 176, 191
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+boot_finger/image_circle_2
+  rotate: false
+  xy: 2, 72
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+boot_finger/shou
+  rotate: false
+  xy: 2, 2
+  size: 66, 68
+  orig: 66, 68
+  offset: 0, 0
+  index: -1
+boot_finger/shou2
+  rotate: false
+  xy: 70, 12
+  size: 21, 58
+  orig: 21, 58
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+{
+    "1":{
+        "quality":1,
+        "base_success_rate":800,
+        "num":2,
+        "coins":20000
+    },
+    "2":{
+        "quality":2,
+        "base_success_rate":500,
+        "num":4,
+        "coins":50000
+    },
+    "3":{
+        "quality":3,
+        "base_success_rate":200,
+        "num":6,
+        "coins":100000
+    }
+}

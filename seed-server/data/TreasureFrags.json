@@ -1,0 +1,810 @@
+{
+	"3594": {
+		"treasure": 3101,
+		"quality": 1
+	},
+	"3595": {
+		"treasure": 3101,
+		"quality": 1
+	},
+	"3596": {
+		"treasure": 3101,
+		"quality": 1
+	},
+	"3597": {
+		"treasure": 3101,
+		"quality": 1
+	},
+	"3598": {
+		"treasure": 3102,
+		"quality": 1
+	},
+	"3599": {
+		"treasure": 3102,
+		"quality": 1
+	},
+	"3600": {
+		"treasure": 3102,
+		"quality": 1
+	},
+	"3601": {
+		"treasure": 3102,
+		"quality": 1
+	},
+	"3602": {
+		"treasure": 3103,
+		"quality": 1
+	},
+	"3603": {
+		"treasure": 3103,
+		"quality": 1
+	},
+	"3604": {
+		"treasure": 3103,
+		"quality": 1
+	},
+	"3605": {
+		"treasure": 3103,
+		"quality": 1
+	},
+	"3606": {
+		"treasure": 3104,
+		"quality": 1
+	},
+	"3607": {
+		"treasure": 3104,
+		"quality": 1
+	},
+	"3608": {
+		"treasure": 3104,
+		"quality": 1
+	},
+	"3609": {
+		"treasure": 3104,
+		"quality": 1
+	},
+	"3610": {
+		"treasure": 3105,
+		"quality": 1
+	},
+	"3611": {
+		"treasure": 3105,
+		"quality": 1
+	},
+	"3612": {
+		"treasure": 3105,
+		"quality": 1
+	},
+	"3613": {
+		"treasure": 3105,
+		"quality": 1
+	},
+	"3614": {
+		"treasure": 3106,
+		"quality": 2
+	},
+	"3615": {
+		"treasure": 3106,
+		"quality": 2
+	},
+	"3616": {
+		"treasure": 3106,
+		"quality": 2
+	},
+	"3617": {
+		"treasure": 3106,
+		"quality": 2
+	},
+	"3618": {
+		"treasure": 3106,
+		"quality": 2
+	},
+	"3619": {
+		"treasure": 3107,
+		"quality": 2
+	},
+	"3620": {
+		"treasure": 3107,
+		"quality": 2
+	},
+	"3621": {
+		"treasure": 3107,
+		"quality": 2
+	},
+	"3622": {
+		"treasure": 3107,
+		"quality": 2
+	},
+	"3623": {
+		"treasure": 3107,
+		"quality": 2
+	},
+	"3624": {
+		"treasure": 3108,
+		"quality": 2
+	},
+	"3625": {
+		"treasure": 3108,
+		"quality": 2
+	},
+	"3626": {
+		"treasure": 3108,
+		"quality": 2
+	},
+	"3627": {
+		"treasure": 3108,
+		"quality": 2
+	},
+	"3500": {
+		"treasure": 3000,
+		"quality": 1
+	},
+	"3628": {
+		"treasure": 3108,
+		"quality": 2
+	},
+	"3501": {
+		"treasure": 3000,
+		"quality": 1
+	},
+	"3629": {
+		"treasure": 3109,
+		"quality": 2
+	},
+	"3502": {
+		"treasure": 3000,
+		"quality": 1
+	},
+	"3630": {
+		"treasure": 3109,
+		"quality": 2
+	},
+	"3503": {
+		"treasure": 3000,
+		"quality": 1
+	},
+	"3631": {
+		"treasure": 3109,
+		"quality": 2
+	},
+	"3504": {
+		"treasure": 3001,
+		"quality": 1
+	},
+	"3632": {
+		"treasure": 3109,
+		"quality": 2
+	},
+	"3505": {
+		"treasure": 3001,
+		"quality": 1
+	},
+	"3633": {
+		"treasure": 3109,
+		"quality": 2
+	},
+	"3506": {
+		"treasure": 3001,
+		"quality": 1
+	},
+	"3634": {
+		"treasure": 3110,
+		"quality": 2
+	},
+	"3507": {
+		"treasure": 3001,
+		"quality": 1
+	},
+	"3635": {
+		"treasure": 3110,
+		"quality": 2
+	},
+	"3508": {
+		"treasure": 3002,
+		"quality": 1
+	},
+	"3636": {
+		"treasure": 3110,
+		"quality": 2
+	},
+	"3509": {
+		"treasure": 3002,
+		"quality": 1
+	},
+	"3637": {
+		"treasure": 3110,
+		"quality": 2
+	},
+	"3510": {
+		"treasure": 3002,
+		"quality": 1
+	},
+	"3638": {
+		"treasure": 3110,
+		"quality": 2
+	},
+	"3511": {
+		"treasure": 3002,
+		"quality": 1
+	},
+	"3639": {
+		"treasure": 3111,
+		"quality": 2
+	},
+	"3512": {
+		"treasure": 3003,
+		"quality": 1
+	},
+	"3640": {
+		"treasure": 3111,
+		"quality": 2
+	},
+	"3513": {
+		"treasure": 3003,
+		"quality": 1
+	},
+	"3641": {
+		"treasure": 3111,
+		"quality": 2
+	},
+	"3514": {
+		"treasure": 3003,
+		"quality": 1
+	},
+	"3642": {
+		"treasure": 3111,
+		"quality": 2
+	},
+	"3515": {
+		"treasure": 3003,
+		"quality": 1
+	},
+	"3643": {
+		"treasure": 3111,
+		"quality": 2
+	},
+	"3516": {
+		"treasure": 3004,
+		"quality": 1
+	},
+	"3644": {
+		"treasure": 3112,
+		"quality": 3
+	},
+	"3517": {
+		"treasure": 3004,
+		"quality": 1
+	},
+	"3645": {
+		"treasure": 3112,
+		"quality": 3
+	},
+	"3518": {
+		"treasure": 3004,
+		"quality": 1
+	},
+	"3646": {
+		"treasure": 3112,
+		"quality": 3
+	},
+	"3519": {
+		"treasure": 3004,
+		"quality": 1
+	},
+	"3647": {
+		"treasure": 3112,
+		"quality": 3
+	},
+	"3520": {
+		"treasure": 3005,
+		"quality": 1
+	},
+	"3648": {
+		"treasure": 3112,
+		"quality": 3
+	},
+	"3521": {
+		"treasure": 3005,
+		"quality": 1
+	},
+	"3649": {
+		"treasure": 3112,
+		"quality": 3
+	},
+	"3522": {
+		"treasure": 3005,
+		"quality": 1
+	},
+	"3650": {
+		"treasure": 3113,
+		"quality": 3
+	},
+	"3523": {
+		"treasure": 3005,
+		"quality": 1
+	},
+	"3651": {
+		"treasure": 3113,
+		"quality": 3
+	},
+	"3524": {
+		"treasure": 3006,
+		"quality": 2
+	},
+	"3652": {
+		"treasure": 3113,
+		"quality": 3
+	},
+	"3525": {
+		"treasure": 3006,
+		"quality": 2
+	},
+	"3653": {
+		"treasure": 3113,
+		"quality": 3
+	},
+	"3526": {
+		"treasure": 3006,
+		"quality": 2
+	},
+	"3654": {
+		"treasure": 3113,
+		"quality": 3
+	},
+	"3527": {
+		"treasure": 3006,
+		"quality": 2
+	},
+	"3655": {
+		"treasure": 3113,
+		"quality": 3
+	},
+	"3528": {
+		"treasure": 3006,
+		"quality": 2
+	},
+	"3656": {
+		"treasure": 3114,
+		"quality": 3
+	},
+	"3529": {
+		"treasure": 3007,
+		"quality": 2
+	},
+	"3657": {
+		"treasure": 3114,
+		"quality": 3
+	},
+	"3530": {
+		"treasure": 3007,
+		"quality": 2
+	},
+	"3658": {
+		"treasure": 3114,
+		"quality": 3
+	},
+	"3531": {
+		"treasure": 3007,
+		"quality": 2
+	},
+	"3659": {
+		"treasure": 3114,
+		"quality": 3
+	},
+	"3532": {
+		"treasure": 3007,
+		"quality": 2
+	},
+	"3660": {
+		"treasure": 3114,
+		"quality": 3
+	},
+	"3533": {
+		"treasure": 3007,
+		"quality": 2
+	},
+	"3661": {
+		"treasure": 3114,
+		"quality": 3
+	},
+	"3534": {
+		"treasure": 3008,
+		"quality": 2
+	},
+	"3662": {
+		"treasure": 3115,
+		"quality": 3
+	},
+	"3535": {
+		"treasure": 3008,
+		"quality": 2
+	},
+	"3663": {
+		"treasure": 3115,
+		"quality": 3
+	},
+	"3536": {
+		"treasure": 3008,
+		"quality": 2
+	},
+	"3664": {
+		"treasure": 3115,
+		"quality": 3
+	},
+	"3537": {
+		"treasure": 3008,
+		"quality": 2
+	},
+	"3665": {
+		"treasure": 3115,
+		"quality": 3
+	},
+	"3538": {
+		"treasure": 3008,
+		"quality": 2
+	},
+	"3666": {
+		"treasure": 3115,
+		"quality": 3
+	},
+	"3539": {
+		"treasure": 3009,
+		"quality": 2
+	},
+	"3667": {
+		"treasure": 3115,
+		"quality": 3
+	},
+	"3540": {
+		"treasure": 3009,
+		"quality": 2
+	},
+	"3668": {
+		"treasure": 3116,
+		"quality": 3
+	},
+	"3541": {
+		"treasure": 3009,
+		"quality": 2
+	},
+	"3669": {
+		"treasure": 3116,
+		"quality": 3
+	},
+	"3542": {
+		"treasure": 3009,
+		"quality": 2
+	},
+	"3670": {
+		"treasure": 3116,
+		"quality": 3
+	},
+	"3543": {
+		"treasure": 3009,
+		"quality": 2
+	},
+	"3671": {
+		"treasure": 3116,
+		"quality": 3
+	},
+	"3544": {
+		"treasure": 3010,
+		"quality": 2
+	},
+	"3672": {
+		"treasure": 3116,
+		"quality": 3
+	},
+	"3545": {
+		"treasure": 3010,
+		"quality": 2
+	},
+	"3673": {
+		"treasure": 3116,
+		"quality": 3
+	},
+	"3546": {
+		"treasure": 3010,
+		"quality": 2
+	},
+	"3674": {
+		"treasure": 3117,
+		"quality": 3
+	},
+	"3547": {
+		"treasure": 3010,
+		"quality": 2
+	},
+	"3675": {
+		"treasure": 3117,
+		"quality": 3
+	},
+	"3548": {
+		"treasure": 3010,
+		"quality": 2
+	},
+	"3676": {
+		"treasure": 3117,
+		"quality": 3
+	},
+	"3549": {
+		"treasure": 3011,
+		"quality": 2
+	},
+	"3677": {
+		"treasure": 3117,
+		"quality": 3
+	},
+	"3550": {
+		"treasure": 3011,
+		"quality": 2
+	},
+	"3678": {
+		"treasure": 3117,
+		"quality": 3
+	},
+	"3551": {
+		"treasure": 3011,
+		"quality": 2
+	},
+	"3679": {
+		"treasure": 3117,
+		"quality": 3
+	},
+	"3552": {
+		"treasure": 3011,
+		"quality": 2
+	},
+	"3680": {
+		"treasure": 3098,
+		"quality": 2
+	},
+	"3553": {
+		"treasure": 3011,
+		"quality": 2
+	},
+	"3681": {
+		"treasure": 3098,
+		"quality": 2
+	},
+	"3554": {
+		"treasure": 3012,
+		"quality": 3
+	},
+	"3682": {
+		"treasure": 3098,
+		"quality": 2
+	},
+	"3555": {
+		"treasure": 3012,
+		"quality": 3
+	},
+	"3683": {
+		"treasure": 3098,
+		"quality": 2
+	},
+	"3556": {
+		"treasure": 3012,
+		"quality": 3
+	},
+	"3684": {
+		"treasure": 3098,
+		"quality": 2
+	},
+	"3557": {
+		"treasure": 3012,
+		"quality": 3
+	},
+	"3685": {
+		"treasure": 3099,
+		"quality": 3
+	},
+	"3558": {
+		"treasure": 3012,
+		"quality": 3
+	},
+	"3686": {
+		"treasure": 3099,
+		"quality": 3
+	},
+	"3559": {
+		"treasure": 3012,
+		"quality": 3
+	},
+	"3687": {
+		"treasure": 3099,
+		"quality": 3
+	},
+	"3560": {
+		"treasure": 3013,
+		"quality": 3
+	},
+	"3688": {
+		"treasure": 3099,
+		"quality": 3
+	},
+	"3561": {
+		"treasure": 3013,
+		"quality": 3
+	},
+	"3689": {
+		"treasure": 3099,
+		"quality": 3
+	},
+	"3562": {
+		"treasure": 3013,
+		"quality": 3
+	},
+	"3563": {
+		"treasure": 3013,
+		"quality": 3
+	},
+	"3564": {
+		"treasure": 3013,
+		"quality": 3
+	},
+	"3565": {
+		"treasure": 3013,
+		"quality": 3
+	},
+	"3566": {
+		"treasure": 3014,
+		"quality": 3
+	},
+	"3567": {
+		"treasure": 3014,
+		"quality": 3
+	},
+	"3568": {
+		"treasure": 3014,
+		"quality": 3
+	},
+	"3569": {
+		"treasure": 3014,
+		"quality": 3
+	},
+	"3570": {
+		"treasure": 3014,
+		"quality": 3
+	},
+	"3571": {
+		"treasure": 3014,
+		"quality": 3
+	},
+	"3572": {
+		"treasure": 3015,
+		"quality": 3
+	},
+	"3700": {
+		"treasure": 3099,
+		"quality": 3
+	},
+	"3573": {
+		"treasure": 3015,
+		"quality": 3
+	},
+	"3701": {
+		"treasure": 3198,
+		"quality": 2
+	},
+	"3574": {
+		"treasure": 3015,
+		"quality": 3
+	},
+	"3702": {
+		"treasure": 3198,
+		"quality": 2
+	},
+	"3575": {
+		"treasure": 3015,
+		"quality": 3
+	},
+	"3703": {
+		"treasure": 3198,
+		"quality": 2
+	},
+	"3576": {
+		"treasure": 3015,
+		"quality": 3
+	},
+	"3704": {
+		"treasure": 3198,
+		"quality": 2
+	},
+	"3577": {
+		"treasure": 3015,
+		"quality": 3
+	},
+	"3705": {
+		"treasure": 3198,
+		"quality": 2
+	},
+	"3578": {
+		"treasure": 3016,
+		"quality": 3
+	},
+	"3706": {
+		"treasure": 3199,
+		"quality": 3
+	},
+	"3579": {
+		"treasure": 3016,
+		"quality": 3
+	},
+	"3707": {
+		"treasure": 3199,
+		"quality": 3
+	},
+	"3580": {
+		"treasure": 3016,
+		"quality": 3
+	},
+	"3708": {
+		"treasure": 3199,
+		"quality": 3
+	},
+	"3581": {
+		"treasure": 3016,
+		"quality": 3
+	},
+	"3709": {
+		"treasure": 3199,
+		"quality": 3
+	},
+	"3582": {
+		"treasure": 3016,
+		"quality": 3
+	},
+	"3710": {
+		"treasure": 3199,
+		"quality": 3
+	},
+	"3583": {
+		"treasure": 3016,
+		"quality": 3
+	},
+	"3711": {
+		"treasure": 3199,
+		"quality": 3
+	},
+	"3584": {
+		"treasure": 3017,
+		"quality": 3
+	},
+	"3585": {
+		"treasure": 3017,
+		"quality": 3
+	},
+	"3586": {
+		"treasure": 3017,
+		"quality": 3
+	},
+	"3587": {
+		"treasure": 3017,
+		"quality": 3
+	},
+	"3588": {
+		"treasure": 3017,
+		"quality": 3
+	},
+	"3589": {
+		"treasure": 3017,
+		"quality": 3
+	},
+	"3590": {
+		"treasure": 3100,
+		"quality": 1
+	},
+	"3591": {
+		"treasure": 3100,
+		"quality": 1
+	},
+	"3592": {
+		"treasure": 3100,
+		"quality": 1
+	},
+	"3593": {
+		"treasure": 3100,
+		"quality": 1
+	}
+}

@@ -1,0 +1,48 @@
+
+prewar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+texture_Pre_war/PVP_vs
+  rotate: true
+  xy: 91, 159
+  size: 163, 249
+  orig: 163, 249
+  offset: 0, 0
+  index: -1
+texture_Pre_war/light
+  rotate: false
+  xy: 342, 130
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+texture_Pre_war/ssssssii
+  rotate: false
+  xy: 91, 324
+  size: 281, 156
+  orig: 281, 156
+  offset: 0, 0
+  index: -1
+texture_Pre_war/thunder
+  rotate: false
+  xy: 2, 91
+  size: 87, 389
+  orig: 87, 389
+  offset: 0, 0
+  index: -1
+texture_Pre_war/thunder1
+  rotate: true
+  xy: 91, 96
+  size: 61, 210
+  orig: 61, 210
+  offset: 0, 0
+  index: -1
+texture_Pre_war/thunder2
+  rotate: false
+  xy: 374, 270
+  size: 61, 210
+  orig: 61, 210
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,1 @@
+[{"__type__":"cc.Prefab","_name":"guozhan_girl","data":{"__id__":1},"asyncLoadAssets":null},{"__type__":"cc.Node","_name":"guozhan_girl","_components":[{"__type__":"sp.Skeleton","node":{"__id__":1},"_N$skeletonData":{"__uuid__":"5b+PbSPVxOG7HbLeSwYWIO"}}],"_prefab":{"__type__":"cc.PrefabInfo","root":{"__id__":1},"asset":{"__id__":0},"fileId":"38EVKv2klEgIWJm77xeqn8"}}]

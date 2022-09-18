@@ -1,0 +1,450 @@
+[
+  {
+    "id": 5001,
+    "quality": 0,
+    "func": 3,
+    "addon_type": [1],
+    "addon_value": [1950]
+  },
+  {
+    "id": 5002,
+    "quality": 0,
+    "func": 3,
+    "addon_type": [2],
+    "addon_value": [250]
+  },
+  {
+    "id": 5003,
+    "quality": 0,
+    "func": 3,
+    "addon_type": [3],
+    "addon_value": [65]
+  },
+  {
+    "id": 5004,
+    "quality": 0,
+    "func": 1,
+    "addon_type": [4],
+    "addon_value": [296]
+  },
+  {
+    "id": 5005,
+    "quality": 0,
+    "func": 1,
+    "addon_type": [5],
+    "addon_value": [296]
+  },
+  {
+    "id": 5006,
+    "quality": 0,
+    "func": 1,
+    "addon_type": [6],
+    "addon_value": [296]
+  },
+  {
+    "id": 5007,
+    "quality": 0,
+    "func": 1,
+    "addon_type": [7],
+    "addon_value": [296]
+  },
+  {
+    "id": 5008,
+    "quality": 0,
+    "func": 1,
+    "addon_type": [8],
+    "addon_value": [296]
+  },
+  {
+    "id": 5009,
+    "quality": 0,
+    "func": 1,
+    "addon_type": [9],
+    "addon_value": [296]
+  },
+  {
+    "id": 5010,
+    "quality": 0,
+    "func": 2,
+    "addon_type": [10],
+    "addon_value": [80]
+  },
+  {
+    "id": 5011,
+    "quality": 0,
+    "func": 2,
+    "addon_type": [11],
+    "addon_value": [1]
+  },
+  {
+    "id": 5012,
+    "quality": 0,
+    "func": 2,
+    "addon_type": [12],
+    "addon_value": [80]
+  },
+  {
+    "id": 5013,
+    "quality": 0,
+    "func": 3,
+    "addon_type": [13],
+    "addon_value": [200]
+  },
+  {
+    "id": 5014,
+    "quality": 0,
+    "func": 3,
+    "addon_type": [14],
+    "addon_value": [200]
+  },
+  {
+    "id": 5015,
+    "quality": 0,
+    "func": 3,
+    "addon_type": [15],
+    "addon_value": [200]
+  },
+  {
+    "id": 5101,
+    "quality": 1,
+    "func": 3,
+    "addon_type": [1],
+    "addon_value": [5725]
+  },
+  {
+    "id": 5102,
+    "quality": 1,
+    "func": 3,
+    "addon_type": [2],
+    "addon_value": [500]
+  },
+  {
+    "id": 5103,
+    "quality": 1,
+    "func": 3,
+    "addon_type": [3],
+    "addon_value": [130]
+  },
+  {
+    "id": 5104,
+    "quality": 1,
+    "func": 1,
+    "addon_type": [4],
+    "addon_value": [592]
+  },
+  {
+    "id": 5105,
+    "quality": 1,
+    "func": 1,
+    "addon_type": [5],
+    "addon_value": [592]
+  },
+  {
+    "id": 5106,
+    "quality": 1,
+    "func": 1,
+    "addon_type": [6],
+    "addon_value": [592]
+  },
+  {
+    "id": 5107,
+    "quality": 1,
+    "func": 1,
+    "addon_type": [7],
+    "addon_value": [592]
+  },
+  {
+    "id": 5108,
+    "quality": 1,
+    "func": 1,
+    "addon_type": [8],
+    "addon_value": [592]
+  },
+  {
+    "id": 5109,
+    "quality": 1,
+    "func": 1,
+    "addon_type": [9],
+    "addon_value": [592]
+  },
+  {
+    "id": 5110,
+    "quality": 1,
+    "func": 2,
+    "addon_type": [10],
+    "addon_value": [120]
+  },
+  {
+    "id": 5111,
+    "quality": 1,
+    "func": 2,
+    "addon_type": [11],
+    "addon_value": [3]
+  },
+  {
+    "id": 5112,
+    "quality": 1,
+    "func": 2,
+    "addon_type": [12],
+    "addon_value": [120]
+  },
+  {
+    "id": 5113,
+    "quality": 1,
+    "func": 3,
+    "addon_type": [13],
+    "addon_value": [350]
+  },
+  {
+    "id": 5114,
+    "quality": 1,
+    "func": 3,
+    "addon_type": [14],
+    "addon_value": [250]
+  },
+  {
+    "id": 5115,
+    "quality": 1,
+    "func": 3,
+    "addon_type": [15],
+    "addon_value": [250]
+  },
+  {
+    "id": 5201,
+    "quality": 2,
+    "func": 3,
+    "addon_type": [1],
+    "addon_value": [8188]
+  },
+  {
+    "id": 5202,
+    "quality": 2,
+    "func": 3,
+    "addon_type": [2],
+    "addon_value": [1050]
+  },
+  {
+    "id": 5203,
+    "quality": 2,
+    "func": 3,
+    "addon_type": [3],
+    "addon_value": [270]
+  },
+  {
+    "id": 5204,
+    "quality": 2,
+    "func": 1,
+    "addon_type": [4],
+    "addon_value": [1184]
+  },
+  {
+    "id": 5205,
+    "quality": 2,
+    "func": 1,
+    "addon_type": [5],
+    "addon_value": [1184]
+  },
+  {
+    "id": 5206,
+    "quality": 2,
+    "func": 1,
+    "addon_type": [6],
+    "addon_value": [1184]
+  },
+  {
+    "id": 5207,
+    "quality": 2,
+    "func": 1,
+    "addon_type": [7],
+    "addon_value": [1184]
+  },
+  {
+    "id": 5208,
+    "quality": 2,
+    "func": 1,
+    "addon_type": [8],
+    "addon_value": [1184]
+  },
+  {
+    "id": 5209,
+    "quality": 2,
+    "func": 1,
+    "addon_type": [9],
+    "addon_value": [1184]
+  },
+  {
+    "id": 5210,
+    "quality": 2,
+    "func": 2,
+    "addon_type": [10],
+    "addon_value": [160]
+  },
+  {
+    "id": 5211,
+    "quality": 2,
+    "func": 2,
+    "addon_type": [11],
+    "addon_value": [5]
+  },
+  {
+    "id": 5212,
+    "quality": 2,
+    "func": 2,
+    "addon_type": [12],
+    "addon_value": [160]
+  },
+  {
+    "id": 5213,
+    "quality": 2,
+    "func": 3,
+    "addon_type": [13],
+    "addon_value": [500]
+  },
+  {
+    "id": 5214,
+    "quality": 2,
+    "func": 3,
+    "addon_type": [14],
+    "addon_value": [300]
+  },
+  {
+    "id": 5215,
+    "quality": 2,
+    "func": 3,
+    "addon_type": [15],
+    "addon_value": [300]
+  },
+  {
+    "id": 5301,
+    "quality": 3,
+    "func": 3,
+    "addon_type": [1],
+    "addon_value": [12650]
+  },
+  {
+    "id": 5302,
+    "quality": 3,
+    "func": 3,
+    "addon_type": [2],
+    "addon_value": [1650]
+  },
+  {
+    "id": 5303,
+    "quality": 3,
+    "func": 3,
+    "addon_type": [3],
+    "addon_value": [840]
+  },
+  {
+    "id": 5304,
+    "quality": 3,
+    "func": 1,
+    "addon_type": [4],
+    "addon_value": [1776]
+  },
+  {
+    "id": 5305,
+    "quality": 3,
+    "func": 1,
+    "addon_type": [5],
+    "addon_value": [1776]
+  },
+  {
+    "id": 5306,
+    "quality": 3,
+    "func": 1,
+    "addon_type": [6],
+    "addon_value": [1776]
+  },
+  {
+    "id": 5307,
+    "quality": 3,
+    "func": 1,
+    "addon_type": [7],
+    "addon_value": [1776]
+  },
+  {
+    "id": 5308,
+    "quality": 3,
+    "func": 1,
+    "addon_type": [8],
+    "addon_value": [1776]
+  },
+  {
+    "id": 5309,
+    "quality": 3,
+    "func": 1,
+    "addon_type": [9],
+    "addon_value": [1776]
+  },
+  {
+    "id": 5310,
+    "quality": 3,
+    "func": 2,
+    "addon_type": [10],
+    "addon_value": [200]
+  },
+  {
+    "id": 5311,
+    "quality": 3,
+    "func": 2,
+    "addon_type": [11],
+    "addon_value": [7]
+  },
+  {
+    "id": 5312,
+    "quality": 3,
+    "func": 2,
+    "addon_type": [12],
+    "addon_value": [200]
+  },
+  {
+    "id": 5313,
+    "quality": 3,
+    "func": 3,
+    "addon_type": [13],
+    "addon_value": [650]
+  },
+  {
+    "id": 5314,
+    "quality": 3,
+    "func": 1,
+    "addon_type": [14],
+    "addon_value": [350]
+  },
+  {
+    "id": 5315,
+    "quality": 3,
+    "func": 1,
+    "addon_type": [15],
+    "addon_value": [350]
+  },
+  {
+    "id": 5316,
+    "quality": 3,
+    "func": 2,
+    "addon_type": [2,10],
+    "addon_value": [1500,180]
+  },
+  {
+    "id": 5317,
+    "quality": 3,
+    "func": 2,
+    "addon_type": [3,5],
+    "addon_value": [750,1587]
+  },
+  {
+    "id": 5318,
+    "quality": 3,
+    "func": 3,
+    "addon_type": [1,12],
+    "addon_value": [11427,180]
+  },
+  {
+    "id": 5319,
+    "quality": 3,
+    "func": 3,
+    "addon_type": [7,13],
+    "addon_value": [1587,600]
+  }
+]

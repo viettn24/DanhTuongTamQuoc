@@ -1,0 +1,632 @@
+{
+  "4000" : {
+    "attrs" : {
+      "atk" : 9
+    },
+    "require_level" : 2,
+    "id" : 4000,
+    "quality" : 1
+  },
+  "4001" : {
+    "attrs" : {
+      "def" : 7
+    },
+    "require_level" : 3,
+    "id" : 4001,
+    "quality" : 1
+  },
+  "4002" : {
+    "attrs" : {
+      "maxhp" : 143
+    },
+    "require_level" : 5,
+    "id" : 4002,
+    "quality" : 1
+  },
+  "4003" : {
+    "attrs" : {
+      "def" : 5,
+      "maxhp" : 48
+    },
+    "require_level" : 7,
+    "id" : 4003,
+    "quality" : 1
+  },
+  "4004" : {
+    "attrs" : {
+      "atk" : 6,
+      "maxhp" : 48
+    },
+    "require_level" : 9,
+    "id" : 4004,
+    "quality" : 1
+  },
+  "4005" : {
+    "attrs" : {
+      "atk" : 11
+    },
+    "require_level" : 2,
+    "id" : 4005,
+    "quality" : 1
+  },
+  "4006" : {
+    "attrs" : {
+      "def" : 5
+    },
+    "require_level" : 3,
+    "id" : 4006,
+    "quality" : 1
+  },
+  "4007" : {
+    "attrs" : {
+      "maxhp" : 130
+    },
+    "require_level" : 5,
+    "id" : 4007,
+    "quality" : 1
+  },
+  "4008" : {
+    "attrs" : {
+      "def" : 4,
+      "maxhp" : 43
+    },
+    "require_level" : 7,
+    "id" : 4008,
+    "quality" : 1
+  },
+  "4009" : {
+    "attrs" : {
+      "atk" : 7,
+      "maxhp" : 43
+    },
+    "require_level" : 9,
+    "id" : 4009,
+    "quality" : 1
+  },
+  "4010" : {
+    "attrs" : {
+      "atk" : 14
+    },
+    "require_level" : 2,
+    "id" : 4010,
+    "quality" : 1
+  },
+  "4011" : {
+    "attrs" : {
+      "def" : 3
+    },
+    "require_level" : 3,
+    "id" : 4011,
+    "quality" : 1
+  },
+  "4012" : {
+    "attrs" : {
+      "maxhp" : 117
+    },
+    "require_level" : 5,
+    "id" : 4012,
+    "quality" : 1
+  },
+  "4013" : {
+    "attrs" : {
+      "def" : 2,
+      "maxhp" : 39
+    },
+    "require_level" : 7,
+    "id" : 4013,
+    "quality" : 1
+  },
+  "4014" : {
+    "attrs" : {
+      "atk" : 9,
+      "maxhp" : 39
+    },
+    "require_level" : 9,
+    "id" : 4014,
+    "quality" : 1
+  },
+  "4015" : {
+    "attrs" : {
+      "atk" : 14
+    },
+    "require_level" : 2,
+    "id" : 4015,
+    "quality" : 1
+  },
+  "4016" : {
+    "attrs" : {
+      "def" : 3
+    },
+    "require_level" : 3,
+    "id" : 4016,
+    "quality" : 1
+  },
+  "4017" : {
+    "attrs" : {
+      "maxhp" : 117
+    },
+    "require_level" : 5,
+    "id" : 4017,
+    "quality" : 1
+  },
+  "4018" : {
+    "attrs" : {
+      "def" : 2,
+      "maxhp" : 39
+    },
+    "require_level" : 7,
+    "id" : 4018,
+    "quality" : 1
+  },
+  "4019" : {
+    "attrs" : {
+      "atk" : 9,
+      "maxhp" : 39
+    },
+    "require_level" : 9,
+    "id" : 4019,
+    "quality" : 1
+  },
+  "4020" : {
+    "attrs" : {
+      "atk" : 14
+    },
+    "require_level" : 2,
+    "id" : 4020,
+    "quality" : 1
+  },
+  "4021" : {
+    "attrs" : {
+      "def" : 3
+    },
+    "require_level" : 3,
+    "id" : 4021,
+    "quality" : 1
+  },
+  "4022" : {
+    "attrs" : {
+      "maxhp" : 104
+    },
+    "require_level" : 5,
+    "id" : 4022,
+    "quality" : 1
+  },
+  "4023" : {
+    "attrs" : {
+      "def" : 2,
+      "maxhp" : 35
+    },
+    "require_level" : 7,
+    "id" : 4023,
+    "quality" : 1
+  },
+  "4024" : {
+    "attrs" : {
+      "atk" : 10,
+      "maxhp" : 35
+    },
+    "require_level" : 9,
+    "id" : 4024,
+    "quality" : 1
+  },
+  "4050" : {
+    "attrs" : {
+      "atk" : 27
+    },
+    "require_level" : 12,
+    "id" : 4050,
+    "quality" : 2
+  },
+  "4051" : {
+    "attrs" : {
+      "def" : 21
+    },
+    "require_level" : 13,
+    "id" : 4051,
+    "quality" : 2
+  },
+  "4052" : {
+    "attrs" : {
+      "maxhp" : 453
+    },
+    "require_level" : 15,
+    "id" : 4052,
+    "quality" : 2
+  },
+  "4053" : {
+    "attrs" : {
+      "def" : 14,
+      "maxhp" : 151
+    },
+    "require_level" : 17,
+    "id" : 4053,
+    "quality" : 2
+  },
+  "4054" : {
+    "attrs" : {
+      "atk" : 18,
+      "maxhp" : 151
+    },
+    "require_level" : 19,
+    "id" : 4054,
+    "quality" : 2
+  },
+  "4055" : {
+    "attrs" : {
+      "atk" : 34
+    },
+    "require_level" : 12,
+    "id" : 4055,
+    "quality" : 2
+  },
+  "4056" : {
+    "attrs" : {
+      "def" : 17
+    },
+    "require_level" : 13,
+    "id" : 4056,
+    "quality" : 2
+  },
+  "4057" : {
+    "attrs" : {
+      "maxhp" : 412
+    },
+    "require_level" : 15,
+    "id" : 4057,
+    "quality" : 2
+  },
+  "4058" : {
+    "attrs" : {
+      "def" : 11,
+      "maxhp" : 137
+    },
+    "require_level" : 17,
+    "id" : 4058,
+    "quality" : 2
+  },
+  "4059" : {
+    "attrs" : {
+      "atk" : 23,
+      "maxhp" : 137
+    },
+    "require_level" : 19,
+    "id" : 4059,
+    "quality" : 2
+  },
+  "4060" : {
+    "attrs" : {
+      "atk" : 43
+    },
+    "require_level" : 12,
+    "id" : 4060,
+    "quality" : 2
+  },
+  "4061" : {
+    "attrs" : {
+      "def" : 10
+    },
+    "require_level" : 13,
+    "id" : 4061,
+    "quality" : 2
+  },
+  "4062" : {
+    "attrs" : {
+      "maxhp" : 371
+    },
+    "require_level" : 15,
+    "id" : 4062,
+    "quality" : 2
+  },
+  "4063" : {
+    "attrs" : {
+      "def" : 7,
+      "maxhp" : 124
+    },
+    "require_level" : 17,
+    "id" : 4063,
+    "quality" : 2
+  },
+  "4064" : {
+    "attrs" : {
+      "atk" : 29,
+      "maxhp" : 124
+    },
+    "require_level" : 19,
+    "id" : 4064,
+    "quality" : 2
+  },
+  "4065" : {
+    "attrs" : {
+      "atk" : 43
+    },
+    "require_level" : 12,
+    "id" : 4065,
+    "quality" : 2
+  },
+  "4066" : {
+    "attrs" : {
+      "def" : 10
+    },
+    "require_level" : 13,
+    "id" : 4066,
+    "quality" : 2
+  },
+  "4067" : {
+    "attrs" : {
+      "maxhp" : 371
+    },
+    "require_level" : 15,
+    "id" : 4067,
+    "quality" : 2
+  },
+  "4068" : {
+    "attrs" : {
+      "def" : 7,
+      "maxhp" : 124
+    },
+    "require_level" : 17,
+    "id" : 4068,
+    "quality" : 2
+  },
+  "4069" : {
+    "attrs" : {
+      "atk" : 29,
+      "maxhp" : 124
+    },
+    "require_level" : 19,
+    "id" : 4069,
+    "quality" : 2
+  },
+  "4070" : {
+    "attrs" : {
+      "atk" : 46
+    },
+    "require_level" : 12,
+    "id" : 4070,
+    "quality" : 2
+  },
+  "4071" : {
+    "attrs" : {
+      "def" : 9
+    },
+    "require_level" : 13,
+    "id" : 4071,
+    "quality" : 2
+  },
+  "4072" : {
+    "attrs" : {
+      "maxhp" : 329
+    },
+    "require_level" : 15,
+    "id" : 4072,
+    "quality" : 2
+  },
+  "4073" : {
+    "attrs" : {
+      "def" : 6,
+      "maxhp" : 110
+    },
+    "require_level" : 17,
+    "id" : 4073,
+    "quality" : 2
+  },
+  "4074" : {
+    "attrs" : {
+      "atk" : 31,
+      "maxhp" : 110
+    },
+    "require_level" : 19,
+    "id" : 4074,
+    "quality" : 2
+  },
+  "4100" : {
+    "attrs" : {
+      "atk" : 72
+    },
+    "require_level" : 32,
+    "id" : 4100,
+    "quality" : 3
+  },
+  "4101" : {
+    "attrs" : {
+      "def" : 58
+    },
+    "require_level" : 33,
+    "id" : 4101,
+    "quality" : 3
+  },
+  "4102" : {
+    "attrs" : {
+      "maxhp" : 1200
+    },
+    "require_level" : 35,
+    "id" : 4102,
+    "quality" : 3
+  },
+  "4103" : {
+    "attrs" : {
+      "def" : 38,
+      "maxhp" : 400
+    },
+    "require_level" : 37,
+    "id" : 4103,
+    "quality" : 3
+  },
+  "4104" : {
+    "attrs" : {
+      "atk" : 48,
+      "maxhp" : 400
+    },
+    "require_level" : 39,
+    "id" : 4104,
+    "quality" : 3
+  },
+  "4105" : {
+    "attrs" : {
+      "atk" : 91
+    },
+    "require_level" : 32,
+    "id" : 4105,
+    "quality" : 3
+  },
+  "4106" : {
+    "attrs" : {
+      "def" : 45
+    },
+    "require_level" : 33,
+    "id" : 4106,
+    "quality" : 3
+  },
+  "4107" : {
+    "attrs" : {
+      "maxhp" : 1091
+    },
+    "require_level" : 35,
+    "id" : 4107,
+    "quality" : 3
+  },
+  "4108" : {
+    "attrs" : {
+      "def" : 30,
+      "maxhp" : 364
+    },
+    "require_level" : 37,
+    "id" : 4108,
+    "quality" : 3
+  },
+  "4109" : {
+    "attrs" : {
+      "atk" : 61,
+      "maxhp" : 364
+    },
+    "require_level" : 39,
+    "id" : 4109,
+    "quality" : 3
+  },
+  "4110" : {
+    "attrs" : {
+      "atk" : 114
+    },
+    "require_level" : 32,
+    "id" : 4110,
+    "quality" : 3
+  },
+  "4111" : {
+    "attrs" : {
+      "def" : 26
+    },
+    "require_level" : 33,
+    "id" : 4111,
+    "quality" : 3
+  },
+  "4112" : {
+    "attrs" : {
+      "maxhp" : 982
+    },
+    "require_level" : 35,
+    "id" : 4112,
+    "quality" : 3
+  },
+  "4113" : {
+    "attrs" : {
+      "def" : 18,
+      "maxhp" : 327
+    },
+    "require_level" : 37,
+    "id" : 4113,
+    "quality" : 3
+  },
+  "4114" : {
+    "attrs" : {
+      "atk" : 76,
+      "maxhp" : 327
+    },
+    "require_level" : 39,
+    "id" : 4114,
+    "quality" : 3
+  },
+  "4115" : {
+    "attrs" : {
+      "atk" : 114
+    },
+    "require_level" : 32,
+    "id" : 4115,
+    "quality" : 3
+  },
+  "4116" : {
+    "attrs" : {
+      "def" : 26
+    },
+    "require_level" : 33,
+    "id" : 4116,
+    "quality" : 3
+  },
+  "4117" : {
+    "attrs" : {
+      "maxhp" : 982
+    },
+    "require_level" : 35,
+    "id" : 4117,
+    "quality" : 3
+  },
+  "4118" : {
+    "attrs" : {
+      "def" : 18,
+      "maxhp" : 327
+    },
+    "require_level" : 37,
+    "id" : 4118,
+    "quality" : 3
+  },
+  "4119" : {
+    "attrs" : {
+      "atk" : 76,
+      "maxhp" : 327
+    },
+    "require_level" : 39,
+    "id" : 4119,
+    "quality" : 3
+  },
+  "4120" : {
+    "attrs" : {
+      "atk" : 122
+    },
+    "require_level" : 32,
+    "id" : 4120,
+    "quality" : 3
+  },
+  "4121" : {
+    "attrs" : {
+      "def" : 23
+    },
+    "require_level" : 33,
+    "id" : 4121,
+    "quality" : 3
+  },
+  "4122" : {
+    "attrs" : {
+      "maxhp" : 873
+    },
+    "require_level" : 35,
+    "id" : 4122,
+    "quality" : 3
+  },
+  "4123" : {
+    "attrs" : {
+      "def" : 15,
+      "maxhp" : 291
+    },
+    "require_level" : 37,
+    "id" : 4123,
+    "quality" : 3
+  },
+  "4124" : {
+    "attrs" : {
+      "atk" : 81,
+      "maxhp" : 291
+    },
+    "require_level" : 39,
+    "id" : 4124,
+    "quality" : 3
+  }
+}

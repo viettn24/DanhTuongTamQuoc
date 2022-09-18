@@ -1,0 +1,76 @@
+
+tearSkillName.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bubing
+  rotate: false
+  xy: 379, 177
+  size: 248, 141
+  orig: 248, 141
+  offset: 0, 0
+  index: -1
+huichun
+  rotate: false
+  xy: 639, 321
+  size: 255, 141
+  orig: 255, 141
+  offset: 0, 0
+  index: -1
+liannu
+  rotate: false
+  xy: 2, 91
+  size: 260, 143
+  orig: 260, 143
+  offset: 0, 0
+  index: -1
+luoshi
+  rotate: false
+  xy: 379, 320
+  size: 258, 142
+  orig: 258, 142
+  offset: 0, 0
+  index: -1
+texture_tearSkillName/444
+  rotate: false
+  xy: 2, 28
+  size: 255, 61
+  orig: 255, 61
+  offset: 0, 0
+  index: -1
+texture_tearSkillName/baoji
+  rotate: false
+  xy: 2, 236
+  size: 375, 226
+  orig: 375, 226
+  offset: 0, 0
+  index: -1
+texture_tearSkillName/dian2222
+  rotate: false
+  xy: 264, 156
+  size: 66, 78
+  orig: 66, 78
+  offset: 0, 0
+  index: -1
+texture_tearSkillName/liangguanggg
+  rotate: false
+  xy: 896, 392
+  size: 121, 70
+  orig: 121, 70
+  offset: 0, 0
+  index: -1
+texture_tearSkillName/mo2
+  rotate: false
+  xy: 2, 2
+  size: 96, 24
+  orig: 96, 24
+  offset: 0, 0
+  index: -1
+texture_tearSkillName/moshui
+  rotate: false
+  xy: 639, 175
+  size: 153, 144
+  orig: 153, 144
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,118 @@
+
+tearScreenGentleman.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tearScreenGentleman/daimao1
+  rotate: false
+  xy: 374, 34
+  size: 102, 73
+  orig: 102, 73
+  offset: 0, 0
+  index: -1
+tearScreenGentleman/daimao2
+  rotate: false
+  xy: 900, 79
+  size: 45, 81
+  orig: 45, 81
+  offset: 0, 0
+  index: -1
+tearScreenGentleman/daimaoh
+  rotate: false
+  xy: 799, 88
+  size: 99, 72
+  orig: 99, 72
+  offset: 0, 0
+  index: -1
+tearScreenGentleman/daizi1
+  rotate: false
+  xy: 811, 38
+  size: 86, 48
+  orig: 86, 48
+  offset: 0, 0
+  index: -1
+tearScreenGentleman/daizi2
+  rotate: true
+  xy: 282, 19
+  size: 88, 90
+  orig: 88, 90
+  offset: 0, 0
+  index: -1
+tearScreenGentleman/dddg
+  rotate: false
+  xy: 2, 113
+  size: 293, 123
+  orig: 293, 123
+  offset: 0, 0
+  index: -1
+tearScreenGentleman/dddgg
+  rotate: false
+  xy: 2, 2
+  size: 184, 109
+  orig: 184, 109
+  offset: 0, 0
+  index: -1
+tearScreenGentleman/fasu
+  rotate: false
+  xy: 297, 109
+  size: 209, 127
+  orig: 209, 127
+  offset: 0, 0
+  index: -1
+tearScreenGentleman/gggggggg
+  rotate: false
+  xy: 508, 70
+  size: 169, 148
+  orig: 169, 148
+  offset: 0, 0
+  index: -1
+tearScreenGentleman/qunbai1
+  rotate: true
+  xy: 820, 275
+  size: 235, 165
+  orig: 235, 165
+  offset: 0, 0
+  index: -1
+tearScreenGentleman/qunbai2
+  rotate: true
+  xy: 679, 74
+  size: 144, 118
+  orig: 144, 118
+  offset: 0, 0
+  index: -1
+tearScreenGentleman/shenti
+  rotate: true
+  xy: 820, 162
+  size: 111, 147
+  orig: 111, 147
+  offset: 0, 0
+  index: -1
+tearScreenGentleman/tou
+  rotate: false
+  xy: 188, 20
+  size: 92, 91
+  orig: 92, 91
+  offset: 0, 0
+  index: -1
+tearScreenGentleman/xiati
+  rotate: true
+  xy: 514, 220
+  size: 290, 304
+  orig: 290, 304
+  offset: 0, 0
+  index: -1
+tearScreenGentleman/youshou
+  rotate: false
+  xy: 679, 2
+  size: 130, 70
+  orig: 130, 70
+  offset: 0, 0
+  index: -1
+tearScreenGentleman/zuoshou
+  rotate: false
+  xy: 2, 238
+  size: 510, 272
+  orig: 510, 272
+  offset: 0, 0
+  index: -1

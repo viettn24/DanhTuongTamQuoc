@@ -1,0 +1,258 @@
+{
+ "vip_levels": [{
+     "text": [["mỗi ngày có thể sử dụng","1","lượt Điểm Kim tay"], ["mỗi ngày Có thể mua","5","cái luyện binh chỉ nam"], ["mỗi ngày Có thể mua","5","cái Kim Bảo rương"], ["mỗi ngày Có thể mua","5","cái Ngân Bảo rương"], ["mỗi ngày Có thể mua","1","lượt Thể lực"], ["mỗi ngày Có thể mua","5","cá nhân tham"], ["mỗi ngày có thể Miễn phí làm mới","1","lượt chợ đêm"], ["mỗi ngày có thể trả tiền làm mới","6","lượt Quân nhu chỗ"]],
+     "num": 0,
+     "award": [[1450, 100000]]
+    }, {
+     "text": [["tích lũy Nạp Tiền","0","Kim khối có thể Kích hoạt"], ["bao hàm","VIP 0","sở hữu đặc quyền"], ["mỗi ngày Có thể nhận","20","trương uỷ dụ"], ["mỗi ngày có thể sử dụng","5","lượt Điểm Kim tay"], ["mỗi ngày Có thể mua","20","cái luyện binh chỉ nam"], ["mỗi ngày Có thể mua","20","cái Kim Bảo rương"], ["mỗi ngày Có thể mua","20","cái Ngân Bảo rương"], ["mỗi ngày Có thể mua","2","lượt Thể lực"], ["mỗi ngày Có thể mua","10","cá nhân tham"], ["mỗi ngày có thể Miễn phí làm mới","2","lượt chợ đêm"], ["mỗi ngày có thể trả tiền làm mới","6","lượt Quân nhu chỗ"], ["mỗi ngày Có thể mua","1","lượt Anh Hùng lịch lãm Số lần"]],
+     "num": 0,
+     "award": [[1010, 5], [1450, 200000]]
+    }, {
+     "text": [["tích lũy Nạp Tiền","0","Kim khối có thể Kích hoạt"], ["bao hàm","VIP 1","sở hữu đặc quyền"], ["mỗi ngày Có thể nhận","25","trương uỷ dụ"], ["mỗi ngày có thể sử dụng","10","lượt Điểm Kim tay"], ["mỗi ngày Có thể mua","30","cái luyện binh chỉ nam"], ["mỗi ngày Có thể mua","30","cái Kim Bảo rương"], ["mỗi ngày Có thể mua","30","cái Ngân Bảo rương"], ["mỗi ngày Có thể mua","3","lượt Thể lực"], ["mỗi ngày Có thể mua","20","cá nhân tham"], ["mỗi ngày có thể Miễn phí làm mới","3","lượt chợ đêm"], ["mỗi ngày có thể trả tiền làm mới","6","lượt Quân nhu chỗ"]],
+     "num": 0,
+     "award": [[1010, 5], [1450, 220000]]
+    }, {
+     "text": [["tích lũy Nạp Tiền","0","Kim khối có thể Kích hoạt"], ["bao hàm","VIP 2","sở hữu đặc quyền"], ["mỗi ngày Có thể nhận","30","trương uỷ dụ"], ["mỗi ngày có thể sử dụng","20","lượt Điểm Kim tay"], ["mỗi ngày Có thể mua","40","cái luyện binh chỉ nam"], ["mỗi ngày Có thể mua","40","cái Kim Bảo rương"], ["mỗi ngày Có thể mua","40","cái Ngân Bảo rương"], ["mỗi ngày Có thể mua","4","lượt Thể lực"], ["mỗi ngày Có thể mua","1","lượt Sử Thi chiến dịch Số lần"], ["mỗi ngày Có thể mua","30","cá nhân tham"], ["mỗi ngày có thể Miễn phí làm mới","4","lượt chợ đêm"], ["mỗi ngày có thể trả tiền làm mới","6","lượt Quân nhu chỗ"]],
+     "num": 0,
+     "award": [[1010, 10], [1450, 240000]]
+    }, {
+     "text": [["tích lũy Nạp Tiền","0","Kim khối có thể Kích hoạt"], ["bao hàm","VIP 3","sở hữu đặc quyền"], ["mỗi ngày Có thể nhận","35","trương uỷ dụ"], ["mỗi ngày có thể sử dụng","30","lượt Điểm Kim tay"], ["mỗi ngày Có thể mua","50","cái luyện binh chỉ nam"], ["mỗi ngày Có thể mua","55","cái Kim Bảo rương"], ["mỗi ngày Có thể mua","55","cái Ngân Bảo rương"], ["mỗi ngày Có thể mua","5","lượt Thể lực"], ["mỗi ngày Có thể mua","40","cá nhân tham"], ["mỗi ngày có thể Miễn phí làm mới","5","lượt chợ đêm"], ["mỗi ngày có thể trả tiền làm mới","6","lượt Quân nhu chỗ"]],
+     "num": 0,
+     "award": [[1010, 20], [1450, 260000]]
+    }, {
+     "text": [["tích lũy Nạp Tiền","0","Kim khối có thể Kích hoạt"], ["bao hàm","VIP 4","sở hữu đặc quyền"], ["mỗi ngày Có thể nhận","45","trương uỷ dụ"], ["mỗi ngày có thể sử dụng","40","lượt Điểm Kim tay"], ["mỗi ngày Có thể mua","70","cái luyện binh chỉ nam"], ["mỗi ngày Có thể mua","70","cái Kim Bảo rương"], ["mỗi ngày Có thể mua","70","cái Ngân Bảo rương"], ["mỗi ngày Có thể mua","6","lượt Thể lực"], ["mỗi ngày Có thể mua","50","cá nhân tham"], ["mỗi ngày Có thể mua","2","lượt Anh Hùng lịch lãm"], ["mỗi ngày có thể Miễn phí làm mới","6","lượt chợ đêm"], ["mỗi ngày có thể trả tiền làm mới","8","lượt Quân nhu chỗ"]],
+     "num": 0,
+     "award": [[1010, 30], [1450, 280000]]
+    }, {
+     "text": [["tích lũy Nạp Tiền","0","Kim khối có thể Kích hoạt"], ["bao hàm","VIP 5","sở hữu đặc quyền"], ["mỗi ngày Có thể nhận","60","trương uỷ dụ"], ["mỗi ngày có thể sử dụng","50","lượt Điểm Kim tay"], ["mỗi ngày Có thể mua","95","cái luyện binh chỉ nam"], ["mỗi ngày Có thể mua","100","cái Kim Bảo rương"], ["mỗi ngày Có thể mua","100","cái Ngân Bảo rương"], ["mỗi ngày Có thể mua","7","lượt Thể lực"], ["mỗi ngày Có thể mua","2","lượt Sử Thi chiến dịch Số lần"], ["mỗi ngày có thể Miễn phí làm mới","7","lượt chợ đêm"], ["mỗi ngày có thể trả tiền làm mới","8","lượt Quân nhu chỗ"]],
+     "num": 0,
+     "award": [[1010, 40], [1450, 300000]]
+    }, {
+     "text": [["tích lũy Nạp Tiền","3000","Kim khối có thể Kích hoạt"], ["bao hàm","VIP 6","sở hữu đặc quyền"], ["mỗi ngày Có thể nhận","75","trương uỷ dụ"], ["mỗi ngày có thể sử dụng","60","lượt Điểm Kim tay"], ["mỗi ngày Có thể mua","130","cái luyện binh chỉ nam"], ["mỗi ngày Có thể mua","140","cái Kim Bảo rương"], ["mỗi ngày Có thể mua","140","cái Ngân Bảo rương"], ["mỗi ngày Có thể mua","8","lượt Thể lực"], ["mỗi ngày Có thể mua","70","cá nhân tham"], ["mỗi ngày có thể Miễn phí làm mới","8","lượt chợ đêm"], ["mỗi ngày có thể trả tiền làm mới","8","lượt Quân nhu chỗ"], ["mỗi ngày có thể Trọng trí","2","lượt quá quan trảm tướng"]],
+     "num": 3000,
+     "award": [[1010, 60], [1450, 320000]]
+    }, {
+     "text": [["tích lũy Nạp Tiền","15000","Kim khối có thể Kích hoạt"], ["bao hàm","VIP 7","sở hữu đặc quyền"], ["mỗi ngày Có thể nhận","95","trương uỷ dụ"], ["mỗi ngày có thể sử dụng","75","lượt Điểm Kim tay"], ["mỗi ngày Có thể mua","180","cái luyện binh chỉ nam"], ["mỗi ngày Có thể mua","190","cái Kim Bảo rương"], ["mỗi ngày Có thể mua","190","cái Ngân Bảo rương"], ["mỗi ngày Có thể mua","10","lượt Thể lực"], ["mỗi ngày Có thể mua","100","cá nhân tham"], ["mỗi ngày có thể Miễn phí làm mới","9","lượt chợ đêm"], ["mỗi ngày có thể trả tiền làm mới","8","lượt Quân nhu chỗ"]],
+     "num": 15000,
+     "award": [[1010, 75], [1450, 340000]]
+    }, {
+     "text": [["tích lũy Nạp Tiền","50000","Kim khối có thể Kích hoạt"], ["bao hàm","VIP 8","sở hữu đặc quyền"], ["mỗi ngày Có thể nhận","120","trương uỷ dụ"], ["mỗi ngày có thể sử dụng","90","lượt Điểm Kim tay"], ["mỗi ngày Có thể mua","250","cái luyện binh chỉ nam"], ["mỗi ngày Có thể mua","270","cái Kim Bảo rương"], ["mỗi ngày Có thể mua","270","cái Ngân Bảo rương"], ["mỗi ngày Có thể mua","12","lượt Thể lực"], ["mỗi ngày Có thể mua","150","cá nhân tham"], ["mỗi ngày Có thể mua","3","lượt Anh Hùng lịch lãm"], ["mỗi ngày Có thể mua","3","lượt Sử Thi chiến dịch Số lần"], ["mỗi ngày có thể Miễn phí làm mới","11","lượt chợ đêm"], ["mỗi ngày có thể trả tiền làm mới","8","lượt Quân nhu chỗ"]],
+     "num": 50000,
+     "award": [[1010, 95], [1450, 360000]]
+    }, {
+     "text": [["tích lũy Nạp Tiền","250000","Kim khối có thể Kích hoạt"], ["bao hàm","VIP 9","sở hữu đặc quyền"], ["mỗi ngày Có thể nhận","150","trương uỷ dụ"], ["mỗi ngày có thể sử dụng","120","lượt Điểm Kim tay"], ["mỗi ngày Có thể mua","400","cái luyện binh chỉ nam"], ["mỗi ngày Có thể mua","350","cái Kim Bảo rương"], ["mỗi ngày Có thể mua","350","cái Ngân Bảo rương"], ["mỗi ngày Có thể mua","15","lượt Thể lực"], ["mỗi ngày Có thể mua","4","lượt Anh Hùng lịch lãm Số lần"], ["mỗi ngày Có thể mua","200","cá nhân tham"], ["mỗi ngày có thể Trọng trí","2","lượt quá quan trảm tướng"], ["mỗi ngày có thể Miễn phí làm mới","12","lượt chợ đêm"], ["mỗi ngày có thể trả tiền làm mới","10","lượt Quân nhu chỗ"]],
+     "num": 250000,
+     "award": [[1010, 120], [1450, 380000]]
+    }, {
+     "text": [["tích lũy Nạp Tiền","500000","Kim khối có thể Kích hoạt"], ["bao hàm","VIP 10","sở hữu đặc quyền"], ["mỗi ngày Có thể nhận","180","trương uỷ dụ"], ["mỗi ngày có thể sử dụng","150","lượt Điểm Kim tay"], ["mỗi ngày Có thể mua","500","cái luyện binh chỉ nam"], ["mỗi ngày Có thể mua","430","cái Kim Bảo rương"], ["mỗi ngày Có thể mua","430","cái Ngân Bảo rương"], ["mỗi ngày Có thể mua","18","lượt Thể lực"], ["mỗi ngày Có thể mua","5","lượt Anh Hùng lịch lãm Số lần"], ["mỗi ngày Có thể mua","250","cá nhân tham"], ["mỗi ngày có thể Trọng trí","3","lượt quá quan trảm tướng"], ["mỗi ngày có thể Miễn phí làm mới","13","lượt chợ đêm"], ["mỗi ngày có thể trả tiền làm mới","12","lượt Quân nhu chỗ"]],
+     "num": 500000,
+     "award": [[1010, 150], [1450, 400000]]
+    }, {
+     "text": [["tích lũy Nạp Tiền","1500000","Kim khối có thể Kích hoạt"], ["bao hàm","VIP 11","sở hữu đặc quyền"], ["mỗi ngày Có thể nhận","210","trương uỷ dụ"], ["mỗi ngày có thể sử dụng","180","lượt Điểm Kim tay"], ["mỗi ngày Có thể mua","600","cái luyện binh chỉ nam"], ["mỗi ngày Có thể mua","510","cái Kim Bảo rương"], ["mỗi ngày Có thể mua","510","cái Ngân Bảo rương"], ["mỗi ngày Có thể mua","21","lượt Thể lực"], ["mỗi ngày Có thể mua","6","lượt Anh Hùng lịch lãm Số lần"], ["mỗi ngày Có thể mua","300","cá nhân tham"], ["mỗi ngày có thể Trọng trí","3","lượt quá quan trảm tướng"], ["mỗi ngày có thể Miễn phí làm mới","14","lượt chợ đêm"], ["mỗi ngày có thể trả tiền làm mới","14","lượt Quân nhu chỗ"]],
+     "num": 1500000,
+     "award": [[1010, 200], [1450, 420000]]
+    }, {
+     "text": [["tích lũy Nạp Tiền","2500000","Kim khối có thể Kích hoạt"], ["bao hàm","VIP 12","sở hữu đặc quyền"], ["mỗi ngày Có thể nhận","240","trương uỷ dụ"], ["mỗi ngày có thể sử dụng","210","lượt Điểm Kim tay"], ["mỗi ngày Có thể mua","700","cái luyện binh chỉ nam"], ["mỗi ngày Có thể mua","590","cái Kim Bảo rương"], ["mỗi ngày Có thể mua","590","cái Ngân Bảo rương"], ["mỗi ngày Có thể mua","24","lượt Thể lực"], ["mỗi ngày Có thể mua","7","lượt Anh Hùng lịch lãm Số lần"], ["mỗi ngày Có thể mua","350","cá nhân tham"], ["mỗi ngày có thể Trọng trí","4","lượt quá quan trảm tướng"], ["mỗi ngày có thể Miễn phí làm mới","15","lượt chợ đêm"], ["mỗi ngày có thể trả tiền làm mới","16","lượt Quân nhu chỗ"]],
+     "num": 2500000,
+     "award": [[1010, 250], [1450, 440000]]
+    }
+ ],
+ "payment": [{
+     "recommend": true,
+     "name":"nguyệt tạp thêm 3000Kim khối",
+     "times": [[3000, 0, 0], [1000, 0, 0]],
+     "sort": 1,
+     "rmb": 6,
+     "icon":"charge8.png",
+     "type": 0,
+     "product_id":"com.taoyuan.usbiot.yueka01"
+    }, {
+     "recommend": true,
+     "name":"Năm tạp thêm 15000Kim khối",
+     "times": [[15000, 0, 0], [3000, 0, 0]],
+     "sort": 2,
+     "rmb": 30,
+     "icon":"charge9.png",
+     "type": 1,
+     "product_id":"com.taoyuan.usbiot.yueka02"
+    }, {
+     "recommend": true,
+     "name":"3000Kim khối",
+     "times": [[3000, 6000, 1], [3000, 0, 0]],
+     "sort": 3,
+     "rmb": 6,
+     "icon":"charge1.png",
+     "type": 2,
+     "product_id":"com.taoyuan.usbiot.diamond01"
+    }, {
+     "recommend": true,
+     "name":"15000Kim khối",
+     "times": [[15000, 30000, 1], [15000, 0, 0]],
+     "sort": 4,
+     "rmb": 30,
+     "icon":"charge3.png",
+     "type": 2,
+     "product_id":"com.taoyuan.usbiot.diamond02"
+    }, {
+     "recommend": true,
+     "name":"49000Kim khối",
+     "times": [[49000, 98000, 1], [49000, 0, 0]],
+     "sort": 5,
+     "rmb": 98,
+     "icon":"charge4.png",
+     "type": 2,
+     "product_id":"com.taoyuan.usbiot.diamond03"
+    }, {
+     "recommend": true,
+     "name":"99000Kim khối",
+     "times": [[99000, 198000, 1], [99000, 0, 0]],
+     "sort": 6,
+     "rmb": 198,
+     "icon":"charge5.png",
+     "type": 2,
+     "product_id":"com.taoyuan.usbiot.diamond04"
+    }, {
+     "recommend": true,
+     "name":"164000Kim khối",
+     "times": [[164000, 328000, 1], [164000, 0, 0]],
+     "sort": 7,
+     "rmb": 328,
+     "icon":"charge6.png",
+     "type": 2,
+     "product_id":"com.taoyuan.usbiot.diamond05"
+    }, {
+     "recommend": true,
+     "name":"324000Kim khối",
+     "times": [[324000, 648000, 1], [324000, 0, 0]],
+     "sort": 8,
+     "rmb": 648,
+     "icon":"charge7.png",
+     "type": 2,
+     "product_id":"com.taoyuan.usbiot.diamond06"
+    }, {
+     "recommend": true,
+     "name":"500000Kim khối",
+     "times": [[500000, 1000000, 1], [500000, 0, 0]],
+     "sort": 8,
+     "rmb": 1000,
+     "icon":"charge7.png",
+     "type": 2,
+     "product_id":"rmb1000"
+    }, {
+     "recommend": true,
+     "name":"1000000Kim khối",
+     "times": [[1000000, 2000000, 1], [1000000, 0, 0]],
+     "sort": 8,
+     "rmb": 2000,
+     "icon":"charge7.png",
+     "type": 2,
+     "product_id":"rmb2000"
+    }, {
+     "recommend": true,
+     "name":"1500000Kim khối",
+     "times": [[1500000, 3000000, 1], [1500000, 0, 0]],
+     "sort": 8,
+     "rmb": 3000,
+     "icon":"charge7.png",
+     "type": 2,
+     "product_id":"rmb3000"
+    }, {
+     "recommend": true,
+     "name":"2500000Kim khối",
+     "times": [[2500000, 5000000, 1], [2500000, 0, 0]],
+     "sort": 8,
+     "rmb": 5000,
+     "icon":"charge7.png",
+     "type": 2,
+     "product_id":"rmb5000"
+    }, {
+     "recommend": true,
+     "name":"5000000Kim khối",
+     "times": [[5000000, 10000000, 1], [5000000, 0, 0]],
+     "sort": 8,
+     "rmb": 10000,
+     "icon":"charge7.png",
+     "type": 2,
+     "product_id":"rmb10000"
+    }
+ ],
+ "activityProducts": {
+   "100": {
+     "rmb": 50,
+     "name":"Anh Hùng Quà tặng 1",
+     "product_id":"com.taoyuan.usbiot.herolibao101"
+    },
+   "101": {
+     "rmb": 50,
+     "name":"Anh Hùng Quà tặng 2",
+     "product_id":"com.taoyuan.usbiot.herolibao102"
+    },
+   "102": {
+     "rmb": 50,
+     "name":"Anh Hùng Quà tặng 3",
+     "product_id":"com.taoyuan.usbiot.herolibao103"
+    },
+   "103": {
+     "rmb": 50,
+     "name":"Anh Hùng Quà tặng 4"
+    },
+   "104": {
+     "rmb": 50,
+     "name":"Anh Hùng Quà tặng 5"
+    },
+   "300": {
+     "rmb": 1,
+     "name":"Thiếu Niên quỹ 1",
+     "product_id":"com.taoyuan.usbiot.qcjj301"
+    },
+   "301": {
+     "rmb": 3,
+     "name":"Thiếu Niên quỹ 2",
+     "product_id":"com.taoyuan.usbiot.qcjj302"
+    },
+   "302": {
+     "rmb": 6,
+     "name":"Thiếu Niên quỹ 3",
+     "product_id":"com.taoyuan.usbiot.qcjj303"
+    },
+   "1000": {
+     "rmb": 98,
+     "name":"trưởng thành quỹ",
+     "product_id":"com.taoyuan.usbiot.czjj1001"
+    }
+  },
+ "first_charge": {
+   "items": [[20, 1], [16, 1], [27, 1], [1002, 500]],
+   "pics": ["",""]
+  },
+ "packs": [{
+     "items": [[1450, 10000]]
+    }, {
+     "items": [[1450, 10000]]
+    }, {
+     "items": [[1450, 10000]]
+    }, {
+     "items": [[1450, 10000]]
+    }, {
+     "items": [[1450, 10000]]
+    }, {
+     "items": [[1450, 10000]]
+    }, {
+     "items": [[1205, 2], [1061, 2], [1603, 5], [1103, 5]]
+    }, {
+     "items": [[1205, 5], [1061, 3], [1603, 10], [1103, 10]]
+    }, {
+     "items": [[1001, 10], [1062, 5], [1205, 10], [1603, 20], [1103, 20]]
+    }, {
+     "items": [[1622, 4], [1062, 8], [1205, 20], [1603, 40], [1103, 40]]
+    }, {
+     "items": [[195, 1], [1062, 12], [1205, 40], [1603, 100], [1103, 100]]
+    }, {
+     "items": [[195, 2], [1062, 20], [1205, 60], [1603, 300], [1103, 300], [1605, 1]]
+    }, {
+     "items": [[195, 4], [1063, 20], [1205, 80], [1603, 500], [1103, 500], [1605, 3]]
+    }, {
+     "items": [[195, 8], [1063, 30], [1205, 100], [1603, 800], [1103, 800], [1605, 5]]
+    }
+ ]
+}

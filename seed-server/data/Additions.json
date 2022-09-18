@@ -1,0 +1,4926 @@
+{
+  "192" : {
+    "rate" : {
+      "def" : 13
+    },
+    "id" : 192,
+    "tri_coef" : [ 111, 114 ],
+    "tri_type" : 2
+  },
+  "193" : {
+    "rate" : {
+      "maxhp" : 11
+    },
+    "id" : 193,
+    "tri_coef" : [ 111, 121 ],
+    "tri_type" : 2
+  },
+  "194" : {
+    "rate" : {
+      "maxhp" : 12
+    },
+    "id" : 194,
+    "tri_coef" : [ 112, 123 ],
+    "tri_type" : 2
+  },
+  "195" : {
+    "rate" : {
+      "maxhp" : 11
+    },
+    "id" : 195,
+    "tri_coef" : [ 112, 140 ],
+    "tri_type" : 2
+  },
+  "196" : {
+    "rate" : {
+      "atk" : 7
+    },
+    "id" : 196,
+    "tri_coef" : [ 113, 101 ],
+    "tri_type" : 2
+  },
+  "197" : {
+    "rate" : {
+      "def" : 13
+    },
+    "id" : 197,
+    "tri_coef" : [ 113, 109 ],
+    "tri_type" : 2
+  },
+  "198" : {
+    "rate" : {
+      "atk" : 7
+    },
+    "id" : 198,
+    "tri_coef" : [ 114, 121 ],
+    "tri_type" : 2
+  },
+  "199" : {
+    "rate" : {
+      "def" : 13
+    },
+    "id" : 199,
+    "tri_coef" : [ 114, 111 ],
+    "tri_type" : 2
+  },
+  "202" : {
+    "rate" : {
+      "maxhp" : 12
+    },
+    "id" : 202,
+    "tri_coef" : [ 116, 125 ],
+    "tri_type" : 2
+  },
+  "203" : {
+    "rate" : {
+      "atk" : 8
+    },
+    "id" : 203,
+    "tri_coef" : [ 116, 126 ],
+    "tri_type" : 2
+  },
+  "204" : {
+    "rate" : {
+      "maxhp" : 11
+    },
+    "id" : 204,
+    "tri_coef" : [ 117, 118 ],
+    "tri_type" : 2
+  },
+  "205" : {
+    "rate" : {
+      "def" : 12
+    },
+    "id" : 205,
+    "tri_coef" : [ 117, 127 ],
+    "tri_type" : 2
+  },
+  "206" : {
+    "rate" : {
+      "maxhp" : 11
+    },
+    "id" : 206,
+    "tri_coef" : [ 118, 117 ],
+    "tri_type" : 2
+  },
+  "207" : {
+    "rate" : {
+      "def" : 13
+    },
+    "id" : 207,
+    "tri_coef" : [ 118, 119 ],
+    "tri_type" : 2
+  },
+  "208" : {
+    "rate" : {
+      "atk" : 7
+    },
+    "id" : 208,
+    "tri_coef" : [ 119, 126 ],
+    "tri_type" : 2
+  },
+  "209" : {
+    "rate" : {
+      "def" : 13
+    },
+    "id" : 209,
+    "tri_coef" : [ 119, 118 ],
+    "tri_type" : 2
+  },
+  "210" : {
+    "rate" : {
+      "atk" : 8
+    },
+    "id" : 210,
+    "tri_coef" : [ 120, 128 ],
+    "tri_type" : 2
+  },
+  "211" : {
+    "rate" : {
+      "def" : 12
+    },
+    "id" : 211,
+    "tri_coef" : [ 120, 125 ],
+    "tri_type" : 2
+  },
+  "212" : {
+    "rate" : {
+      "atk" : 7
+    },
+    "id" : 212,
+    "tri_coef" : [ 121, 114 ],
+    "tri_type" : 2
+  },
+  "213" : {
+    "rate" : {
+      "maxhp" : 11
+    },
+    "id" : 213,
+    "tri_coef" : [ 121, 111 ],
+    "tri_type" : 2
+  },
+  "214" : {
+    "rate" : {
+      "def" : 14
+    },
+    "id" : 214,
+    "tri_coef" : [ 122, 130 ],
+    "tri_type" : 2
+  },
+  "215" : {
+    "rate" : {
+      "atk" : 8
+    },
+    "id" : 215,
+    "tri_coef" : [ 122, 125 ],
+    "tri_type" : 2
+  },
+  "216" : {
+    "rate" : {
+      "def" : 14
+    },
+    "id" : 216,
+    "tri_coef" : [ 123, 112 ],
+    "tri_type" : 2
+  },
+  "217" : {
+    "rate" : {
+      "maxhp" : 12
+    },
+    "id" : 217,
+    "tri_coef" : [ 123, 115 ],
+    "tri_type" : 2
+  },
+  "218" : {
+    "rate" : {
+      "def" : 14
+    },
+    "id" : 218,
+    "tri_coef" : [ 124, 129 ],
+    "tri_type" : 2
+  },
+  "219" : {
+    "rate" : {
+      "def" : 13
+    },
+    "id" : 219,
+    "tri_coef" : [ 124, 141 ],
+    "tri_type" : 2
+  },
+  "220" : {
+    "rate" : {
+      "def" : 12
+    },
+    "id" : 220,
+    "tri_coef" : [ 125, 120 ],
+    "tri_type" : 2
+  },
+  "221" : {
+    "rate" : {
+      "maxhp" : 12
+    },
+    "id" : 221,
+    "tri_coef" : [ 125, 116 ],
+    "tri_type" : 2
+  },
+  "222" : {
+    "rate" : {
+      "maxhp" : 12
+    },
+    "id" : 222,
+    "tri_coef" : [ 126, 116 ],
+    "tri_type" : 2
+  },
+  "223" : {
+    "rate" : {
+      "atk" : 7
+    },
+    "id" : 223,
+    "tri_coef" : [ 126, 119 ],
+    "tri_type" : 2
+  },
+  "224" : {
+    "rate" : {
+      "atk" : 7
+    },
+    "id" : 224,
+    "tri_coef" : [ 127, 131 ],
+    "tri_type" : 2
+  },
+  "225" : {
+    "rate" : {
+      "def" : 13
+    },
+    "id" : 225,
+    "tri_coef" : [ 127, 117 ],
+    "tri_type" : 2
+  },
+  "226" : {
+    "rate" : {
+      "def" : 14
+    },
+    "id" : 226,
+    "tri_coef" : [ 128, 120 ],
+    "tri_type" : 2
+  },
+  "227" : {
+    "rate" : {
+      "maxhp" : 12
+    },
+    "id" : 227,
+    "tri_coef" : [ 128, 129 ],
+    "tri_type" : 2
+  },
+  "228" : {
+    "rate" : {
+      "atk" : 8
+    },
+    "id" : 228,
+    "tri_coef" : [ 129, 124 ],
+    "tri_type" : 2
+  },
+  "229" : {
+    "rate" : {
+      "maxhp" : 12
+    },
+    "id" : 229,
+    "tri_coef" : [ 129, 128 ],
+    "tri_type" : 2
+  },
+  "230" : {
+    "rate" : {
+      "def" : 14
+    },
+    "id" : 230,
+    "tri_coef" : [ 130, 122 ],
+    "tri_type" : 2
+  },
+  "231" : {
+    "rate" : {
+      "atk" : 8
+    },
+    "id" : 231,
+    "tri_coef" : [ 130, 140 ],
+    "tri_type" : 2
+  },
+  "232" : {
+    "rate" : {
+      "atk" : 8
+    },
+    "id" : 232,
+    "tri_coef" : [ 131, 127 ],
+    "tri_type" : 2
+  },
+  "233" : {
+    "rate" : {
+      "maxhp" : 12
+    },
+    "id" : 233,
+    "tri_coef" : [ 131, 140 ],
+    "tri_type" : 2
+  },
+  "234" : {
+    "rate" : {
+      "maxhp" : 11
+    },
+    "id" : 234,
+    "tri_coef" : [ 132, 141 ],
+    "tri_type" : 2
+  },
+  "235" : {
+    "rate" : {
+      "maxhp" : 12
+    },
+    "id" : 235,
+    "tri_coef" : [ 132, 133 ],
+    "tri_type" : 2
+  },
+  "236" : {
+    "rate" : {
+      "def" : 12
+    },
+    "id" : 236,
+    "tri_coef" : [ 133, 134 ],
+    "tri_type" : 2
+  },
+  "237" : {
+    "rate" : {
+      "maxhp" : 12
+    },
+    "id" : 237,
+    "tri_coef" : [ 133, 132 ],
+    "tri_type" : 2
+  },
+  "238" : {
+    "rate" : {
+      "atk" : 8
+    },
+    "id" : 238,
+    "tri_coef" : [ 134, 135 ],
+    "tri_type" : 2
+  },
+  "239" : {
+    "rate" : {
+      "def" : 12
+    },
+    "id" : 239,
+    "tri_coef" : [ 134, 133 ],
+    "tri_type" : 2
+  },
+  "240" : {
+    "rate" : {
+      "maxhp" : 11
+    },
+    "id" : 240,
+    "tri_coef" : [ 135, 136 ],
+    "tri_type" : 2
+  },
+  "241" : {
+    "rate" : {
+      "atk" : 8
+    },
+    "id" : 241,
+    "tri_coef" : [ 135, 134 ],
+    "tri_type" : 2
+  },
+  "242" : {
+    "rate" : {
+      "def" : 13
+    },
+    "id" : 242,
+    "tri_coef" : [ 136, 137 ],
+    "tri_type" : 2
+  },
+  "243" : {
+    "rate" : {
+      "maxhp" : 11
+    },
+    "id" : 243,
+    "tri_coef" : [ 136, 135 ],
+    "tri_type" : 2
+  },
+  "244" : {
+    "rate" : {
+      "atk" : 7
+    },
+    "id" : 244,
+    "tri_coef" : [ 137, 138 ],
+    "tri_type" : 2
+  },
+  "245" : {
+    "rate" : {
+      "def" : 13
+    },
+    "id" : 245,
+    "tri_coef" : [ 137, 136 ],
+    "tri_type" : 2
+  },
+  "246" : {
+    "rate" : {
+      "maxhp" : 12
+    },
+    "id" : 246,
+    "tri_coef" : [ 138, 123 ],
+    "tri_type" : 2
+  },
+  "247" : {
+    "rate" : {
+      "atk" : 7
+    },
+    "id" : 247,
+    "tri_coef" : [ 138, 137 ],
+    "tri_type" : 2
+  },
+  "248" : {
+    "rate" : {
+      "atk" : 8
+    },
+    "id" : 248,
+    "tri_coef" : [ 139, 115 ],
+    "tri_type" : 2
+  },
+  "249" : {
+    "rate" : {
+      "maxhp" : 12
+    },
+    "id" : 249,
+    "tri_coef" : [ 139, 143 ],
+    "tri_type" : 2
+  },
+  "250" : {
+    "rate" : {
+      "maxhp" : 12
+    },
+    "id" : 250,
+    "tri_coef" : [ 140, 131 ],
+    "tri_type" : 2
+  },
+  "251" : {
+    "rate" : {
+      "atk" : 8
+    },
+    "id" : 251,
+    "tri_coef" : [ 140, 112 ],
+    "tri_type" : 2
+  },
+  "252" : {
+    "rate" : {
+      "maxhp" : 12
+    },
+    "id" : 252,
+    "tri_coef" : [ 141, 124 ],
+    "tri_type" : 2
+  },
+  "253" : {
+    "rate" : {
+      "maxhp" : 11
+    },
+    "id" : 253,
+    "tri_coef" : [ 141, 132 ],
+    "tri_type" : 2
+  },
+  "254" : {
+    "rate" : {
+      "def" : 12
+    },
+    "id" : 254,
+    "tri_coef" : [ 142, 144 ],
+    "tri_type" : 2
+  },
+  "255" : {
+    "rate" : {
+      "maxhp" : 12
+    },
+    "id" : 255,
+    "tri_coef" : [ 142, 139 ],
+    "tri_type" : 2
+  },
+  "298" : {
+    "rate" : {
+      "atk" : 11
+    },
+    "id" : 298,
+    "tri_coef" : [ 256, 103 ],
+    "tri_type" : 2
+  },
+  "2000" : {
+    "rate" : {
+      "maxhp" : 19
+    },
+    "id" : 2000,
+    "tri_coef" : [ 1, 148 ],
+    "tri_type" : 2
+  },
+  "2001" : {
+    "rate" : {
+      "atk" : 13
+    },
+    "id" : 2001,
+    "tri_coef" : [ 1, 16 ],
+    "tri_type" : 2
+  },
+  "2002" : {
+    "rate" : {
+      "atk" : 15
+    },
+    "id" : 2002,
+    "tri_coef" : [ 3113 ],
+    "tri_type" : 1
+  },
+  "2003" : {
+    "rate" : {
+      "maxhp" : 19
+    },
+    "id" : 2003,
+    "tri_coef" : [ 15, 148 ],
+    "tri_type" : 2
+  },
+  "2004" : {
+    "rate" : {
+      "atk" : 13
+    },
+    "id" : 2004,
+    "tri_coef" : [ 15, 16 ],
+    "tri_type" : 2
+  },
+  "2005" : {
+    "rate" : {
+      "atk" : 15
+    },
+    "id" : 2005,
+    "tri_coef" : [ 3113 ],
+    "tri_type" : 1
+  },
+  "2006" : {
+    "rate" : {
+      "maxhp" : 19
+    },
+    "id" : 2006,
+    "tri_coef" : [ 22, 148 ],
+    "tri_type" : 2
+  },
+  "2007" : {
+    "rate" : {
+      "atk" : 13
+    },
+    "id" : 2007,
+    "tri_coef" : [ 22, 16 ],
+    "tri_type" : 2
+  },
+  "2008" : {
+    "rate" : {
+      "atk" : 15
+    },
+    "id" : 2008,
+    "tri_coef" : [ 3113 ],
+    "tri_type" : 1
+  },
+  "2009" : {
+    "rate" : {
+      "maxhp" : 19
+    },
+    "id" : 2009,
+    "tri_coef" : [ 25, 148 ],
+    "tri_type" : 2
+  },
+  "2010" : {
+    "rate" : {
+      "atk" : 13
+    },
+    "id" : 2010,
+    "tri_coef" : [ 25, 16 ],
+    "tri_type" : 2
+  },
+  "2011" : {
+    "rate" : {
+      "atk" : 15
+    },
+    "id" : 2011,
+    "tri_coef" : [ 3113 ],
+    "tri_type" : 1
+  },
+  "2012" : {
+    "rate" : {
+      "maxhp" : 19
+    },
+    "id" : 2012,
+    "tri_coef" : [ 26, 148 ],
+    "tri_type" : 2
+  },
+  "2013" : {
+    "rate" : {
+      "atk" : 13
+    },
+    "id" : 2013,
+    "tri_coef" : [ 26, 16 ],
+    "tri_type" : 2
+  },
+  "2014" : {
+    "rate" : {
+      "atk" : 15
+    },
+    "id" : 2014,
+    "tri_coef" : [ 3113 ],
+    "tri_type" : 1
+  },
+  "2015" : {
+    "rate" : {
+      "maxhp" : 19
+    },
+    "id" : 2015,
+    "tri_coef" : [ 35, 148 ],
+    "tri_type" : 2
+  },
+  "2016" : {
+    "rate" : {
+      "atk" : 13
+    },
+    "id" : 2016,
+    "tri_coef" : [ 35, 16 ],
+    "tri_type" : 2
+  },
+  "2017" : {
+    "rate" : {
+      "atk" : 15
+    },
+    "id" : 2017,
+    "tri_coef" : [ 3113 ],
+    "tri_type" : 1
+  },
+  "2018" : {
+    "rate" : {
+      "maxhp" : 19
+    },
+    "id" : 2018,
+    "tri_coef" : [ 45, 148 ],
+    "tri_type" : 2
+  },
+  "2019" : {
+    "rate" : {
+      "atk" : 13
+    },
+    "id" : 2019,
+    "tri_coef" : [ 45, 16 ],
+    "tri_type" : 2
+  },
+  "2020" : {
+    "rate" : {
+      "atk" : 15
+    },
+    "id" : 2020,
+    "tri_coef" : [ 3113 ],
+    "tri_type" : 1
+  },
+  "2021" : {
+    "rate" : {
+      "maxhp" : 19
+    },
+    "id" : 2021,
+    "tri_coef" : [ 63, 71 ],
+    "tri_type" : 2
+  },
+  "2022" : {
+    "rate" : {
+      "atk" : 13
+    },
+    "id" : 2022,
+    "tri_coef" : [ 63, 76 ],
+    "tri_type" : 2
+  },
+  "2023" : {
+    "rate" : {
+      "atk" : 15
+    },
+    "id" : 2023,
+    "tri_coef" : [ 3010 ],
+    "tri_type" : 1
+  },
+  "2024" : {
+    "rate" : {
+      "maxhp" : 17
+    },
+    "id" : 2024,
+    "tri_coef" : [ 64, 81 ],
+    "tri_type" : 2
+  },
+  "2025" : {
+    "rate" : {
+      "atk" : 11
+    },
+    "id" : 2025,
+    "tri_coef" : [ 64, 76 ],
+    "tri_type" : 2
+  },
+  "2026" : {
+    "rate" : {
+      "def" : 15
+    },
+    "id" : 2026,
+    "tri_coef" : [ 3001 ],
+    "tri_type" : 1
+  },
+  "2027" : {
+    "rate" : {
+      "atk" : 28
+    },
+    "id" : 2027,
+    "tri_coef" : [ 65, 35 ],
+    "tri_type" : 2
+  },
+  "2028" : {
+    "rate" : {
+      "maxhp" : 30
+    },
+    "id" : 2028,
+    "tri_coef" : [ 65, 84 ],
+    "tri_type" : 2
+  },
+  "2029" : {
+    "rate" : {
+      "def" : 26
+    },
+    "id" : 2029,
+    "tri_coef" : [ 3016 ],
+    "tri_type" : 1
+  },
+  "2030" : {
+    "rate" : {
+      "maxhp" : 18
+    },
+    "id" : 2030,
+    "tri_coef" : [ 66, 68 ],
+    "tri_type" : 2
+  },
+  "2031" : {
+    "rate" : {
+      "atk" : 19
+    },
+    "id" : 2031,
+    "tri_coef" : [ 66, 67, 68 ],
+    "tri_type" : 2
+  },
+  "2032" : {
+    "rate" : {
+      "def" : 17
+    },
+    "id" : 2032,
+    "tri_coef" : [ 3103 ],
+    "tri_type" : 1
+  },
+  "2033" : {
+    "rate" : {
+      "maxhp" : 19
+    },
+    "id" : 2033,
+    "tri_coef" : [ 67, 70 ],
+    "tri_type" : 2
+  },
+  "2034" : {
+    "rate" : {
+      "atk" : 19
+    },
+    "id" : 2034,
+    "tri_coef" : [ 67, 68, 66 ],
+    "tri_type" : 2
+  },
+  "2035" : {
+    "rate" : {
+      "def" : 17
+    },
+    "id" : 2035,
+    "tri_coef" : [ 3104 ],
+    "tri_type" : 1
+  },
+  "2036" : {
+    "rate" : {
+      "maxhp" : 17
+    },
+    "id" : 2036,
+    "tri_coef" : [ 68, 66 ],
+    "tri_type" : 2
+  },
+  "2037" : {
+    "rate" : {
+      "atk" : 19
+    },
+    "id" : 2037,
+    "tri_coef" : [ 68, 67, 66 ],
+    "tri_type" : 2
+  },
+  "2038" : {
+    "rate" : {
+      "def" : 17
+    },
+    "id" : 2038,
+    "tri_coef" : [ 3011 ],
+    "tri_type" : 1
+  },
+  "2039" : {
+    "rate" : {
+      "maxhp" : 17
+    },
+    "id" : 2039,
+    "tri_coef" : [ 69, 77 ],
+    "tri_type" : 2
+  },
+  "2040" : {
+    "rate" : {
+      "atk" : 13
+    },
+    "id" : 2040,
+    "tri_coef" : [ 69, 78 ],
+    "tri_type" : 2
+  },
+  "2041" : {
+    "rate" : {
+      "def" : 17
+    },
+    "id" : 2041,
+    "tri_coef" : [ 3007 ],
+    "tri_type" : 1
+  },
+  "2042" : {
+    "rate" : {
+      "atk" : 11
+    },
+    "id" : 2042,
+    "tri_coef" : [ 70, 66 ],
+    "tri_type" : 2
+  },
+  "2043" : {
+    "rate" : {
+      "maxhp" : 19
+    },
+    "id" : 2043,
+    "tri_coef" : [ 70, 67 ],
+    "tri_type" : 2
+  },
+  "2044" : {
+    "rate" : {
+      "def" : 17
+    },
+    "id" : 2044,
+    "tri_coef" : [ 3008 ],
+    "tri_type" : 1
+  },
+  "2045" : {
+    "rate" : {
+      "atk" : 13
+    },
+    "id" : 2045,
+    "tri_coef" : [ 71, 63 ],
+    "tri_type" : 2
+  },
+  "2046" : {
+    "rate" : {
+      "maxhp" : 17
+    },
+    "id" : 2046,
+    "tri_coef" : [ 71, 72 ],
+    "tri_type" : 2
+  },
+  "2047" : {
+    "rate" : {
+      "def" : 17
+    },
+    "id" : 2047,
+    "tri_coef" : [ 3104 ],
+    "tri_type" : 1
+  },
+  "2048" : {
+    "rate" : {
+      "maxhp" : 23
+    },
+    "id" : 2048,
+    "tri_coef" : [ 72, 71 ],
+    "tri_type" : 2
+  },
+  "2049" : {
+    "rate" : {
+      "atk" : 20
+    },
+    "id" : 2049,
+    "tri_coef" : [ 72, 101, 82 ],
+    "tri_type" : 2
+  },
+  "2050" : {
+    "rate" : {
+      "def" : 17
+    },
+    "id" : 2050,
+    "tri_coef" : [ 3104 ],
+    "tri_type" : 1
+  },
+  "2051" : {
+    "rate" : {
+      "maxhp" : 20
+    },
+    "id" : 2051,
+    "tri_coef" : [ 73, 83 ],
+    "tri_type" : 2
+  },
+  "2052" : {
+    "rate" : {
+      "atk" : 19
+    },
+    "id" : 2052,
+    "tri_coef" : [ 73, 75, 74 ],
+    "tri_type" : 2
+  },
+  "2053" : {
+    "rate" : {
+      "atk" : 11
+    },
+    "id" : 2053,
+    "tri_coef" : [ 3102 ],
+    "tri_type" : 1
+  },
+  "2054" : {
+    "rate" : {
+      "maxhp" : 18
+    },
+    "id" : 2054,
+    "tri_coef" : [ 74, 82 ],
+    "tri_type" : 2
+  },
+  "2055" : {
+    "rate" : {
+      "atk" : 19
+    },
+    "id" : 2055,
+    "tri_coef" : [ 74, 75, 73 ],
+    "tri_type" : 2
+  },
+  "2056" : {
+    "rate" : {
+      "atk" : 15
+    },
+    "id" : 2056,
+    "tri_coef" : [ 3108 ],
+    "tri_type" : 1
+  },
+  "2057" : {
+    "rate" : {
+      "maxhp" : 19
+    },
+    "id" : 2057,
+    "tri_coef" : [ 75, 97 ],
+    "tri_type" : 2
+  },
+  "2058" : {
+    "rate" : {
+      "atk" : 19
+    },
+    "id" : 2058,
+    "tri_coef" : [ 75, 74, 73 ],
+    "tri_type" : 2
+  },
+  "2059" : {
+    "rate" : {
+      "def" : 17
+    },
+    "id" : 2059,
+    "tri_coef" : [ 3111 ],
+    "tri_type" : 1
+  },
+  "2060" : {
+    "rate" : {
+      "atk" : 13
+    },
+    "id" : 2060,
+    "tri_coef" : [ 76, 63 ],
+    "tri_type" : 2
+  },
+  "2061" : {
+    "rate" : {
+      "atk" : 11
+    },
+    "id" : 2061,
+    "tri_coef" : [ 76, 64 ],
+    "tri_type" : 2
+  },
+  "2062" : {
+    "rate" : {
+      "atk" : 15
+    },
+    "id" : 2062,
+    "tri_coef" : [ 3010 ],
+    "tri_type" : 1
+  },
+  "2063" : {
+    "rate" : {
+      "maxhp" : 17
+    },
+    "id" : 2063,
+    "tri_coef" : [ 77, 69 ],
+    "tri_type" : 2
+  },
+  "2064" : {
+    "rate" : {
+      "def" : 17
+    },
+    "id" : 2064,
+    "tri_coef" : [ 77, 109 ],
+    "tri_type" : 2
+  },
+  "2065" : {
+    "rate" : {
+      "def" : 17
+    },
+    "id" : 2065,
+    "tri_coef" : [ 3103 ],
+    "tri_type" : 1
+  },
+  "2066" : {
+    "rate" : {
+      "atk" : 13
+    },
+    "id" : 2066,
+    "tri_coef" : [ 78, 69 ],
+    "tri_type" : 2
+  },
+  "2067" : {
+    "rate" : {
+      "maxhp" : 20
+    },
+    "id" : 2067,
+    "tri_coef" : [ 78, 81, 83 ],
+    "tri_type" : 2
+  },
+  "2068" : {
+    "rate" : {
+      "atk" : 15
+    },
+    "id" : 2068,
+    "tri_coef" : [ 3006 ],
+    "tri_type" : 1
+  },
+  "2072" : {
+    "rate" : {
+      "maxhp" : 20
+    },
+    "id" : 2072,
+    "tri_coef" : [ 80, 82 ],
+    "tri_type" : 2
+  },
+  "2073" : {
+    "rate" : {
+      "atk" : 12
+    },
+    "id" : 2073,
+    "tri_coef" : [ 80, 65 ],
+    "tri_type" : 2
+  },
+  "2074" : {
+    "rate" : {
+      "def" : 17
+    },
+    "id" : 2074,
+    "tri_coef" : [ 3103 ],
+    "tri_type" : 1
+  },
+  "2075" : {
+    "rate" : {
+      "maxhp" : 17
+    },
+    "id" : 2075,
+    "tri_coef" : [ 81, 64 ],
+    "tri_type" : 2
+  },
+  "2076" : {
+    "rate" : {
+      "maxhp" : 23
+    },
+    "id" : 2076,
+    "tri_coef" : [ 81, 78, 83 ],
+    "tri_type" : 2
+  },
+  "2077" : {
+    "rate" : {
+      "atk" : 15
+    },
+    "id" : 2077,
+    "tri_coef" : [ 3010 ],
+    "tri_type" : 1
+  },
+  "2078" : {
+    "rate" : {
+      "maxhp" : 20
+    },
+    "id" : 2078,
+    "tri_coef" : [ 82, 83 ],
+    "tri_type" : 2
+  },
+  "2079" : {
+    "rate" : {
+      "atk" : 20
+    },
+    "id" : 2079,
+    "tri_coef" : [ 82, 72, 101 ],
+    "tri_type" : 2
+  },
+  "2080" : {
+    "rate" : {
+      "def" : 17
+    },
+    "id" : 2080,
+    "tri_coef" : [ 3103 ],
+    "tri_type" : 1
+  },
+  "2081" : {
+    "rate" : {
+      "maxhp" : 20
+    },
+    "id" : 2081,
+    "tri_coef" : [ 83, 73 ],
+    "tri_type" : 2
+  },
+  "2082" : {
+    "rate" : {
+      "maxhp" : 20
+    },
+    "id" : 2082,
+    "tri_coef" : [ 83, 82 ],
+    "tri_type" : 2
+  },
+  "2083" : {
+    "rate" : {
+      "def" : 17
+    },
+    "id" : 2083,
+    "tri_coef" : [ 3103 ],
+    "tri_type" : 1
+  },
+  "2084" : {
+    "rate" : {
+      "maxhp" : 16
+    },
+    "id" : 2084,
+    "tri_coef" : [ 84, 95 ],
+    "tri_type" : 2
+  },
+  "2085" : {
+    "rate" : {
+      "atk" : 14
+    },
+    "id" : 2085,
+    "tri_coef" : [ 84, 65 ],
+    "tri_type" : 2
+  },
+  "2086" : {
+    "rate" : {
+      "def" : 17
+    },
+    "id" : 2086,
+    "tri_coef" : [ 3110 ],
+    "tri_type" : 1
+  },
+  "2087" : {
+    "rate" : {
+      "atk" : 13
+    },
+    "id" : 2087,
+    "tri_coef" : [ 85, 93 ],
+    "tri_type" : 2
+  },
+  "2088" : {
+    "rate" : {
+      "def" : 18
+    },
+    "id" : 2088,
+    "tri_coef" : [ 85, 86 ],
+    "tri_type" : 2
+  },
+  "2089" : {
+    "rate" : {
+      "def" : 17
+    },
+    "id" : 2089,
+    "tri_coef" : [ 3104 ],
+    "tri_type" : 1
+  },
+  "2090" : {
+    "rate" : {
+      "def" : 20
+    },
+    "id" : 2090,
+    "tri_coef" : [ 86, 85 ],
+    "tri_type" : 2
+  },
+  "2091" : {
+    "rate" : {
+      "atk" : 29
+    },
+    "id" : 2091,
+    "tri_coef" : [ 86, 46, 56 ],
+    "tri_type" : 2
+  },
+  "2092" : {
+    "rate" : {
+      "def" : 17
+    },
+    "id" : 2092,
+    "tri_coef" : [ 3007 ],
+    "tri_type" : 1
+  },
+  "2093" : {
+    "rate" : {
+      "maxhp" : 19
+    },
+    "id" : 2093,
+    "tri_coef" : [ 87, 96 ],
+    "tri_type" : 2
+  },
+  "2094" : {
+    "rate" : {
+      "def" : 16
+    },
+    "id" : 2094,
+    "tri_coef" : [ 87, 95 ],
+    "tri_type" : 2
+  },
+  "2095" : {
+    "rate" : {
+      "def" : 17
+    },
+    "id" : 2095,
+    "tri_coef" : [ 3103 ],
+    "tri_type" : 1
+  },
+  "2096" : {
+    "rate" : {
+      "maxhp" : 19
+    },
+    "id" : 2096,
+    "tri_coef" : [ 88, 92 ],
+    "tri_type" : 2
+  },
+  "2097" : {
+    "rate" : {
+      "maxhp" : 17
+    },
+    "id" : 2097,
+    "tri_coef" : [ 88, 99 ],
+    "tri_type" : 2
+  },
+  "2098" : {
+    "rate" : {
+      "def" : 17
+    },
+    "id" : 2098,
+    "tri_coef" : [ 3008 ],
+    "tri_type" : 1
+  },
+  "2099" : {
+    "rate" : {
+      "atk" : 12
+    },
+    "id" : 2099,
+    "tri_coef" : [ 89, 93 ],
+    "tri_type" : 2
+  },
+  "2100" : {
+    "rate" : {
+      "atk" : 10
+    },
+    "id" : 2100,
+    "tri_coef" : [ 89, 90 ],
+    "tri_type" : 2
+  },
+  "2101" : {
+    "rate" : {
+      "def" : 17
+    },
+    "id" : 2101,
+    "tri_coef" : [ 3103 ],
+    "tri_type" : 1
+  },
+  "2102" : {
+    "rate" : {
+      "def" : 17
+    },
+    "id" : 2102,
+    "tri_coef" : [ 90, 89 ],
+    "tri_type" : 2
+  },
+  "2103" : {
+    "rate" : {
+      "maxhp" : 20
+    },
+    "id" : 2103,
+    "tri_coef" : [ 90, 97, 105 ],
+    "tri_type" : 2
+  },
+  "2104" : {
+    "rate" : {
+      "atk" : 15
+    },
+    "id" : 2104,
+    "tri_coef" : [ 3109 ],
+    "tri_type" : 1
+  },
+  "2105" : {
+    "rate" : {
+      "def" : 20
+    },
+    "id" : 2105,
+    "tri_coef" : [ 91, 93 ],
+    "tri_type" : 2
+  },
+  "2106" : {
+    "rate" : {
+      "def" : 18
+    },
+    "id" : 2106,
+    "tri_coef" : [ 91, 56 ],
+    "tri_type" : 2
+  },
+  "2107" : {
+    "rate" : {
+      "atk" : 15
+    },
+    "id" : 2107,
+    "tri_coef" : [ 3010 ],
+    "tri_type" : 1
+  },
+  "2108" : {
+    "rate" : {
+      "maxhp" : 19
+    },
+    "id" : 2108,
+    "tri_coef" : [ 92, 88 ],
+    "tri_type" : 2
+  },
+  "2109" : {
+    "rate" : {
+      "maxhp" : 17
+    },
+    "id" : 2109,
+    "tri_coef" : [ 92, 108 ],
+    "tri_type" : 2
+  },
+  "2110" : {
+    "rate" : {
+      "atk" : 15
+    },
+    "id" : 2110,
+    "tri_coef" : [ 3010 ],
+    "tri_type" : 1
+  },
+  "2111" : {
+    "rate" : {
+      "atk" : 12
+    },
+    "id" : 2111,
+    "tri_coef" : [ 93, 89 ],
+    "tri_type" : 2
+  },
+  "2112" : {
+    "rate" : {
+      "def" : 20
+    },
+    "id" : 2112,
+    "tri_coef" : [ 93, 91 ],
+    "tri_type" : 2
+  },
+  "2113" : {
+    "rate" : {
+      "def" : 17
+    },
+    "id" : 2113,
+    "tri_coef" : [ 3103 ],
+    "tri_type" : 1
+  },
+  "2114" : {
+    "rate" : {
+      "maxhp" : 20
+    },
+    "id" : 2114,
+    "tri_coef" : [ 94, 98 ],
+    "tri_type" : 2
+  },
+  "2115" : {
+    "rate" : {
+      "def" : 19
+    },
+    "id" : 2115,
+    "tri_coef" : [ 94, 96 ],
+    "tri_type" : 2
+  },
+  "2116" : {
+    "rate" : {
+      "atk" : 15
+    },
+    "id" : 2116,
+    "tri_coef" : [ 3009 ],
+    "tri_type" : 1
+  },
+  "2117" : {
+    "rate" : {
+      "maxhp" : 19
+    },
+    "id" : 2117,
+    "tri_coef" : [ 95, 84 ],
+    "tri_type" : 2
+  },
+  "2118" : {
+    "rate" : {
+      "def" : 16
+    },
+    "id" : 2118,
+    "tri_coef" : [ 95, 87 ],
+    "tri_type" : 2
+  },
+  "2119" : {
+    "rate" : {
+      "def" : 17
+    },
+    "id" : 2119,
+    "tri_coef" : [ 3104 ],
+    "tri_type" : 1
+  },
+  "2120" : {
+    "rate" : {
+      "maxhp" : 19
+    },
+    "id" : 2120,
+    "tri_coef" : [ 96, 87 ],
+    "tri_type" : 2
+  },
+  "2121" : {
+    "rate" : {
+      "def" : 19
+    },
+    "id" : 2121,
+    "tri_coef" : [ 96, 94 ],
+    "tri_type" : 2
+  },
+  "2122" : {
+    "rate" : {
+      "def" : 15
+    },
+    "id" : 2122,
+    "tri_coef" : [ 3001 ],
+    "tri_type" : 1
+  },
+  "2123" : {
+    "rate" : {
+      "atk" : 13
+    },
+    "id" : 2123,
+    "tri_coef" : [ 97, 100 ],
+    "tri_type" : 2
+  },
+  "2124" : {
+    "rate" : {
+      "maxhp" : 20
+    },
+    "id" : 2124,
+    "tri_coef" : [ 97, 105, 90 ],
+    "tri_type" : 2
+  },
+  "2125" : {
+    "rate" : {
+      "def" : 17
+    },
+    "id" : 2125,
+    "tri_coef" : [ 3103 ],
+    "tri_type" : 1
+  },
+  "2126" : {
+    "rate" : {
+      "atk" : 13
+    },
+    "id" : 2126,
+    "tri_coef" : [ 98, 110, 101 ],
+    "tri_type" : 2
+  },
+  "2127" : {
+    "rate" : {
+      "atk" : 19
+    },
+    "id" : 2127,
+    "tri_coef" : [ 98, 107, 100 ],
+    "tri_type" : 2
+  },
+  "2128" : {
+    "rate" : {
+      "def" : 15
+    },
+    "id" : 2128,
+    "tri_coef" : [ 3001 ],
+    "tri_type" : 1
+  },
+  "2129" : {
+    "rate" : {
+      "maxhp" : 17
+    },
+    "id" : 2129,
+    "tri_coef" : [ 99, 88 ],
+    "tri_type" : 2
+  },
+  "2130" : {
+    "rate" : {
+      "atk" : 10
+    },
+    "id" : 2130,
+    "tri_coef" : [ 99, 106 ],
+    "tri_type" : 2
+  },
+  "2131" : {
+    "rate" : {
+      "maxhp" : 15
+    },
+    "id" : 2131,
+    "tri_coef" : [ 3005 ],
+    "tri_type" : 1
+  },
+  "2132" : {
+    "rate" : {
+      "atk" : 13
+    },
+    "id" : 2132,
+    "tri_coef" : [ 100, 97 ],
+    "tri_type" : 2
+  },
+  "2133" : {
+    "rate" : {
+      "atk" : 19
+    },
+    "id" : 2133,
+    "tri_coef" : [ 100, 107, 98 ],
+    "tri_type" : 2
+  },
+  "2134" : {
+    "rate" : {
+      "atk" : 15
+    },
+    "id" : 2134,
+    "tri_coef" : [ 3006 ],
+    "tri_type" : 1
+  },
+  "2135" : {
+    "rate" : {
+      "atk" : 13
+    },
+    "id" : 2135,
+    "tri_coef" : [ 101, 98, 110 ],
+    "tri_type" : 2
+  },
+  "2136" : {
+    "rate" : {
+      "atk" : 20
+    },
+    "id" : 2136,
+    "tri_coef" : [ 101, 72, 82 ],
+    "tri_type" : 2
+  },
+  "2137" : {
+    "rate" : {
+      "def" : 17
+    },
+    "id" : 2137,
+    "tri_coef" : [ 3111 ],
+    "tri_type" : 1
+  },
+  "2138" : {
+    "rate" : {
+      "def" : 17
+    },
+    "id" : 2138,
+    "tri_coef" : [ 102, 104 ],
+    "tri_type" : 2
+  },
+  "2139" : {
+    "rate" : {
+      "maxhp" : 17
+    },
+    "id" : 2139,
+    "tri_coef" : [ 102, 103 ],
+    "tri_type" : 2
+  },
+  "2140" : {
+    "rate" : {
+      "atk" : 15
+    },
+    "id" : 2140,
+    "tri_coef" : [ 3009 ],
+    "tri_type" : 1
+  },
+  "2141" : {
+    "rate" : {
+      "atk" : 11
+    },
+    "id" : 2141,
+    "tri_coef" : [ 103, 256 ],
+    "tri_type" : 2
+  },
+  "2142" : {
+    "rate" : {
+      "maxhp" : 17
+    },
+    "id" : 2142,
+    "tri_coef" : [ 103, 102 ],
+    "tri_type" : 2
+  },
+  "2143" : {
+    "rate" : {
+      "def" : 17
+    },
+    "id" : 2143,
+    "tri_coef" : [ 3104 ],
+    "tri_type" : 1
+  },
+  "2144" : {
+    "rate" : {
+      "def" : 17
+    },
+    "id" : 2144,
+    "tri_coef" : [ 104, 78 ],
+    "tri_type" : 2
+  },
+  "2145" : {
+    "rate" : {
+      "def" : 17
+    },
+    "id" : 2145,
+    "tri_coef" : [ 104, 102 ],
+    "tri_type" : 2
+  },
+  "2146" : {
+    "rate" : {
+      "def" : 17
+    },
+    "id" : 2146,
+    "tri_coef" : [ 3007 ],
+    "tri_type" : 1
+  },
+  "2147" : {
+    "rate" : {
+      "atk" : 12
+    },
+    "id" : 2147,
+    "tri_coef" : [ 105, 108 ],
+    "tri_type" : 2
+  },
+  "2148" : {
+    "rate" : {
+      "maxhp" : 20
+    },
+    "id" : 2148,
+    "tri_coef" : [ 105, 97, 90 ],
+    "tri_type" : 2
+  },
+  "2149" : {
+    "rate" : {
+      "def" : 17
+    },
+    "id" : 2149,
+    "tri_coef" : [ 3103 ],
+    "tri_type" : 1
+  },
+  "2150" : {
+    "rate" : {
+      "maxhp" : 17
+    },
+    "id" : 2150,
+    "tri_coef" : [ 106, 102 ],
+    "tri_type" : 2
+  },
+  "2151" : {
+    "rate" : {
+      "atk" : 10
+    },
+    "id" : 2151,
+    "tri_coef" : [ 106, 99 ],
+    "tri_type" : 2
+  },
+  "2152" : {
+    "rate" : {
+      "def" : 17
+    },
+    "id" : 2152,
+    "tri_coef" : [ 3104 ],
+    "tri_type" : 1
+  },
+  "2153" : {
+    "rate" : {
+      "atk" : 11
+    },
+    "id" : 2153,
+    "tri_coef" : [ 107, 42 ],
+    "tri_type" : 2
+  },
+  "2154" : {
+    "rate" : {
+      "atk" : 16
+    },
+    "id" : 2154,
+    "tri_coef" : [ 107, 98, 100 ],
+    "tri_type" : 2
+  },
+  "2155" : {
+    "rate" : {
+      "maxhp" : 18
+    },
+    "id" : 2155,
+    "tri_coef" : [ 3006 ],
+    "tri_type" : 1
+  },
+  "2156" : {
+    "rate" : {
+      "atk" : 11
+    },
+    "id" : 2156,
+    "tri_coef" : [ 42, 107 ],
+    "tri_type" : 2
+  },
+  "2157" : {
+    "rate" : {
+      "maxhp" : 12
+    },
+    "id" : 2157,
+    "tri_coef" : [ 42, 105 ],
+    "tri_type" : 2
+  },
+  "2158" : {
+    "rate" : {
+      "maxhp" : 18
+    },
+    "id" : 2158,
+    "tri_coef" : [ 3006 ],
+    "tri_type" : 1
+  },
+  "2159" : {
+    "rate" : {
+      "atk" : 12
+    },
+    "id" : 2159,
+    "tri_coef" : [ 108, 105 ],
+    "tri_type" : 2
+  },
+  "2160" : {
+    "rate" : {
+      "maxhp" : 17
+    },
+    "id" : 2160,
+    "tri_coef" : [ 108, 92 ],
+    "tri_type" : 2
+  },
+  "2161" : {
+    "rate" : {
+      "def" : 15
+    },
+    "id" : 2161,
+    "tri_coef" : [ 3001 ],
+    "tri_type" : 1
+  },
+  "2162" : {
+    "rate" : {
+      "def" : 17
+    },
+    "id" : 2162,
+    "tri_coef" : [ 109, 77 ],
+    "tri_type" : 2
+  },
+  "2163" : {
+    "rate" : {
+      "maxhp" : 17
+    },
+    "id" : 2163,
+    "tri_coef" : [ 109, 83 ],
+    "tri_type" : 2
+  },
+  "2164" : {
+    "rate" : {
+      "def" : 17
+    },
+    "id" : 2164,
+    "tri_coef" : [ 3008 ],
+    "tri_type" : 1
+  },
+  "2165" : {
+    "rate" : {
+      "atk" : 13
+    },
+    "id" : 2165,
+    "tri_coef" : [ 110, 98, 101 ],
+    "tri_type" : 2
+  },
+  "2166" : {
+    "rate" : {
+      "atk" : 12
+    },
+    "id" : 2166,
+    "tri_coef" : [ 110, 148 ],
+    "tri_type" : 2
+  },
+  "2167" : {
+    "rate" : {
+      "def" : 17
+    },
+    "id" : 2167,
+    "tri_coef" : [ 3111 ],
+    "tri_type" : 1
+  },
+  "2168" : {
+    "rate" : {
+      "maxhp" : 19
+    },
+    "id" : 2168,
+    "tri_coef" : [ 180, 148 ],
+    "tri_type" : 2
+  },
+  "2169" : {
+    "rate" : {
+      "atk" : 13
+    },
+    "id" : 2169,
+    "tri_coef" : [ 180, 16 ],
+    "tri_type" : 2
+  },
+  "2170" : {
+    "rate" : {
+      "atk" : 15
+    },
+    "id" : 2170,
+    "tri_coef" : [ 3113 ],
+    "tri_type" : 1
+  },
+  "2171" : {
+    "rate" : {
+      "maxhp" : 19
+    },
+    "id" : 2171,
+    "tri_coef" : [ 182, 148 ],
+    "tri_type" : 2
+  },
+  "2172" : {
+    "rate" : {
+      "atk" : 13
+    },
+    "id" : 2172,
+    "tri_coef" : [ 182, 16 ],
+    "tri_type" : 2
+  },
+  "2173" : {
+    "rate" : {
+      "atk" : 15
+    },
+    "id" : 2173,
+    "tri_coef" : [ 3113 ],
+    "tri_type" : 1
+  },
+  "2174" : {
+    "rate" : {
+      "maxhp" : 19
+    },
+    "id" : 2174,
+    "tri_coef" : [ 183, 148 ],
+    "tri_type" : 2
+  },
+  "2175" : {
+    "rate" : {
+      "atk" : 13
+    },
+    "id" : 2175,
+    "tri_coef" : [ 183, 16 ],
+    "tri_type" : 2
+  },
+  "2176" : {
+    "rate" : {
+      "atk" : 15
+    },
+    "id" : 2176,
+    "tri_coef" : [ 3113 ],
+    "tri_type" : 1
+  },
+  "2177" : {
+    "rate" : {
+      "maxhp" : 19
+    },
+    "id" : 2177,
+    "tri_coef" : [ 185, 148 ],
+    "tri_type" : 2
+  },
+  "2178" : {
+    "rate" : {
+      "atk" : 13
+    },
+    "id" : 2178,
+    "tri_coef" : [ 185, 16 ],
+    "tri_type" : 2
+  },
+  "2179" : {
+    "rate" : {
+      "atk" : 15
+    },
+    "id" : 2179,
+    "tri_coef" : [ 3113 ],
+    "tri_type" : 1
+  },
+  "2180" : {
+    "rate" : {
+      "maxhp" : 19
+    },
+    "id" : 2180,
+    "tri_coef" : [ 186, 148 ],
+    "tri_type" : 2
+  },
+  "2181" : {
+    "rate" : {
+      "atk" : 13
+    },
+    "id" : 2181,
+    "tri_coef" : [ 186, 16 ],
+    "tri_type" : 2
+  },
+  "2182" : {
+    "rate" : {
+      "atk" : 15
+    },
+    "id" : 2182,
+    "tri_coef" : [ 3113 ],
+    "tri_type" : 1
+  },
+  "2183" : {
+    "rate" : {
+      "maxhp" : 19
+    },
+    "id" : 2183,
+    "tri_coef" : [ 187, 148 ],
+    "tri_type" : 2
+  },
+  "2184" : {
+    "rate" : {
+      "atk" : 13
+    },
+    "id" : 2184,
+    "tri_coef" : [ 187, 16 ],
+    "tri_type" : 2
+  },
+  "2185" : {
+    "rate" : {
+      "atk" : 15
+    },
+    "id" : 2185,
+    "tri_coef" : [ 3113 ],
+    "tri_type" : 1
+  },
+  "2186" : {
+    "rate" : {
+      "maxhp" : 19
+    },
+    "id" : 2186,
+    "tri_coef" : [ 189, 148 ],
+    "tri_type" : 2
+  },
+  "2187" : {
+    "rate" : {
+      "atk" : 13
+    },
+    "id" : 2187,
+    "tri_coef" : [ 189, 16 ],
+    "tri_type" : 2
+  },
+  "2188" : {
+    "rate" : {
+      "atk" : 15
+    },
+    "id" : 2188,
+    "tri_coef" : [ 3113 ],
+    "tri_type" : 1
+  },
+  "2189" : {
+    "rate" : {
+      "maxhp" : 19
+    },
+    "id" : 2189,
+    "tri_coef" : [ 190, 148 ],
+    "tri_type" : 2
+  },
+  "2190" : {
+    "rate" : {
+      "atk" : 13
+    },
+    "id" : 2190,
+    "tri_coef" : [ 190, 16 ],
+    "tri_type" : 2
+  },
+  "2191" : {
+    "rate" : {
+      "atk" : 15
+    },
+    "id" : 2191,
+    "tri_coef" : [ 3113 ],
+    "tri_type" : 1
+  },
+  "2192" : {
+    "rate" : {
+      "maxhp" : 19
+    },
+    "id" : 2192,
+    "tri_coef" : [ 191, 148 ],
+    "tri_type" : 2
+  },
+  "2193" : {
+    "rate" : {
+      "atk" : 13
+    },
+    "id" : 2193,
+    "tri_coef" : [ 191, 16 ],
+    "tri_type" : 2
+  },
+  "2194" : {
+    "rate" : {
+      "atk" : 15
+    },
+    "id" : 2194,
+    "tri_coef" : [ 3113 ],
+    "tri_type" : 1
+  },
+  "2195" : {
+    "rate" : {
+      "atk" : 15
+    },
+    "id" : 2195,
+    "tri_coef" : [ 200, 203, 115 ],
+    "tri_type" : 2
+  },
+  "2196" : {
+    "rate" : {
+      "maxhp" : 19
+    },
+    "id" : 2196,
+    "tri_coef" : [ 200, 205, 207 ],
+    "tri_type" : 2
+  },
+  "2197" : {
+    "rate" : {
+      "maxhp" : 13
+    },
+    "id" : 2197,
+    "tri_coef" : [ 3000 ],
+    "tri_type" : 1
+  },
+  "2198" : {
+    "rate" : {
+      "atk" : 15
+    },
+    "id" : 2198,
+    "tri_coef" : [ 115, 200, 203 ],
+    "tri_type" : 2
+  },
+  "2199" : {
+    "rate" : {
+      "def" : 15
+    },
+    "id" : 2199,
+    "tri_coef" : [ 3001 ],
+    "tri_type" : 1
+  },
+  "2200" : {
+    "rate" : {
+      "atk" : 15
+    },
+    "id" : 2200,
+    "tri_coef" : [ 3113 ],
+    "tri_type" : 1
+  },
+  "2201" : {
+    "rate" : {
+      "atk" : 20
+    },
+    "id" : 2201,
+    "tri_coef" : [ 202, 73, 204, 206 ],
+    "tri_type" : 2
+  },
+  "2202" : {
+    "rate" : {
+      "atk" : 15
+    },
+    "id" : 2202,
+    "tri_coef" : [ 3110 ],
+    "tri_type" : 1
+  },
+  "2203" : {
+    "rate" : {
+      "atk" : 15
+    },
+    "id" : 2203,
+    "tri_coef" : [ 3113 ],
+    "tri_type" : 1
+  },
+  "2204" : {
+    "rate" : {
+      "atk" : 15
+    },
+    "id" : 2204,
+    "tri_coef" : [ 203, 200, 115 ],
+    "tri_type" : 2
+  },
+  "2205" : {
+    "rate" : {
+      "def" : 17
+    },
+    "id" : 2205,
+    "tri_coef" : [ 3007 ],
+    "tri_type" : 1
+  },
+  "2206" : {
+    "rate" : {
+      "atk" : 15
+    },
+    "id" : 2206,
+    "tri_coef" : [ 3113 ],
+    "tri_type" : 1
+  },
+  "2207" : {
+    "rate" : {
+      "atk" : 20
+    },
+    "id" : 2207,
+    "tri_coef" : [ 204, 73, 202, 206 ],
+    "tri_type" : 2
+  },
+  "2208" : {
+    "rate" : {
+      "atk" : 15
+    },
+    "id" : 2208,
+    "tri_coef" : [ 3109 ],
+    "tri_type" : 1
+  },
+  "2209" : {
+    "rate" : {
+      "atk" : 15
+    },
+    "id" : 2209,
+    "tri_coef" : [ 3113 ],
+    "tri_type" : 1
+  },
+  "2210" : {
+    "rate" : {
+      "maxhp" : 19
+    },
+    "id" : 2210,
+    "tri_coef" : [ 205, 200, 207 ],
+    "tri_type" : 2
+  },
+  "2211" : {
+    "rate" : {
+      "maxhp" : 15
+    },
+    "id" : 2211,
+    "tri_coef" : [ 3002 ],
+    "tri_type" : 1
+  },
+  "2212" : {
+    "rate" : {
+      "atk" : 15
+    },
+    "id" : 2212,
+    "tri_coef" : [ 3113 ],
+    "tri_type" : 1
+  },
+  "2213" : {
+    "rate" : {
+      "atk" : 20
+    },
+    "id" : 2213,
+    "tri_coef" : [ 206, 73, 202, 204 ],
+    "tri_type" : 2
+  },
+  "2214" : {
+    "rate" : {
+      "atk" : 15
+    },
+    "id" : 2214,
+    "tri_coef" : [ 3108 ],
+    "tri_type" : 1
+  },
+  "2215" : {
+    "rate" : {
+      "atk" : 15
+    },
+    "id" : 2215,
+    "tri_coef" : [ 3113 ],
+    "tri_type" : 1
+  },
+  "2216" : {
+    "rate" : {
+      "maxhp" : 19
+    },
+    "id" : 2216,
+    "tri_coef" : [ 207, 200, 205 ],
+    "tri_type" : 2
+  },
+  "2217" : {
+    "rate" : {
+      "atk" : 15
+    },
+    "id" : 2217,
+    "tri_coef" : [ 3004 ],
+    "tri_type" : 1
+  },
+  "2218" : {
+    "rate" : {
+      "atk" : 15
+    },
+    "id" : 2218,
+    "tri_coef" : [ 3113 ],
+    "tri_type" : 1
+  },
+  "2219" : {
+    "rate" : {
+      "def" : 18
+    },
+    "id" : 2219,
+    "tri_coef" : [ 208, 209, 211 ],
+    "tri_type" : 2
+  },
+  "2220" : {
+    "rate" : {
+      "def" : 15
+    },
+    "id" : 2220,
+    "tri_coef" : [ 3100 ],
+    "tri_type" : 1
+  },
+  "2221" : {
+    "rate" : {
+      "atk" : 15
+    },
+    "id" : 2221,
+    "tri_coef" : [ 3113 ],
+    "tri_type" : 1
+  },
+  "2222" : {
+    "rate" : {
+      "def" : 18
+    },
+    "id" : 2222,
+    "tri_coef" : [ 209, 208, 211 ],
+    "tri_type" : 2
+  },
+  "2223" : {
+    "rate" : {
+      "def" : 17
+    },
+    "id" : 2223,
+    "tri_coef" : [ 3007 ],
+    "tri_type" : 1
+  },
+  "2224" : {
+    "rate" : {
+      "atk" : 15
+    },
+    "id" : 2224,
+    "tri_coef" : [ 3113 ],
+    "tri_type" : 1
+  },
+  "2225" : {
+    "rate" : {
+      "maxhp" : 12
+    },
+    "id" : 2225,
+    "tri_coef" : [ 210, 212 ],
+    "tri_type" : 2
+  },
+  "2226" : {
+    "rate" : {
+      "def" : 15
+    },
+    "id" : 2226,
+    "tri_coef" : [ 3104 ],
+    "tri_type" : 1
+  },
+  "2227" : {
+    "rate" : {
+      "atk" : 15
+    },
+    "id" : 2227,
+    "tri_coef" : [ 3113 ],
+    "tri_type" : 1
+  },
+  "2228" : {
+    "rate" : {
+      "def" : 18
+    },
+    "id" : 2228,
+    "tri_coef" : [ 211, 208, 209 ],
+    "tri_type" : 2
+  },
+  "2229" : {
+    "rate" : {
+      "maxhp" : 13
+    },
+    "id" : 2229,
+    "tri_coef" : [ 3000 ],
+    "tri_type" : 1
+  },
+  "2230" : {
+    "rate" : {
+      "atk" : 15
+    },
+    "id" : 2230,
+    "tri_coef" : [ 3113 ],
+    "tri_type" : 1
+  },
+  "2231" : {
+    "rate" : {
+      "maxhp" : 12
+    },
+    "id" : 2231,
+    "tri_coef" : [ 212, 210 ],
+    "tri_type" : 2
+  },
+  "2232" : {
+    "rate" : {
+      "maxhp" : 15
+    },
+    "id" : 2232,
+    "tri_coef" : [ 3002 ],
+    "tri_type" : 1
+  },
+  "2233" : {
+    "rate" : {
+      "atk" : 15
+    },
+    "id" : 2233,
+    "tri_coef" : [ 3113 ],
+    "tri_type" : 1
+  },
+  "2234" : {
+    "rate" : {
+      "atk" : 12
+    },
+    "id" : 2234,
+    "tri_coef" : [ 213, 258 ],
+    "tri_type" : 2
+  },
+  "2235" : {
+    "rate" : {
+      "maxhp" : 15
+    },
+    "id" : 2235,
+    "tri_coef" : [ 3005 ],
+    "tri_type" : 1
+  },
+  "2236" : {
+    "rate" : {
+      "atk" : 15
+    },
+    "id" : 2236,
+    "tri_coef" : [ 3113 ],
+    "tri_type" : 1
+  },
+  "2237" : {
+    "rate" : {
+      "atk" : 12
+    },
+    "id" : 2237,
+    "tri_coef" : [ 258, 213 ],
+    "tri_type" : 2
+  },
+  "2238" : {
+    "rate" : {
+      "atk" : 15
+    },
+    "id" : 2238,
+    "tri_coef" : [ 3101 ],
+    "tri_type" : 1
+  },
+  "2239" : {
+    "rate" : {
+      "atk" : 15
+    },
+    "id" : 2239,
+    "tri_coef" : [ 3113 ],
+    "tri_type" : 1
+  },
+  "2240" : {
+    "rate" : {
+      "def" : 13
+    },
+    "id" : 2240,
+    "tri_coef" : [ 260, 266, 271 ],
+    "tri_type" : 2
+  },
+  "2241" : {
+    "rate" : {
+      "atk" : 15
+    },
+    "id" : 2241,
+    "tri_coef" : [ 3004 ],
+    "tri_type" : 1
+  },
+  "2242" : {
+    "rate" : {
+      "atk" : 15
+    },
+    "id" : 2242,
+    "tri_coef" : [ 3113 ],
+    "tri_type" : 1
+  },
+  "2243" : {
+    "rate" : {
+      "def" : 13
+    },
+    "id" : 2243,
+    "tri_coef" : [ 266, 260, 271 ],
+    "tri_type" : 2
+  },
+  "2244" : {
+    "rate" : {
+      "def" : 15
+    },
+    "id" : 2244,
+    "tri_coef" : [ 3001 ],
+    "tri_type" : 1
+  },
+  "2245" : {
+    "rate" : {
+      "atk" : 15
+    },
+    "id" : 2245,
+    "tri_coef" : [ 3113 ],
+    "tri_type" : 1
+  },
+  "2246" : {
+    "rate" : {
+      "def" : 13
+    },
+    "id" : 2246,
+    "tri_coef" : [ 271, 260, 266 ],
+    "tri_type" : 2
+  },
+  "2247" : {
+    "rate" : {
+      "def" : 17
+    },
+    "id" : 2247,
+    "tri_coef" : [ 3104 ],
+    "tri_type" : 1
+  },
+  "2248" : {
+    "rate" : {
+      "atk" : 15
+    },
+    "id" : 2248,
+    "tri_coef" : [ 3113 ],
+    "tri_type" : 1
+  },
+  "2249" : {
+    "rate" : {
+      "maxhp" : 23
+    },
+    "id" : 2249,
+    "tri_coef" : [ 278, 282, 287, 293 ],
+    "tri_type" : 2
+  },
+  "2250" : {
+    "rate" : {
+      "atk" : 15
+    },
+    "id" : 2250,
+    "tri_coef" : [ 3109 ],
+    "tri_type" : 1
+  },
+  "2251" : {
+    "rate" : {
+      "atk" : 15
+    },
+    "id" : 2251,
+    "tri_coef" : [ 3113 ],
+    "tri_type" : 1
+  },
+  "2252" : {
+    "rate" : {
+      "maxhp" : 23
+    },
+    "id" : 2252,
+    "tri_coef" : [ 282, 278, 287, 293 ],
+    "tri_type" : 2
+  },
+  "2253" : {
+    "rate" : {
+      "atk" : 15
+    },
+    "id" : 2253,
+    "tri_coef" : [ 3009 ],
+    "tri_type" : 1
+  },
+  "2254" : {
+    "rate" : {
+      "atk" : 15
+    },
+    "id" : 2254,
+    "tri_coef" : [ 3113 ],
+    "tri_type" : 1
+  },
+  "2255" : {
+    "rate" : {
+      "maxhp" : 23
+    },
+    "id" : 2255,
+    "tri_coef" : [ 287, 278, 282, 293 ],
+    "tri_type" : 2
+  },
+  "2256" : {
+    "rate" : {
+      "def" : 17
+    },
+    "id" : 2256,
+    "tri_coef" : [ 3011 ],
+    "tri_type" : 1
+  },
+  "2257" : {
+    "rate" : {
+      "atk" : 15
+    },
+    "id" : 2257,
+    "tri_coef" : [ 3113 ],
+    "tri_type" : 1
+  },
+  "2258" : {
+    "rate" : {
+      "maxhp" : 23
+    },
+    "id" : 2258,
+    "tri_coef" : [ 293, 278, 287, 282 ],
+    "tri_type" : 2
+  },
+  "2259" : {
+    "rate" : {
+      "maxhp" : 18
+    },
+    "id" : 2259,
+    "tri_coef" : [ 3106 ],
+    "tri_type" : 1
+  },
+  "2260" : {
+    "rate" : {
+      "atk" : 15
+    },
+    "id" : 2260,
+    "tri_coef" : [ 3113 ],
+    "tri_type" : 1
+  },
+  "3000" : {
+    "rate" : {
+      "atk" : 25
+    },
+    "id" : 3000,
+    "tri_coef" : [ 2, 148 ],
+    "tri_type" : 2
+  },
+  "3001" : {
+    "rate" : {
+      "maxhp" : 26
+    },
+    "id" : 3001,
+    "tri_coef" : [ 2, 9 ],
+    "tri_type" : 2
+  },
+  "3002" : {
+    "rate" : {
+      "maxhp" : 32
+    },
+    "id" : 3002,
+    "tri_coef" : [ 2, 4 ],
+    "tri_type" : 2
+  },
+  "3003" : {
+    "rate" : {
+      "def" : 22
+    },
+    "id" : 3003,
+    "tri_coef" : [ 3114 ],
+    "tri_type" : 1
+  },
+  "3004" : {
+    "rate" : {
+      "atk" : 22
+    },
+    "id" : 3004,
+    "tri_coef" : [ 3012 ],
+    "tri_type" : 1
+  },
+  "3005" : {
+    "rate" : {
+      "maxhp" : 26
+    },
+    "id" : 3005,
+    "tri_coef" : [ 3, 5 ],
+    "tri_type" : 2
+  },
+  "3006" : {
+    "rate" : {
+      "maxhp" : 24
+    },
+    "id" : 3006,
+    "tri_coef" : [ 3, 11 ],
+    "tri_type" : 2
+  },
+  "3007" : {
+    "rate" : {
+      "atk" : 30,
+      "maxhp" : 30
+    },
+    "id" : 3007,
+    "tri_coef" : [ 3, 148, 7, 11, 12 ],
+    "tri_type" : 2
+  },
+  "3008" : {
+    "rate" : {
+      "def" : 22
+    },
+    "id" : 3008,
+    "tri_coef" : [ 3114 ],
+    "tri_type" : 1
+  },
+  "3009" : {
+    "rate" : {
+      "atk" : 20
+    },
+    "id" : 3009,
+    "tri_coef" : [ 3012 ],
+    "tri_type" : 1
+  },
+  "3010" : {
+    "rate" : {
+      "atk" : 21
+    },
+    "id" : 3010,
+    "tri_coef" : [ 4, 39 ],
+    "tri_type" : 2
+  },
+  "3011" : {
+    "rate" : {
+      "maxhp" : 21
+    },
+    "id" : 3011,
+    "tri_coef" : [ 4, 98 ],
+    "tri_type" : 2
+  },
+  "3012" : {
+    "rate" : {
+      "maxhp" : 32
+    },
+    "id" : 3012,
+    "tri_coef" : [ 4, 1 ],
+    "tri_type" : 2
+  },
+  "3013" : {
+    "rate" : {
+      "atk" : 20
+    },
+    "id" : 3013,
+    "tri_coef" : [ 3115 ],
+    "tri_type" : 1
+  },
+  "3014" : {
+    "rate" : {
+      "def" : 20
+    },
+    "id" : 3014,
+    "tri_coef" : [ 3016 ],
+    "tri_type" : 1
+  },
+  "3015" : {
+    "rate" : {
+      "atk" : 23
+    },
+    "id" : 3015,
+    "tri_coef" : [ 5, 8 ],
+    "tri_type" : 2
+  },
+  "3016" : {
+    "rate" : {
+      "maxhp" : 26
+    },
+    "id" : 3016,
+    "tri_coef" : [ 5, 3 ],
+    "tri_type" : 2
+  },
+  "3017" : {
+    "rate" : {
+      "atk" : 30
+    },
+    "id" : 3017,
+    "tri_coef" : [ 5, 33, 31 ],
+    "tri_type" : 2
+  },
+  "3018" : {
+    "rate" : {
+      "def" : 22
+    },
+    "id" : 3018,
+    "tri_coef" : [ 3115 ],
+    "tri_type" : 1
+  },
+  "3019" : {
+    "rate" : {
+      "maxhp" : 22
+    },
+    "id" : 3019,
+    "tri_coef" : [ 3016 ],
+    "tri_type" : 1
+  },
+  "3020" : {
+    "rate" : {
+      "maxhp" : 29
+    },
+    "id" : 3020,
+    "tri_coef" : [ 6, 16 ],
+    "tri_type" : 2
+  },
+  "3021" : {
+    "rate" : {
+      "maxhp" : 29
+    },
+    "id" : 3021,
+    "tri_coef" : [ 6, 7 ],
+    "tri_type" : 2
+  },
+  "3022" : {
+    "rate" : {
+      "def" : 42
+    },
+    "id" : 3022,
+    "tri_coef" : [ 6, 43, 19 ],
+    "tri_type" : 2
+  },
+  "3023" : {
+    "rate" : {
+      "maxhp" : 25
+    },
+    "id" : 3023,
+    "tri_coef" : [ 3114 ],
+    "tri_type" : 1
+  },
+  "3024" : {
+    "rate" : {
+      "atk" : 25
+    },
+    "id" : 3024,
+    "tri_coef" : [ 3016 ],
+    "tri_type" : 1
+  },
+  "3025" : {
+    "rate" : {
+      "atk" : 27
+    },
+    "id" : 3025,
+    "tri_coef" : [ 7, 36 ],
+    "tri_type" : 2
+  },
+  "3026" : {
+    "rate" : {
+      "maxhp" : 29
+    },
+    "id" : 3026,
+    "tri_coef" : [ 7, 6 ],
+    "tri_type" : 2
+  },
+  "3027" : {
+    "rate" : {
+      "atk" : 30,
+      "maxhp" : 30
+    },
+    "id" : 3027,
+    "tri_coef" : [ 7, 12, 148, 11, 3 ],
+    "tri_type" : 2
+  },
+  "3028" : {
+    "rate" : {
+      "maxhp" : 25
+    },
+    "id" : 3028,
+    "tri_coef" : [ 3117 ],
+    "tri_type" : 1
+  },
+  "3029" : {
+    "rate" : {
+      "atk" : 25
+    },
+    "id" : 3029,
+    "tri_coef" : [ 3015 ],
+    "tri_type" : 1
+  },
+  "3030" : {
+    "rate" : {
+      "atk" : 23
+    },
+    "id" : 3030,
+    "tri_coef" : [ 8, 9 ],
+    "tri_type" : 2
+  },
+  "3031" : {
+    "rate" : {
+      "atk" : 23
+    },
+    "id" : 3031,
+    "tri_coef" : [ 8, 5 ],
+    "tri_type" : 2
+  },
+  "3032" : {
+    "rate" : {
+      "maxhp" : 24
+    },
+    "id" : 3032,
+    "tri_coef" : [ 8, 43 ],
+    "tri_type" : 2
+  },
+  "3033" : {
+    "rate" : {
+      "maxhp" : 22
+    },
+    "id" : 3033,
+    "tri_coef" : [ 3116 ],
+    "tri_type" : 1
+  },
+  "3034" : {
+    "rate" : {
+      "def" : 22
+    },
+    "id" : 3034,
+    "tri_coef" : [ 3014 ],
+    "tri_type" : 1
+  },
+  "3035" : {
+    "rate" : {
+      "atk" : 23
+    },
+    "id" : 3035,
+    "tri_coef" : [ 9, 8 ],
+    "tri_type" : 2
+  },
+  "3036" : {
+    "rate" : {
+      "maxhp" : 26
+    },
+    "id" : 3036,
+    "tri_coef" : [ 9, 11 ],
+    "tri_type" : 2
+  },
+  "3037" : {
+    "rate" : {
+      "atk" : 19
+    },
+    "id" : 3037,
+    "tri_coef" : [ 9, 38 ],
+    "tri_type" : 2
+  },
+  "3038" : {
+    "rate" : {
+      "atk" : 22
+    },
+    "id" : 3038,
+    "tri_coef" : [ 3113 ],
+    "tri_type" : 1
+  },
+  "3039" : {
+    "rate" : {
+      "def" : 22
+    },
+    "id" : 3039,
+    "tri_coef" : [ 3013 ],
+    "tri_type" : 1
+  },
+  "3040" : {
+    "rate" : {
+      "maxhp" : 29
+    },
+    "id" : 3040,
+    "tri_coef" : [ 10, 12 ],
+    "tri_type" : 2
+  },
+  "3041" : {
+    "rate" : {
+      "maxhp" : 28
+    },
+    "id" : 3041,
+    "tri_coef" : [ 10, 14 ],
+    "tri_type" : 2
+  },
+  "3042" : {
+    "rate" : {
+      "atk" : 38
+    },
+    "id" : 3042,
+    "tri_coef" : [ 10, 17, 28 ],
+    "tri_type" : 2
+  },
+  "3043" : {
+    "rate" : {
+      "maxhp" : 28
+    },
+    "id" : 3043,
+    "tri_coef" : [ 3113 ],
+    "tri_type" : 1
+  },
+  "3044" : {
+    "rate" : {
+      "atk" : 28
+    },
+    "id" : 3044,
+    "tri_coef" : [ 3017 ],
+    "tri_type" : 1
+  },
+  "3045" : {
+    "rate" : {
+      "atk" : 21
+    },
+    "id" : 3045,
+    "tri_coef" : [ 11, 61 ],
+    "tri_type" : 2
+  },
+  "3046" : {
+    "rate" : {
+      "maxhp" : 24
+    },
+    "id" : 3046,
+    "tri_coef" : [ 11, 3 ],
+    "tri_type" : 2
+  },
+  "3047" : {
+    "rate" : {
+      "atk" : 30,
+      "maxhp" : 30
+    },
+    "id" : 3047,
+    "tri_coef" : [ 11, 12, 148, 3, 7 ],
+    "tri_type" : 2
+  },
+  "3048" : {
+    "rate" : {
+      "def" : 20
+    },
+    "id" : 3048,
+    "tri_coef" : [ 3116 ],
+    "tri_type" : 1
+  },
+  "3049" : {
+    "rate" : {
+      "atk" : 20
+    },
+    "id" : 3049,
+    "tri_coef" : [ 3012 ],
+    "tri_type" : 1
+  },
+  "3050" : {
+    "rate" : {
+      "maxhp" : 29
+    },
+    "id" : 3050,
+    "tri_coef" : [ 12, 10 ],
+    "tri_type" : 2
+  },
+  "3051" : {
+    "rate" : {
+      "atk" : 29
+    },
+    "id" : 3051,
+    "tri_coef" : [ 12, 17 ],
+    "tri_type" : 2
+  },
+  "3052" : {
+    "rate" : {
+      "atk" : 30,
+      "maxhp" : 30
+    },
+    "id" : 3052,
+    "tri_coef" : [ 12, 148, 7, 11, 3 ],
+    "tri_type" : 2
+  },
+  "3053" : {
+    "rate" : {
+      "def" : 22
+    },
+    "id" : 3053,
+    "tri_coef" : [ 3116 ],
+    "tri_type" : 1
+  },
+  "3054" : {
+    "rate" : {
+      "atk" : 22
+    },
+    "id" : 3054,
+    "tri_coef" : [ 3012 ],
+    "tri_type" : 1
+  },
+  "3055" : {
+    "rate" : {
+      "maxhp" : 29
+    },
+    "id" : 3055,
+    "tri_coef" : [ 13, 37 ],
+    "tri_type" : 2
+  },
+  "3056" : {
+    "rate" : {
+      "atk" : 27
+    },
+    "id" : 3056,
+    "tri_coef" : [ 13, 148 ],
+    "tri_type" : 2
+  },
+  "3057" : {
+    "rate" : {
+      "maxhp" : 36
+    },
+    "id" : 3057,
+    "tri_coef" : [ 13, 26, 17 ],
+    "tri_type" : 2
+  },
+  "3058" : {
+    "rate" : {
+      "maxhp" : 25
+    },
+    "id" : 3058,
+    "tri_coef" : [ 3116 ],
+    "tri_type" : 1
+  },
+  "3059" : {
+    "rate" : {
+      "def" : 25
+    },
+    "id" : 3059,
+    "tri_coef" : [ 3016 ],
+    "tri_type" : 1
+  },
+  "3060" : {
+    "rate" : {
+      "atk" : 25
+    },
+    "id" : 3060,
+    "tri_coef" : [ 14, 147 ],
+    "tri_type" : 2
+  },
+  "3061" : {
+    "rate" : {
+      "maxhp" : 29
+    },
+    "id" : 3061,
+    "tri_coef" : [ 14, 28 ],
+    "tri_type" : 2
+  },
+  "3062" : {
+    "rate" : {
+      "maxhp" : 26
+    },
+    "id" : 3062,
+    "tri_coef" : [ 14, 20 ],
+    "tri_type" : 2
+  },
+  "3063" : {
+    "rate" : {
+      "def" : 22
+    },
+    "id" : 3063,
+    "tri_coef" : [ 3113 ],
+    "tri_type" : 1
+  },
+  "3064" : {
+    "rate" : {
+      "atk" : 22
+    },
+    "id" : 3064,
+    "tri_coef" : [ 3012 ],
+    "tri_type" : 1
+  },
+  "3065" : {
+    "rate" : {
+      "maxhp" : 29
+    },
+    "id" : 3065,
+    "tri_coef" : [ 16, 6 ],
+    "tri_type" : 2
+  },
+  "3066" : {
+    "rate" : {
+      "atk" : 30
+    },
+    "id" : 3066,
+    "tri_coef" : [ 16, 20, 27 ],
+    "tri_type" : 2
+  },
+  "3067" : {
+    "rate" : {
+      "atk" : 32,
+      "maxhp" : 32
+    },
+    "id" : 3067,
+    "tri_coef" : [ 16, 27, 147, 21, 18 ],
+    "tri_type" : 2
+  },
+  "3068" : {
+    "rate" : {
+      "atk" : 25
+    },
+    "id" : 3068,
+    "tri_coef" : [ 3116 ],
+    "tri_type" : 1
+  },
+  "3069" : {
+    "rate" : {
+      "maxhp" : 25
+    },
+    "id" : 3069,
+    "tri_coef" : [ 3016 ],
+    "tri_type" : 1
+  },
+  "3070" : {
+    "rate" : {
+      "maxhp" : 29
+    },
+    "id" : 3070,
+    "tri_coef" : [ 17, 147 ],
+    "tri_type" : 2
+  },
+  "3071" : {
+    "rate" : {
+      "def" : 28
+    },
+    "id" : 3071,
+    "tri_coef" : [ 17, 60 ],
+    "tri_type" : 2
+  },
+  "3072" : {
+    "rate" : {
+      "maxhp" : 36
+    },
+    "id" : 3072,
+    "tri_coef" : [ 17, 13, 26 ],
+    "tri_type" : 2
+  },
+  "3073" : {
+    "rate" : {
+      "maxhp" : 22
+    },
+    "id" : 3073,
+    "tri_coef" : [ 3117 ],
+    "tri_type" : 1
+  },
+  "3074" : {
+    "rate" : {
+      "atk" : 22
+    },
+    "id" : 3074,
+    "tri_coef" : [ 3016 ],
+    "tri_type" : 1
+  },
+  "3075" : {
+    "rate" : {
+      "maxhp" : 27
+    },
+    "id" : 3075,
+    "tri_coef" : [ 18, 47 ],
+    "tri_type" : 2
+  },
+  "3076" : {
+    "rate" : {
+      "def" : 28
+    },
+    "id" : 3076,
+    "tri_coef" : [ 18, 48 ],
+    "tri_type" : 2
+  },
+  "3077" : {
+    "rate" : {
+      "atk" : 32,
+      "maxhp" : 32
+    },
+    "id" : 3077,
+    "tri_coef" : [ 18, 16, 27, 147, 21 ],
+    "tri_type" : 2
+  },
+  "3078" : {
+    "rate" : {
+      "atk" : 22
+    },
+    "id" : 3078,
+    "tri_coef" : [ 3113 ],
+    "tri_type" : 1
+  },
+  "3079" : {
+    "rate" : {
+      "maxhp" : 22
+    },
+    "id" : 3079,
+    "tri_coef" : [ 3015 ],
+    "tri_type" : 1
+  },
+  "3080" : {
+    "rate" : {
+      "maxhp" : 27
+    },
+    "id" : 3080,
+    "tri_coef" : [ 19, 27 ],
+    "tri_type" : 2
+  },
+  "3081" : {
+    "rate" : {
+      "atk" : 30
+    },
+    "id" : 3081,
+    "tri_coef" : [ 19, 55, 184 ],
+    "tri_type" : 2
+  },
+  "3082" : {
+    "rate" : {
+      "def" : 42
+    },
+    "id" : 3082,
+    "tri_coef" : [ 19, 6, 43 ],
+    "tri_type" : 2
+  },
+  "3083" : {
+    "rate" : {
+      "maxhp" : 22
+    },
+    "id" : 3083,
+    "tri_coef" : [ 3112 ],
+    "tri_type" : 1
+  },
+  "3084" : {
+    "rate" : {
+      "atk" : 22
+    },
+    "id" : 3084,
+    "tri_coef" : [ 3013 ],
+    "tri_type" : 1
+  },
+  "3085" : {
+    "rate" : {
+      "atk" : 23
+    },
+    "id" : 3085,
+    "tri_coef" : [ 20, 54 ],
+    "tri_type" : 2
+  },
+  "3086" : {
+    "rate" : {
+      "maxhp" : 26
+    },
+    "id" : 3086,
+    "tri_coef" : [ 20, 14 ],
+    "tri_type" : 2
+  },
+  "3087" : {
+    "rate" : {
+      "atk" : 30
+    },
+    "id" : 3087,
+    "tri_coef" : [ 20, 16, 27 ],
+    "tri_type" : 2
+  },
+  "3088" : {
+    "rate" : {
+      "maxhp" : 22
+    },
+    "id" : 3088,
+    "tri_coef" : [ 3114 ],
+    "tri_type" : 1
+  },
+  "3089" : {
+    "rate" : {
+      "def" : 22
+    },
+    "id" : 3089,
+    "tri_coef" : [ 3017 ],
+    "tri_type" : 1
+  },
+  "3090" : {
+    "rate" : {
+      "maxhp" : 30
+    },
+    "id" : 3090,
+    "tri_coef" : [ 21, 31 ],
+    "tri_type" : 2
+  },
+  "3091" : {
+    "rate" : {
+      "atk" : 24
+    },
+    "id" : 3091,
+    "tri_coef" : [ 21, 55 ],
+    "tri_type" : 2
+  },
+  "3092" : {
+    "rate" : {
+      "atk" : 32,
+      "maxhp" : 32
+    },
+    "id" : 3092,
+    "tri_coef" : [ 21, 16, 27, 147, 18 ],
+    "tri_type" : 2
+  },
+  "3093" : {
+    "rate" : {
+      "maxhp" : 25
+    },
+    "id" : 3093,
+    "tri_coef" : [ 3116 ],
+    "tri_type" : 1
+  },
+  "3094" : {
+    "rate" : {
+      "atk" : 25
+    },
+    "id" : 3094,
+    "tri_coef" : [ 3015 ],
+    "tri_type" : 1
+  },
+  "3095" : {
+    "rate" : {
+      "atk" : 24
+    },
+    "id" : 3095,
+    "tri_coef" : [ 23, 28 ],
+    "tri_type" : 2
+  },
+  "3096" : {
+    "rate" : {
+      "maxhp" : 21
+    },
+    "id" : 3096,
+    "tri_coef" : [ 23, 74 ],
+    "tri_type" : 2
+  },
+  "3097" : {
+    "rate" : {
+      "atk" : 28
+    },
+    "id" : 3097,
+    "tri_coef" : [ 23, 20, 29 ],
+    "tri_type" : 2
+  },
+  "3098" : {
+    "rate" : {
+      "maxhp" : 20
+    },
+    "id" : 3098,
+    "tri_coef" : [ 3117 ],
+    "tri_type" : 1
+  },
+  "3099" : {
+    "rate" : {
+      "def" : 20
+    },
+    "id" : 3099,
+    "tri_coef" : [ 3013 ],
+    "tri_type" : 1
+  },
+  "3100" : {
+    "rate" : {
+      "atk" : 24
+    },
+    "id" : 3100,
+    "tri_coef" : [ 24, 16 ],
+    "tri_type" : 2
+  },
+  "3101" : {
+    "rate" : {
+      "atk" : 24
+    },
+    "id" : 3101,
+    "tri_coef" : [ 24, 27 ],
+    "tri_type" : 2
+  },
+  "3102" : {
+    "rate" : {
+      "atk" : 30
+    },
+    "id" : 3102,
+    "tri_coef" : [ 24, 33, 39 ],
+    "tri_type" : 2
+  },
+  "3103" : {
+    "rate" : {
+      "def" : 22
+    },
+    "id" : 3103,
+    "tri_coef" : [ 3113 ],
+    "tri_type" : 1
+  },
+  "3104" : {
+    "rate" : {
+      "maxhp" : 22
+    },
+    "id" : 3104,
+    "tri_coef" : [ 3015 ],
+    "tri_type" : 1
+  },
+  "3105" : {
+    "rate" : {
+      "maxhp" : 27
+    },
+    "id" : 3105,
+    "tri_coef" : [ 27, 19 ],
+    "tri_type" : 2
+  },
+  "3106" : {
+    "rate" : {
+      "atk" : 30
+    },
+    "id" : 3106,
+    "tri_coef" : [ 27, 16, 20 ],
+    "tri_type" : 2
+  },
+  "3107" : {
+    "rate" : {
+      "atk" : 32,
+      "maxhp" : 32
+    },
+    "id" : 3107,
+    "tri_coef" : [ 27, 16, 147, 21, 18 ],
+    "tri_type" : 2
+  },
+  "3108" : {
+    "rate" : {
+      "atk" : 25
+    },
+    "id" : 3108,
+    "tri_coef" : [ 3117 ],
+    "tri_type" : 1
+  },
+  "3109" : {
+    "rate" : {
+      "maxhp" : 25
+    },
+    "id" : 3109,
+    "tri_coef" : [ 3017 ],
+    "tri_type" : 1
+  },
+  "3110" : {
+    "rate" : {
+      "maxhp" : 29
+    },
+    "id" : 3110,
+    "tri_coef" : [ 28, 14 ],
+    "tri_type" : 2
+  },
+  "3111" : {
+    "rate" : {
+      "atk" : 25,
+      "maxhp" : 30
+    },
+    "id" : 3111,
+    "tri_coef" : [ 28, 59, 36 ],
+    "tri_type" : 2
+  },
+  "3112" : {
+    "rate" : {
+      "atk" : 35
+    },
+    "id" : 3112,
+    "tri_coef" : [ 28, 20, 147 ],
+    "tri_type" : 2
+  },
+  "3113" : {
+    "rate" : {
+      "maxhp" : 28
+    },
+    "id" : 3113,
+    "tri_coef" : [ 3115 ],
+    "tri_type" : 1
+  },
+  "3114" : {
+    "rate" : {
+      "atk" : 28
+    },
+    "id" : 3114,
+    "tri_coef" : [ 3017 ],
+    "tri_type" : 1
+  },
+  "3115" : {
+    "rate" : {
+      "maxhp" : 21
+    },
+    "id" : 3115,
+    "tri_coef" : [ 29, 73 ],
+    "tri_type" : 2
+  },
+  "3116" : {
+    "rate" : {
+      "atk" : 20
+    },
+    "id" : 3116,
+    "tri_coef" : [ 29, 44 ],
+    "tri_type" : 2
+  },
+  "3117" : {
+    "rate" : {
+      "atk" : 28
+    },
+    "id" : 3117,
+    "tri_coef" : [ 29, 20, 23 ],
+    "tri_type" : 2
+  },
+  "3118" : {
+    "rate" : {
+      "def" : 20
+    },
+    "id" : 3118,
+    "tri_coef" : [ 3117 ],
+    "tri_type" : 1
+  },
+  "3119" : {
+    "rate" : {
+      "maxhp" : 20
+    },
+    "id" : 3119,
+    "tri_coef" : [ 3015 ],
+    "tri_type" : 1
+  },
+  "3120" : {
+    "rate" : {
+      "maxhp" : 30
+    },
+    "id" : 3120,
+    "tri_coef" : [ 30, 62 ],
+    "tri_type" : 2
+  },
+  "3121" : {
+    "rate" : {
+      "maxhp" : 29
+    },
+    "id" : 3121,
+    "tri_coef" : [ 30, 34 ],
+    "tri_type" : 2
+  },
+  "3122" : {
+    "rate" : {
+      "maxhp" : 38
+    },
+    "id" : 3122,
+    "tri_coef" : [ 30, 32, 36 ],
+    "tri_type" : 2
+  },
+  "3123" : {
+    "rate" : {
+      "maxhp" : 25
+    },
+    "id" : 3123,
+    "tri_coef" : [ 3113 ],
+    "tri_type" : 1
+  },
+  "3124" : {
+    "rate" : {
+      "atk" : 25
+    },
+    "id" : 3124,
+    "tri_coef" : [ 3014 ],
+    "tri_type" : 1
+  },
+  "3125" : {
+    "rate" : {
+      "maxhp" : 27
+    },
+    "id" : 3125,
+    "tri_coef" : [ 31, 21 ],
+    "tri_type" : 2
+  },
+  "3126" : {
+    "rate" : {
+      "maxhp" : 26
+    },
+    "id" : 3126,
+    "tri_coef" : [ 31, 39 ],
+    "tri_type" : 2
+  },
+  "3127" : {
+    "rate" : {
+      "atk" : 30
+    },
+    "id" : 3127,
+    "tri_coef" : [ 31, 33, 5 ],
+    "tri_type" : 2
+  },
+  "3128" : {
+    "rate" : {
+      "def" : 22
+    },
+    "id" : 3128,
+    "tri_coef" : [ 3115 ],
+    "tri_type" : 1
+  },
+  "3129" : {
+    "rate" : {
+      "maxhp" : 22
+    },
+    "id" : 3129,
+    "tri_coef" : [ 3014 ],
+    "tri_type" : 1
+  },
+  "3130" : {
+    "rate" : {
+      "maxhp" : 24
+    },
+    "id" : 3130,
+    "tri_coef" : [ 32, 33 ],
+    "tri_type" : 2
+  },
+  "3131" : {
+    "rate" : {
+      "def" : 28
+    },
+    "id" : 3131,
+    "tri_coef" : [ 32, 43 ],
+    "tri_type" : 2
+  },
+  "3132" : {
+    "rate" : {
+      "maxhp" : 38
+    },
+    "id" : 3132,
+    "tri_coef" : [ 32, 30, 36 ],
+    "tri_type" : 2
+  },
+  "3133" : {
+    "rate" : {
+      "atk" : 20
+    },
+    "id" : 3133,
+    "tri_coef" : [ 3112 ],
+    "tri_type" : 1
+  },
+  "3134" : {
+    "rate" : {
+      "maxhp" : 20
+    },
+    "id" : 3134,
+    "tri_coef" : [ 3014 ],
+    "tri_type" : 1
+  },
+  "3135" : {
+    "rate" : {
+      "maxhp" : 26
+    },
+    "id" : 3135,
+    "tri_coef" : [ 33, 38 ],
+    "tri_type" : 2
+  },
+  "3136" : {
+    "rate" : {
+      "maxhp" : 24
+    },
+    "id" : 3136,
+    "tri_coef" : [ 33, 32 ],
+    "tri_type" : 2
+  },
+  "3137" : {
+    "rate" : {
+      "atk" : 30
+    },
+    "id" : 3137,
+    "tri_coef" : [ 33, 31, 5 ],
+    "tri_type" : 2
+  },
+  "3138" : {
+    "rate" : {
+      "atk" : 30
+    },
+    "id" : 3138,
+    "tri_coef" : [ 33, 24, 39 ],
+    "tri_type" : 2
+  },
+  "3139" : {
+    "rate" : {
+      "def" : 22
+    },
+    "id" : 3139,
+    "tri_coef" : [ 3116 ],
+    "tri_type" : 1
+  },
+  "3140" : {
+    "rate" : {
+      "maxhp" : 29
+    },
+    "id" : 3140,
+    "tri_coef" : [ 34, 30 ],
+    "tri_type" : 2
+  },
+  "3141" : {
+    "rate" : {
+      "maxhp" : 27
+    },
+    "id" : 3141,
+    "tri_coef" : [ 34, 43 ],
+    "tri_type" : 2
+  },
+  "3142" : {
+    "rate" : {
+      "atk" : 33
+    },
+    "id" : 3142,
+    "tri_coef" : [ 34, 37, 38 ],
+    "tri_type" : 2
+  },
+  "3143" : {
+    "rate" : {
+      "maxhp" : 25
+    },
+    "id" : 3143,
+    "tri_coef" : [ 3115 ],
+    "tri_type" : 1
+  },
+  "3144" : {
+    "rate" : {
+      "maxhp" : 22
+    },
+    "id" : 3144,
+    "tri_coef" : [ 3014 ],
+    "tri_type" : 1
+  },
+  "3145" : {
+    "rate" : {
+      "maxhp" : 32
+    },
+    "id" : 3145,
+    "tri_coef" : [ 36, 62 ],
+    "tri_type" : 2
+  },
+  "3146" : {
+    "rate" : {
+      "atk" : 25,
+      "maxhp" : 30
+    },
+    "id" : 3146,
+    "tri_coef" : [ 36, 28, 59 ],
+    "tri_type" : 2
+  },
+  "3147" : {
+    "rate" : {
+      "maxhp" : 38
+    },
+    "id" : 3147,
+    "tri_coef" : [ 36, 32, 30 ],
+    "tri_type" : 2
+  },
+  "3148" : {
+    "rate" : {
+      "def" : 28
+    },
+    "id" : 3148,
+    "tri_coef" : [ 3115 ],
+    "tri_type" : 1
+  },
+  "3149" : {
+    "rate" : {
+      "atk" : 28
+    },
+    "id" : 3149,
+    "tri_coef" : [ 3015 ],
+    "tri_type" : 1
+  },
+  "3150" : {
+    "rate" : {
+      "maxhp" : 29
+    },
+    "id" : 3150,
+    "tri_coef" : [ 37, 13 ],
+    "tri_type" : 2
+  },
+  "3151" : {
+    "rate" : {
+      "maxhp" : 27
+    },
+    "id" : 3151,
+    "tri_coef" : [ 37, 61 ],
+    "tri_type" : 2
+  },
+  "3152" : {
+    "rate" : {
+      "atk" : 33
+    },
+    "id" : 3152,
+    "tri_coef" : [ 37, 34, 38 ],
+    "tri_type" : 2
+  },
+  "3153" : {
+    "rate" : {
+      "atk" : 25
+    },
+    "id" : 3153,
+    "tri_coef" : [ 3113 ],
+    "tri_type" : 1
+  },
+  "3154" : {
+    "rate" : {
+      "maxhp" : 25
+    },
+    "id" : 3154,
+    "tri_coef" : [ 3014 ],
+    "tri_type" : 1
+  },
+  "3155" : {
+    "rate" : {
+      "maxhp" : 26
+    },
+    "id" : 3155,
+    "tri_coef" : [ 38, 33 ],
+    "tri_type" : 2
+  },
+  "3156" : {
+    "rate" : {
+      "maxhp" : 26
+    },
+    "id" : 3156,
+    "tri_coef" : [ 38, 39 ],
+    "tri_type" : 2
+  },
+  "3157" : {
+    "rate" : {
+      "atk" : 30,
+      "maxhp" : 30
+    },
+    "id" : 3157,
+    "tri_coef" : [ 38, 62, 35, 41 ],
+    "tri_type" : 2
+  },
+  "3158" : {
+    "rate" : {
+      "atk" : 33
+    },
+    "id" : 3158,
+    "tri_coef" : [ 38, 37, 34 ],
+    "tri_type" : 2
+  },
+  "3159" : {
+    "rate" : {
+      "atk" : 22
+    },
+    "id" : 3159,
+    "tri_coef" : [ 3112 ],
+    "tri_type" : 1
+  },
+  "3160" : {
+    "rate" : {
+      "maxhp" : 26
+    },
+    "id" : 3160,
+    "tri_coef" : [ 39, 38 ],
+    "tri_type" : 2
+  },
+  "3161" : {
+    "rate" : {
+      "atk" : 21
+    },
+    "id" : 3161,
+    "tri_coef" : [ 39, 31 ],
+    "tri_type" : 2
+  },
+  "3162" : {
+    "rate" : {
+      "atk" : 30
+    },
+    "id" : 3162,
+    "tri_coef" : [ 39, 33, 24 ],
+    "tri_type" : 2
+  },
+  "3163" : {
+    "rate" : {
+      "def" : 22
+    },
+    "id" : 3163,
+    "tri_coef" : [ 3113 ],
+    "tri_type" : 1
+  },
+  "3164" : {
+    "rate" : {
+      "maxhp" : 22
+    },
+    "id" : 3164,
+    "tri_coef" : [ 3014 ],
+    "tri_type" : 1
+  },
+  "3165" : {
+    "rate" : {
+      "maxhp" : 26
+    },
+    "id" : 3165,
+    "tri_coef" : [ 40, 34 ],
+    "tri_type" : 2
+  },
+  "3166" : {
+    "rate" : {
+      "maxhp" : 26
+    },
+    "id" : 3166,
+    "tri_coef" : [ 40, 30 ],
+    "tri_type" : 2
+  },
+  "3167" : {
+    "rate" : {
+      "maxhp" : 24
+    },
+    "id" : 3167,
+    "tri_coef" : [ 40, 32 ],
+    "tri_type" : 2
+  },
+  "3168" : {
+    "rate" : {
+      "def" : 20
+    },
+    "id" : 3168,
+    "tri_coef" : [ 3114 ],
+    "tri_type" : 1
+  },
+  "3169" : {
+    "rate" : {
+      "atk" : 20
+    },
+    "id" : 3169,
+    "tri_coef" : [ 3017 ],
+    "tri_type" : 1
+  },
+  "3170" : {
+    "rate" : {
+      "maxhp" : 26
+    },
+    "id" : 3170,
+    "tri_coef" : [ 41, 31 ],
+    "tri_type" : 2
+  },
+  "3171" : {
+    "rate" : {
+      "maxhp" : 23
+    },
+    "id" : 3171,
+    "tri_coef" : [ 41, 68 ],
+    "tri_type" : 2
+  },
+  "3172" : {
+    "rate" : {
+      "atk" : 30,
+      "maxhp" : 30
+    },
+    "id" : 3172,
+    "tri_coef" : [ 41, 38, 35, 62 ],
+    "tri_type" : 2
+  },
+  "3173" : {
+    "rate" : {
+      "atk" : 22
+    },
+    "id" : 3173,
+    "tri_coef" : [ 3113 ],
+    "tri_type" : 1
+  },
+  "3174" : {
+    "rate" : {
+      "def" : 22
+    },
+    "id" : 3174,
+    "tri_coef" : [ 3013 ],
+    "tri_type" : 1
+  },
+  "3175" : {
+    "rate" : {
+      "maxhp" : 27
+    },
+    "id" : 3175,
+    "tri_coef" : [ 43, 34 ],
+    "tri_type" : 2
+  },
+  "3176" : {
+    "rate" : {
+      "def" : 28
+    },
+    "id" : 3176,
+    "tri_coef" : [ 43, 32 ],
+    "tri_type" : 2
+  },
+  "3177" : {
+    "rate" : {
+      "def" : 42
+    },
+    "id" : 3177,
+    "tri_coef" : [ 43, 6, 19 ],
+    "tri_type" : 2
+  },
+  "3178" : {
+    "rate" : {
+      "maxhp" : 22
+    },
+    "id" : 3178,
+    "tri_coef" : [ 3117 ],
+    "tri_type" : 1
+  },
+  "3179" : {
+    "rate" : {
+      "atk" : 22
+    },
+    "id" : 3179,
+    "tri_coef" : [ 3013 ],
+    "tri_type" : 1
+  },
+  "3180" : {
+    "rate" : {
+      "def" : 34
+    },
+    "id" : 3180,
+    "tri_coef" : [ 44, 184 ],
+    "tri_type" : 2
+  },
+  "3181" : {
+    "rate" : {
+      "def" : 25
+    },
+    "id" : 3181,
+    "tri_coef" : [ 44, 29 ],
+    "tri_type" : 2
+  },
+  "3182" : {
+    "rate" : {
+      "def" : 41
+    },
+    "id" : 3182,
+    "tri_coef" : [ 44, 56, 54 ],
+    "tri_type" : 2
+  },
+  "3183" : {
+    "rate" : {
+      "maxhp" : 22
+    },
+    "id" : 3183,
+    "tri_coef" : [ 3112 ],
+    "tri_type" : 1
+  },
+  "3184" : {
+    "rate" : {
+      "atk" : 22
+    },
+    "id" : 3184,
+    "tri_coef" : [ 3017 ],
+    "tri_type" : 1
+  },
+  "3185" : {
+    "rate" : {
+      "maxhp" : 26
+    },
+    "id" : 3185,
+    "tri_coef" : [ 46, 58 ],
+    "tri_type" : 2
+  },
+  "3186" : {
+    "rate" : {
+      "atk" : 23
+    },
+    "id" : 3186,
+    "tri_coef" : [ 46, 57 ],
+    "tri_type" : 2
+  },
+  "3187" : {
+    "rate" : {
+      "atk" : 32,
+      "maxhp" : 32
+    },
+    "id" : 3187,
+    "tri_coef" : [ 46, 55, 59, 50, 52 ],
+    "tri_type" : 2
+  },
+  "3188" : {
+    "rate" : {
+      "maxhp" : 39
+    },
+    "id" : 3188,
+    "tri_coef" : [ 46, 184, 53 ],
+    "tri_type" : 2
+  },
+  "3189" : {
+    "rate" : {
+      "atk" : 25
+    },
+    "id" : 3189,
+    "tri_coef" : [ 3117 ],
+    "tri_type" : 1
+  },
+  "3190" : {
+    "rate" : {
+      "maxhp" : 28
+    },
+    "id" : 3190,
+    "tri_coef" : [ 47, 184 ],
+    "tri_type" : 2
+  },
+  "3191" : {
+    "rate" : {
+      "atk" : 21
+    },
+    "id" : 3191,
+    "tri_coef" : [ 47, 18 ],
+    "tri_type" : 2
+  },
+  "3192" : {
+    "rate" : {
+      "atk" : 25,
+      "def" : 28
+    },
+    "id" : 3192,
+    "tri_coef" : [ 47, 58, 50 ],
+    "tri_type" : 2
+  },
+  "3193" : {
+    "rate" : {
+      "atk" : 20
+    },
+    "id" : 3193,
+    "tri_coef" : [ 3115 ],
+    "tri_type" : 1
+  },
+  "3194" : {
+    "rate" : {
+      "def" : 20
+    },
+    "id" : 3194,
+    "tri_coef" : [ 3017 ],
+    "tri_type" : 1
+  },
+  "3195" : {
+    "rate" : {
+      "def" : 26
+    },
+    "id" : 3195,
+    "tri_coef" : [ 48, 46 ],
+    "tri_type" : 2
+  },
+  "3196" : {
+    "rate" : {
+      "atk" : 32
+    },
+    "id" : 3196,
+    "tri_coef" : [ 48, 18 ],
+    "tri_type" : 2
+  },
+  "3197" : {
+    "rate" : {
+      "maxhp" : 38
+    },
+    "id" : 3197,
+    "tri_coef" : [ 48, 49, 59 ],
+    "tri_type" : 2
+  },
+  "3198" : {
+    "rate" : {
+      "def" : 20
+    },
+    "id" : 3198,
+    "tri_coef" : [ 3114 ],
+    "tri_type" : 1
+  },
+  "3199" : {
+    "rate" : {
+      "atk" : 20
+    },
+    "id" : 3199,
+    "tri_coef" : [ 3012 ],
+    "tri_type" : 1
+  },
+  "3200" : {
+    "rate" : {
+      "atk" : 27
+    },
+    "id" : 3200,
+    "tri_coef" : [ 49, 59 ],
+    "tri_type" : 2
+  },
+  "3201" : {
+    "rate" : {
+      "maxhp" : 29
+    },
+    "id" : 3201,
+    "tri_coef" : [ 49, 50 ],
+    "tri_type" : 2
+  },
+  "3202" : {
+    "rate" : {
+      "maxhp" : 38
+    },
+    "id" : 3202,
+    "tri_coef" : [ 49, 59, 48 ],
+    "tri_type" : 2
+  },
+  "3203" : {
+    "rate" : {
+      "def" : 25
+    },
+    "id" : 3203,
+    "tri_coef" : [ 3114 ],
+    "tri_type" : 1
+  },
+  "3204" : {
+    "rate" : {
+      "atk" : 25
+    },
+    "id" : 3204,
+    "tri_coef" : [ 3015 ],
+    "tri_type" : 1
+  },
+  "3205" : {
+    "rate" : {
+      "maxhp" : 29
+    },
+    "id" : 3205,
+    "tri_coef" : [ 50, 49 ],
+    "tri_type" : 2
+  },
+  "3206" : {
+    "rate" : {
+      "atk" : 25,
+      "def" : 28
+    },
+    "id" : 3206,
+    "tri_coef" : [ 50, 47, 58 ],
+    "tri_type" : 2
+  },
+  "3207" : {
+    "rate" : {
+      "atk" : 32,
+      "maxhp" : 32
+    },
+    "id" : 3207,
+    "tri_coef" : [ 50, 55, 59, 46, 52 ],
+    "tri_type" : 2
+  },
+  "3208" : {
+    "rate" : {
+      "maxhp" : 25
+    },
+    "id" : 3208,
+    "tri_coef" : [ 3114 ],
+    "tri_type" : 1
+  },
+  "3209" : {
+    "rate" : {
+      "atk" : 25
+    },
+    "id" : 3209,
+    "tri_coef" : [ 3013 ],
+    "tri_type" : 1
+  },
+  "3210" : {
+    "rate" : {
+      "atk" : 20
+    },
+    "id" : 3210,
+    "tri_coef" : [ 51, 57 ],
+    "tri_type" : 2
+  },
+  "3211" : {
+    "rate" : {
+      "maxhp" : 26
+    },
+    "id" : 3211,
+    "tri_coef" : [ 51, 45 ],
+    "tri_type" : 2
+  },
+  "3212" : {
+    "rate" : {
+      "atk" : 21
+    },
+    "id" : 3212,
+    "tri_coef" : [ 51, 278 ],
+    "tri_type" : 2
+  },
+  "3213" : {
+    "rate" : {
+      "def" : 22
+    },
+    "id" : 3213,
+    "tri_coef" : [ 3115 ],
+    "tri_type" : 1
+  },
+  "3214" : {
+    "rate" : {
+      "maxhp" : 22
+    },
+    "id" : 3214,
+    "tri_coef" : [ 3016 ],
+    "tri_type" : 1
+  },
+  "3215" : {
+    "rate" : {
+      "def" : 30
+    },
+    "id" : 3215,
+    "tri_coef" : [ 52, 53 ],
+    "tri_type" : 2
+  },
+  "3216" : {
+    "rate" : {
+      "maxhp" : 26
+    },
+    "id" : 3216,
+    "tri_coef" : [ 52, 54 ],
+    "tri_type" : 2
+  },
+  "3217" : {
+    "rate" : {
+      "atk" : 32,
+      "maxhp" : 32
+    },
+    "id" : 3217,
+    "tri_coef" : [ 52, 55, 59, 46, 50 ],
+    "tri_type" : 2
+  },
+  "3218" : {
+    "rate" : {
+      "atk" : 22
+    },
+    "id" : 3218,
+    "tri_coef" : [ 3114 ],
+    "tri_type" : 1
+  },
+  "3219" : {
+    "rate" : {
+      "def" : 22
+    },
+    "id" : 3219,
+    "tri_coef" : [ 3012 ],
+    "tri_type" : 1
+  },
+  "3220" : {
+    "rate" : {
+      "def" : 32
+    },
+    "id" : 3220,
+    "tri_coef" : [ 53, 50 ],
+    "tri_type" : 2
+  },
+  "3221" : {
+    "rate" : {
+      "maxhp" : 24
+    },
+    "id" : 3221,
+    "tri_coef" : [ 53, 57 ],
+    "tri_type" : 2
+  },
+  "3222" : {
+    "rate" : {
+      "maxhp" : 39
+    },
+    "id" : 3222,
+    "tri_coef" : [ 53, 184, 46 ],
+    "tri_type" : 2
+  },
+  "3223" : {
+    "rate" : {
+      "def" : 22
+    },
+    "id" : 3223,
+    "tri_coef" : [ 3116 ],
+    "tri_type" : 1
+  },
+  "3224" : {
+    "rate" : {
+      "atk" : 22
+    },
+    "id" : 3224,
+    "tri_coef" : [ 3012 ],
+    "tri_type" : 1
+  },
+  "3225" : {
+    "rate" : {
+      "atk" : 23
+    },
+    "id" : 3225,
+    "tri_coef" : [ 54, 20 ],
+    "tri_type" : 2
+  },
+  "3226" : {
+    "rate" : {
+      "maxhp" : 26
+    },
+    "id" : 3226,
+    "tri_coef" : [ 54, 52 ],
+    "tri_type" : 2
+  },
+  "3227" : {
+    "rate" : {
+      "def" : 41
+    },
+    "id" : 3227,
+    "tri_coef" : [ 54, 44, 56 ],
+    "tri_type" : 2
+  },
+  "3228" : {
+    "rate" : {
+      "def" : 22
+    },
+    "id" : 3228,
+    "tri_coef" : [ 3114 ],
+    "tri_type" : 1
+  },
+  "3229" : {
+    "rate" : {
+      "atk" : 22
+    },
+    "id" : 3229,
+    "tri_coef" : [ 3013 ],
+    "tri_type" : 1
+  },
+  "3230" : {
+    "rate" : {
+      "maxhp" : 26
+    },
+    "id" : 3230,
+    "tri_coef" : [ 55, 21 ],
+    "tri_type" : 2
+  },
+  "3231" : {
+    "rate" : {
+      "atk" : 30
+    },
+    "id" : 3231,
+    "tri_coef" : [ 55, 19, 184 ],
+    "tri_type" : 2
+  },
+  "3232" : {
+    "rate" : {
+      "atk" : 32,
+      "maxhp" : 32
+    },
+    "id" : 3232,
+    "tri_coef" : [ 55, 59, 52, 46, 50 ],
+    "tri_type" : 2
+  },
+  "3233" : {
+    "rate" : {
+      "atk" : 22
+    },
+    "id" : 3233,
+    "tri_coef" : [ 3113 ],
+    "tri_type" : 1
+  },
+  "3234" : {
+    "rate" : {
+      "maxhp" : 22
+    },
+    "id" : 3234,
+    "tri_coef" : [ 3017 ],
+    "tri_type" : 1
+  },
+  "3235" : {
+    "rate" : {
+      "maxhp" : 34
+    },
+    "id" : 3235,
+    "tri_coef" : [ 56, 59 ],
+    "tri_type" : 2
+  },
+  "3236" : {
+    "rate" : {
+      "def" : 25
+    },
+    "id" : 3236,
+    "tri_coef" : [ 56, 91 ],
+    "tri_type" : 2
+  },
+  "3237" : {
+    "rate" : {
+      "def" : 41
+    },
+    "id" : 3237,
+    "tri_coef" : [ 56, 44, 54 ],
+    "tri_type" : 2
+  },
+  "3238" : {
+    "rate" : {
+      "maxhp" : 22
+    },
+    "id" : 3238,
+    "tri_coef" : [ 3112 ],
+    "tri_type" : 1
+  },
+  "3239" : {
+    "rate" : {
+      "atk" : 22
+    },
+    "id" : 3239,
+    "tri_coef" : [ 3015 ],
+    "tri_type" : 1
+  },
+  "3240" : {
+    "rate" : {
+      "atk" : 23
+    },
+    "id" : 3240,
+    "tri_coef" : [ 57, 46 ],
+    "tri_type" : 2
+  },
+  "3241" : {
+    "rate" : {
+      "maxhp" : 24
+    },
+    "id" : 3241,
+    "tri_coef" : [ 57, 53 ],
+    "tri_type" : 2
+  },
+  "3242" : {
+    "rate" : {
+      "maxhp" : 32
+    },
+    "id" : 3242,
+    "tri_coef" : [ 57, 58, 89 ],
+    "tri_type" : 2
+  },
+  "3243" : {
+    "rate" : {
+      "def" : 20
+    },
+    "id" : 3243,
+    "tri_coef" : [ 3112 ],
+    "tri_type" : 1
+  },
+  "3244" : {
+    "rate" : {
+      "atk" : 20
+    },
+    "id" : 3244,
+    "tri_coef" : [ 3017 ],
+    "tri_type" : 1
+  },
+  "3245" : {
+    "rate" : {
+      "def" : 27
+    },
+    "id" : 3245,
+    "tri_coef" : [ 58, 46 ],
+    "tri_type" : 2
+  },
+  "3246" : {
+    "rate" : {
+      "maxhp" : 24
+    },
+    "id" : 3246,
+    "tri_coef" : [ 58, 93 ],
+    "tri_type" : 2
+  },
+  "3247" : {
+    "rate" : {
+      "atk" : 25,
+      "def" : 28
+    },
+    "id" : 3247,
+    "tri_coef" : [ 58, 47, 50 ],
+    "tri_type" : 2
+  },
+  "3248" : {
+    "rate" : {
+      "maxhp" : 32
+    },
+    "id" : 3248,
+    "tri_coef" : [ 58, 57, 89 ],
+    "tri_type" : 2
+  },
+  "3249" : {
+    "rate" : {
+      "atk" : 25
+    },
+    "id" : 3249,
+    "tri_coef" : [ 3114 ],
+    "tri_type" : 1
+  },
+  "3250" : {
+    "rate" : {
+      "maxhp" : 29
+    },
+    "id" : 3250,
+    "tri_coef" : [ 59, 56 ],
+    "tri_type" : 2
+  },
+  "3251" : {
+    "rate" : {
+      "atk" : 25,
+      "maxhp" : 30
+    },
+    "id" : 3251,
+    "tri_coef" : [ 59, 28, 36 ],
+    "tri_type" : 2
+  },
+  "3252" : {
+    "rate" : {
+      "atk" : 32,
+      "maxhp" : 32
+    },
+    "id" : 3252,
+    "tri_coef" : [ 59, 55, 46, 50, 52 ],
+    "tri_type" : 2
+  },
+  "3253" : {
+    "rate" : {
+      "atk" : 28
+    },
+    "id" : 3253,
+    "tri_coef" : [ 3115 ],
+    "tri_type" : 1
+  },
+  "3254" : {
+    "rate" : {
+      "maxhp" : 28
+    },
+    "id" : 3254,
+    "tri_coef" : [ 3013 ],
+    "tri_type" : 1
+  },
+  "3255" : {
+    "rate" : {
+      "def" : 28
+    },
+    "id" : 3255,
+    "tri_coef" : [ 60, 17 ],
+    "tri_type" : 2
+  },
+  "3256" : {
+    "rate" : {
+      "maxhp" : 24
+    },
+    "id" : 3256,
+    "tri_coef" : [ 60, 181 ],
+    "tri_type" : 2
+  },
+  "3257" : {
+    "rate" : {
+      "maxhp" : 26
+    },
+    "id" : 3257,
+    "tri_coef" : [ 60, 76, 91 ],
+    "tri_type" : 2
+  },
+  "3258" : {
+    "rate" : {
+      "def" : 20
+    },
+    "id" : 3258,
+    "tri_coef" : [ 3116 ],
+    "tri_type" : 1
+  },
+  "3259" : {
+    "rate" : {
+      "atk" : 20
+    },
+    "id" : 3259,
+    "tri_coef" : [ 3016 ],
+    "tri_type" : 1
+  },
+  "3260" : {
+    "rate" : {
+      "maxhp" : 27
+    },
+    "id" : 3260,
+    "tri_coef" : [ 61, 37 ],
+    "tri_type" : 2
+  },
+  "3261" : {
+    "rate" : {
+      "atk" : 21
+    },
+    "id" : 3261,
+    "tri_coef" : [ 61, 11 ],
+    "tri_type" : 2
+  },
+  "3262" : {
+    "rate" : {
+      "atk" : 30,
+      "maxhp" : 30
+    },
+    "id" : 3262,
+    "tri_coef" : [ 61, 62, 38, 35, 41 ],
+    "tri_type" : 2
+  },
+  "3263" : {
+    "rate" : {
+      "atk" : 22
+    },
+    "id" : 3263,
+    "tri_coef" : [ 3112 ],
+    "tri_type" : 1
+  },
+  "3264" : {
+    "rate" : {
+      "maxhp" : 22
+    },
+    "id" : 3264,
+    "tri_coef" : [ 3014 ],
+    "tri_type" : 1
+  },
+  "3265" : {
+    "rate" : {
+      "maxhp" : 30
+    },
+    "id" : 3265,
+    "tri_coef" : [ 62, 30 ],
+    "tri_type" : 2
+  },
+  "3266" : {
+    "rate" : {
+      "maxhp" : 32
+    },
+    "id" : 3266,
+    "tri_coef" : [ 62, 36 ],
+    "tri_type" : 2
+  },
+  "3267" : {
+    "rate" : {
+      "atk" : 30,
+      "maxhp" : 30
+    },
+    "id" : 3267,
+    "tri_coef" : [ 62, 61, 38, 35, 41 ],
+    "tri_type" : 2
+  },
+  "3268" : {
+    "rate" : {
+      "atk" : 28
+    },
+    "id" : 3268,
+    "tri_coef" : [ 3117 ],
+    "tri_type" : 1
+  },
+  "3269" : {
+    "rate" : {
+      "def" : 28
+    },
+    "id" : 3269,
+    "tri_coef" : [ 3014 ],
+    "tri_type" : 1
+  },
+  "3270" : {
+    "rate" : {
+      "atk" : 25
+    },
+    "id" : 3270,
+    "tri_coef" : [ 147, 14 ],
+    "tri_type" : 2
+  },
+  "3271" : {
+    "rate" : {
+      "atk" : 32,
+      "maxhp" : 32
+    },
+    "id" : 3271,
+    "tri_coef" : [ 147, 16, 27, 21, 18 ],
+    "tri_type" : 2
+  },
+  "3272" : {
+    "rate" : {
+      "maxhp" : 32
+    },
+    "id" : 3272,
+    "tri_coef" : [ 147, 260, 28 ],
+    "tri_type" : 2
+  },
+  "3273" : {
+    "rate" : {
+      "atk" : 28
+    },
+    "id" : 3273,
+    "tri_coef" : [ 3112 ],
+    "tri_type" : 1
+  },
+  "3274" : {
+    "rate" : {
+      "maxhp" : 32
+    },
+    "id" : 3274,
+    "tri_coef" : [ 3017 ],
+    "tri_type" : 1
+  },
+  "3275" : {
+    "rate" : {
+      "atk" : 27
+    },
+    "id" : 3275,
+    "tri_coef" : [ 148, 13 ],
+    "tri_type" : 2
+  },
+  "3276" : {
+    "rate" : {
+      "atk" : 25,
+      "maxhp" : 30
+    },
+    "id" : 3276,
+    "tri_coef" : [ 148, 16, 147, 184, 33 ],
+    "tri_type" : 2
+  },
+  "3277" : {
+    "rate" : {
+      "atk" : 30,
+      "maxhp" : 30
+    },
+    "id" : 3277,
+    "tri_coef" : [ 148, 7, 11, 12, 3 ],
+    "tri_type" : 2
+  },
+  "3278" : {
+    "rate" : {
+      "atk" : 28
+    },
+    "id" : 3278,
+    "tri_coef" : [ 3116 ],
+    "tri_type" : 1
+  },
+  "3279" : {
+    "rate" : {
+      "maxhp" : 28
+    },
+    "id" : 3279,
+    "tri_coef" : [ 3012 ],
+    "tri_type" : 1
+  },
+  "3280" : {
+    "rate" : {
+      "atk" : 25
+    },
+    "id" : 3280,
+    "tri_coef" : [ 181, 37 ],
+    "tri_type" : 2
+  },
+  "3281" : {
+    "rate" : {
+      "maxhp" : 24
+    },
+    "id" : 3281,
+    "tri_coef" : [ 181, 60 ],
+    "tri_type" : 2
+  },
+  "3282" : {
+    "rate" : {
+      "atk" : 25,
+      "maxhp" : 30
+    },
+    "id" : 3282,
+    "tri_coef" : [ 181, 39, 72, 41 ],
+    "tri_type" : 2
+  },
+  "3283" : {
+    "rate" : {
+      "atk" : 22
+    },
+    "id" : 3283,
+    "tri_coef" : [ 3112 ],
+    "tri_type" : 1
+  },
+  "3284" : {
+    "rate" : {
+      "def" : 28
+    },
+    "id" : 3284,
+    "tri_coef" : [ 3014 ],
+    "tri_type" : 1
+  },
+  "3285" : {
+    "rate" : {
+      "def" : 27
+    },
+    "id" : 3285,
+    "tri_coef" : [ 184, 52, 53 ],
+    "tri_type" : 2
+  },
+  "3286" : {
+    "rate" : {
+      "atk" : 30
+    },
+    "id" : 3286,
+    "tri_coef" : [ 184, 19, 55 ],
+    "tri_type" : 2
+  },
+  "3287" : {
+    "rate" : {
+      "atk" : 25,
+      "maxhp" : 30
+    },
+    "id" : 3287,
+    "tri_coef" : [ 184, 148, 16, 147 ],
+    "tri_type" : 2
+  },
+  "3288" : {
+    "rate" : {
+      "atk" : 25
+    },
+    "id" : 3288,
+    "tri_coef" : [ 3113 ],
+    "tri_type" : 1
+  },
+  "3289" : {
+    "rate" : {
+      "maxhp" : 32
+    },
+    "id" : 3289,
+    "tri_coef" : [ 3017 ],
+    "tri_type" : 1
+  },
+  "3290": {
+    "rate": {
+      "def": 25
+    },
+    "id": 3290,
+    "tri_coef": [ 65, 210 ],
+    "tri_type": 2
+  }
+}

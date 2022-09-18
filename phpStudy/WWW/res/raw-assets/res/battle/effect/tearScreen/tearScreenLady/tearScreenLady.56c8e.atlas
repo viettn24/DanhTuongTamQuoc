@@ -1,0 +1,132 @@
+
+tearScreenLady.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tearScreenLady/bianzi1
+  rotate: false
+  xy: 135, 65
+  size: 150, 49
+  orig: 150, 49
+  offset: 0, 0
+  index: -1
+tearScreenLady/bianzi2
+  rotate: false
+  xy: 135, 17
+  size: 148, 46
+  orig: 148, 46
+  offset: 0, 0
+  index: -1
+tearScreenLady/dddr
+  rotate: false
+  xy: 326, 117
+  size: 278, 240
+  orig: 278, 240
+  offset: 0, 0
+  index: -1
+tearScreenLady/fa1
+  rotate: false
+  xy: 682, 344
+  size: 205, 164
+  orig: 205, 164
+  offset: 0, 0
+  index: -1
+tearScreenLady/fa2
+  rotate: false
+  xy: 821, 165
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+tearScreenLady/fa3
+  rotate: false
+  xy: 821, 242
+  size: 59, 100
+  orig: 59, 100
+  offset: 0, 0
+  index: -1
+tearScreenLady/lian
+  rotate: true
+  xy: 2, 2
+  size: 112, 131
+  orig: 112, 131
+  offset: 0, 0
+  index: -1
+tearScreenLady/mao1
+  rotate: false
+  xy: 882, 247
+  size: 107, 49
+  orig: 107, 49
+  offset: 0, 0
+  index: -1
+tearScreenLady/mao2
+  rotate: false
+  xy: 898, 175
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+tearScreenLady/pifeng
+  rotate: false
+  xy: 2, 116
+  size: 322, 241
+  orig: 322, 241
+  offset: 0, 0
+  index: -1
+tearScreenLady/shenti
+  rotate: false
+  xy: 651, 211
+  size: 124, 131
+  orig: 124, 131
+  offset: 0, 0
+  index: -1
+tearScreenLady/wuqi
+  rotate: false
+  xy: 2, 359
+  size: 678, 149
+  orig: 678, 149
+  offset: 0, 0
+  index: -1
+tearScreenLady/xianglian
+  rotate: true
+  xy: 337, 88
+  size: 27, 64
+  orig: 27, 64
+  offset: 0, 0
+  index: -1
+tearScreenLady/xiati
+  rotate: false
+  xy: 889, 298
+  size: 117, 210
+  orig: 117, 210
+  offset: 0, 0
+  index: -1
+tearScreenLady/xiong
+  rotate: true
+  xy: 287, 65
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+tearScreenLady/youshou
+  rotate: false
+  xy: 651, 163
+  size: 115, 46
+  orig: 115, 46
+  offset: 0, 0
+  index: -1
+tearScreenLady/zuoshou
+  rotate: true
+  xy: 606, 159
+  size: 198, 43
+  orig: 198, 43
+  offset: 0, 0
+  index: -1
+tearScreenLady/zuoxiaotui
+  rotate: false
+  xy: 777, 208
+  size: 42, 134
+  orig: 42, 134
+  offset: 0, 0
+  index: -1

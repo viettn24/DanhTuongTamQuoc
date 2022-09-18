@@ -1,0 +1,128 @@
+{
+    "1455": {
+        "quality": 1
+    },
+    "1456": {
+        "quality": 3
+    },
+    "1004": {
+        "quality": 3
+    },
+    "1450": {
+        "quality": 1
+    },
+    "1005": {
+        "quality": 1
+    },
+    "1452": {
+        "quality": 1
+    },
+    "1006": {
+        "quality": 0
+    },
+    "1113": {
+        "openbox": 1613,
+        "quality": 3
+    },
+    "1007": {
+        "quality": 1
+    },
+    "1454": {
+        "quality": 1
+    },
+    "1008": {
+        "quality": 2
+    },
+    "1453": {
+        "quality": 1
+    },
+    "1009": {
+        "quality": 3
+    },
+    "1451": {
+        "quality": 1
+    },
+    "1010": {
+        "quality": 3
+    },
+    "1101": {
+        "openbox": 1601,
+        "quality": 1
+    },
+    "1011": {
+        "quality": 2
+    },
+    "1104": {
+        "quality": 3
+    },
+    "1012": {
+        "quality": 3
+    },
+    "1112": {
+        "openbox": 1612,
+        "quality": 2
+    },
+    "1013": {
+        "quality": 3
+    },
+    "1103": {
+        "openbox": 1603,
+        "quality": 3
+    },
+    "1014": {
+        "quality": 3
+    },
+    "1102": {
+        "openbox": 1602,
+        "quality": 2
+    },
+    "1015": {
+        "quality": 3
+    },
+    "1000": {
+        "quality": 2
+    },
+    "1016": {
+        "quality": 3
+    },
+    "1018":{
+      "quality":3
+    },
+    "1019":{
+      "quality":3
+    },
+    "1001": {
+        "quality": 3
+    },
+    "1017": {
+        "quality": 3
+    },
+    "1002": {
+        "quality": 3
+    },
+    "1105": {
+        "quality": 3
+    },
+    "1003": {
+        "quality": 3
+    },
+    "1100": {
+        "openbox": 1600,
+        "quality": 0
+    },
+    "1060": {
+        "quality": 2
+    },
+    "1061": {
+        "quality": 1,
+        "addon": 50
+    },
+    "1062": {
+        "quality": 2,
+        "addon": 100
+    },
+    "1063": {
+        "quality": 3,
+        "addon": 200
+    }
+}

@@ -1,0 +1,41 @@
+
+gameBegin.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+texture_gameBegin/duang_light
+  rotate: false
+  xy: 2, 144
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+texture_gameBegin/logo
+  rotate: false
+  xy: 2, 274
+  size: 590, 220
+  orig: 590, 220
+  offset: 0, 0
+  index: -1
+texture_gameBegin/logo2
+  rotate: true
+  xy: 798, 613
+  size: 295, 110
+  orig: 295, 110
+  offset: 0, 0
+  index: -1
+texture_gameBegin/sprite18
+  rotate: false
+  xy: 594, 438
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
+texture_gameBegin/wj
+  rotate: false
+  xy: 2, 496
+  size: 794, 412
+  orig: 794, 412
+  offset: 0, 0
+  index: -1

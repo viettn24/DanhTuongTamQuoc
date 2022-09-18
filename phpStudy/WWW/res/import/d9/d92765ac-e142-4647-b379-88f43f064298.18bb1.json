@@ -1,0 +1,1 @@
+[{"__type__":"cc.Prefab","_name":"WJ085","data":{"__id__":1},"asyncLoadAssets":null},{"__type__":"cc.Node","_name":"WJ0085","_components":[{"__type__":"sp.Skeleton","node":{"__id__":1},"loop":false,"_N$skeletonData":{"__uuid__":"9fTOnEqrdDT4K+M1i/YQqE"}}],"_prefab":{"__type__":"cc.PrefabInfo","root":{"__id__":1},"asset":{"__id__":0},"fileId":"f8XRkqTthHWboK5cBTXxTn"}}]

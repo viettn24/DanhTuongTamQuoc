@@ -1,0 +1,1 @@
+[{"__type__":"cc.Prefab","_name":"guozhan_boy","data":{"__id__":1},"asyncLoadAssets":null},{"__type__":"cc.Node","_name":"guozhan_boy","_components":[{"__type__":"sp.Skeleton","node":{"__id__":1},"_N$skeletonData":{"__uuid__":"15626Gg3BMBrzJtP9XjSK0"}}],"_prefab":{"__type__":"cc.PrefabInfo","root":{"__id__":1},"asset":{"__id__":0},"fileId":"61w5xK/wtJJYT25llwXzMW"}}]

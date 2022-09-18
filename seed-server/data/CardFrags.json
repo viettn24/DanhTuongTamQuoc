@@ -1,0 +1,734 @@
+{
+  "575" : {
+    "craft_num" : 15,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 76,
+    "quality" : 2
+  },
+  "583" : {
+    "craft_num" : 15,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 84,
+    "quality" : 2
+  },
+  "591" : {
+    "craft_num" : 15,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 92,
+    "quality" : 2
+  },
+  "599" : {
+    "craft_num" : 15,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 100,
+    "quality" : 2
+  },
+  "607" : {
+    "craft_num" : 15,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 108,
+    "quality" : 2
+  },
+  "500" : {
+    "craft_num" : 30,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 1,
+    "quality" : 2
+  },
+  "504" : {
+    "craft_num" : 30,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 5,
+    "quality" : 3
+  },
+  "508" : {
+    "craft_num" : 30,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 9,
+    "quality" : 3
+  },
+  "512" : {
+    "craft_num" : 30,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 13,
+    "quality" : 3
+  },
+  "520" : {
+    "craft_num" : 30,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 21,
+    "quality" : 3
+  },
+  "528" : {
+    "craft_num" : 30,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 29,
+    "quality" : 3
+  },
+  "536" : {
+    "craft_num" : 60,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 37,
+    "quality" : 4
+  },
+  "544" : {
+    "craft_num" : 30,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 45,
+    "quality" : 2
+  },
+  "552" : {
+    "craft_num" : 60,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 53,
+    "quality" : 4
+  },
+  "560" : {
+    "craft_num" : 30,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 61,
+    "quality" : 3
+  },
+  "568" : {
+    "craft_num" : 15,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 69,
+    "quality" : 2
+  },
+  "576" : {
+    "craft_num" : 15,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 77,
+    "quality" : 2
+  },
+  "584" : {
+    "craft_num" : 15,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 85,
+    "quality" : 2
+  },
+  "592" : {
+    "craft_num" : 15,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 93,
+    "quality" : 2
+  },
+  "600" : {
+    "craft_num" : 15,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 101,
+    "quality" : 2
+  },
+  "608" : {
+    "craft_num" : 15,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 109,
+    "quality" : 2
+  },
+  "513" : {
+    "craft_num" : 60,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 14,
+    "quality" : 4
+  },
+  "521" : {
+    "craft_num" : 30,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 22,
+    "quality" : 2
+  },
+  "529" : {
+    "craft_num" : 30,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 30,
+    "quality" : 3
+  },
+  "537" : {
+    "craft_num" : 30,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 38,
+    "quality" : 3
+  },
+  "545" : {
+    "craft_num" : 30,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 46,
+    "quality" : 3
+  },
+  "553" : {
+    "craft_num" : 30,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 54,
+    "quality" : 3
+  },
+  "561" : {
+    "craft_num" : 30,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 62,
+    "quality" : 3
+  },
+  "569" : {
+    "craft_num" : 15,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 70,
+    "quality" : 2
+  },
+  "577" : {
+    "craft_num" : 15,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 78,
+    "quality" : 2
+  },
+  "585" : {
+    "craft_num" : 15,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 86,
+    "quality" : 2
+  },
+  "593" : {
+    "craft_num" : 15,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 94,
+    "quality" : 2
+  },
+  "601" : {
+    "craft_num" : 15,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 102,
+    "quality" : 2
+  },
+  "609" : {
+    "craft_num" : 15,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 110,
+    "quality" : 2
+  },
+  "501" : {
+    "craft_num" : 30,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 2,
+    "quality" : 3
+  },
+  "505" : {
+    "craft_num" : 30,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 6,
+    "quality" : 3
+  },
+  "509" : {
+    "craft_num" : 30,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 10,
+    "quality" : 3
+  },
+  "514" : {
+    "craft_num" : 30,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 15,
+    "quality" : 2
+  },
+  "522" : {
+    "craft_num" : 30,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 23,
+    "quality" : 3
+  },
+  "530" : {
+    "craft_num" : 30,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 31,
+    "quality" : 3
+  },
+  "538" : {
+    "craft_num" : 30,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 39,
+    "quality" : 3
+  },
+  "546" : {
+    "craft_num" : 30,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 47,
+    "quality" : 3
+  },
+  "554" : {
+    "craft_num" : 30,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 55,
+    "quality" : 3
+  },
+  "562" : {
+    "craft_num" : 15,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 63,
+    "quality" : 2
+  },
+  "570" : {
+    "craft_num" : 15,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 71,
+    "quality" : 2
+  },
+  "578" : {
+    "craft_num" : 15,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 79,
+    "quality" : 2
+  },
+  "586" : {
+    "craft_num" : 15,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 87,
+    "quality" : 2
+  },
+  "594" : {
+    "craft_num" : 15,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 95,
+    "quality" : 2
+  },
+  "602" : {
+    "craft_num" : 15,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 103,
+    "quality" : 2
+  },
+  "515" : {
+    "craft_num" : 30,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 16,
+    "quality" : 3
+  },
+  "523" : {
+    "craft_num" : 30,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 24,
+    "quality" : 3
+  },
+  "531" : {
+    "craft_num" : 30,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 32,
+    "quality" : 3
+  },
+  "539" : {
+    "craft_num" : 30,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 40,
+    "quality" : 3
+  },
+  "547" : {
+    "craft_num" : 60,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 48,
+    "quality" : 4
+  },
+  "555" : {
+    "craft_num" : 30,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 56,
+    "quality" : 3
+  },
+  "563" : {
+    "craft_num" : 15,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 64,
+    "quality" : 2
+  },
+  "571" : {
+    "craft_num" : 15,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 72,
+    "quality" : 2
+  },
+  "579" : {
+    "craft_num" : 15,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 80,
+    "quality" : 2
+  },
+  "587" : {
+    "craft_num" : 15,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 88,
+    "quality" : 2
+  },
+  "595" : {
+    "craft_num" : 15,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 96,
+    "quality" : 2
+  },
+  "603" : {
+    "craft_num" : 15,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 104,
+    "quality" : 2
+  },
+  "502" : {
+    "craft_num" : 30,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 3,
+    "quality" : 3
+  },
+  "506" : {
+    "craft_num" : 30,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 7,
+    "quality" : 3
+  },
+  "510" : {
+    "craft_num" : 30,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 11,
+    "quality" : 3
+  },
+  "516" : {
+    "craft_num" : 30,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 17,
+    "quality" : 3
+  },
+  "524" : {
+    "craft_num" : 30,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 25,
+    "quality" : 2
+  },
+  "532" : {
+    "craft_num" : 30,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 33,
+    "quality" : 3
+  },
+  "540" : {
+    "craft_num" : 30,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 41,
+    "quality" : 3
+  },
+  "548" : {
+    "craft_num" : 60,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 49,
+    "quality" : 4
+  },
+  "556" : {
+    "craft_num" : 30,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 57,
+    "quality" : 3
+  },
+  "564" : {
+    "craft_num" : 15,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 65,
+    "quality" : 2
+  },
+  "572" : {
+    "craft_num" : 15,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 73,
+    "quality" : 2
+  },
+  "580" : {
+    "craft_num" : 15,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 81,
+    "quality" : 2
+  },
+  "588" : {
+    "craft_num" : 15,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 89,
+    "quality" : 2
+  },
+  "596" : {
+    "craft_num" : 15,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 97,
+    "quality" : 2
+  },
+  "604" : {
+    "craft_num" : 15,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 105,
+    "quality" : 2
+  },
+  "517" : {
+    "craft_num" : 30,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 18,
+    "quality" : 3
+  },
+  "525" : {
+    "craft_num" : 30,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 26,
+    "quality" : 2
+  },
+  "533" : {
+    "craft_num" : 30,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 34,
+    "quality" : 3
+  },
+  "541" : {
+    "craft_num" : 15,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 42,
+    "quality" : 2
+  },
+  "549" : {
+    "craft_num" : 60,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 50,
+    "quality" : 4
+  },
+  "557" : {
+    "craft_num" : 30,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 58,
+    "quality" : 3
+  },
+  "565" : {
+    "craft_num" : 15,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 66,
+    "quality" : 2
+  },
+  "573" : {
+    "craft_num" : 15,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 74,
+    "quality" : 2
+  },
+  "581" : {
+    "craft_num" : 15,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 82,
+    "quality" : 2
+  },
+  "589" : {
+    "craft_num" : 15,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 90,
+    "quality" : 2
+  },
+  "597" : {
+    "craft_num" : 15,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 98,
+    "quality" : 2
+  },
+  "605" : {
+    "craft_num" : 15,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 106,
+    "quality" : 2
+  },
+  "503" : {
+    "craft_num" : 30,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 4,
+    "quality" : 3
+  },
+  "507" : {
+    "craft_num" : 30,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 8,
+    "quality" : 3
+  },
+  "511" : {
+    "craft_num" : 30,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 12,
+    "quality" : 3
+  },
+  "518" : {
+    "craft_num" : 60,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 19,
+    "quality" : 4
+  },
+  "526" : {
+    "craft_num" : 30,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 27,
+    "quality" : 3
+  },
+  "534" : {
+    "craft_num" : 30,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 35,
+    "quality" : 2
+  },
+  "542" : {
+    "craft_num" : 30,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 43,
+    "quality" : 3
+  },
+  "550" : {
+    "craft_num" : 30,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 51,
+    "quality" : 3
+  },
+  "558" : {
+    "craft_num" : 30,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 59,
+    "quality" : 3
+  },
+  "566" : {
+    "craft_num" : 15,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 67,
+    "quality" : 2
+  },
+  "574" : {
+    "craft_num" : 15,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 75,
+    "quality" : 2
+  },
+  "582" : {
+    "craft_num" : 15,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 83,
+    "quality" : 2
+  },
+  "590" : {
+    "craft_num" : 15,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 91,
+    "quality" : 2
+  },
+  "598" : {
+    "craft_num" : 15,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 99,
+    "quality" : 2
+  },
+  "606" : {
+    "craft_num" : 15,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 107,
+    "quality" : 2
+  },
+  "647" : {
+    "craft_num" : 30,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 148,
+    "quality" : 3
+  },
+  "519" : {
+    "craft_num" : 30,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 20,
+    "quality" : 3
+  },
+  "527" : {
+    "craft_num" : 60,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 28,
+    "quality" : 4
+  },
+  "535" : {
+    "craft_num" : 60,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 36,
+    "quality" : 4
+  },
+  "543" : {
+    "craft_num" : 30,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 44,
+    "quality" : 3
+  },
+  "551" : {
+    "craft_num" : 60,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 52,
+    "quality" : 4
+  },
+  "559" : {
+    "craft_num" : 30,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 60,
+    "quality" : 3
+  },
+  "567" : {
+    "craft_num" : 15,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 68,
+    "quality" : 2
+  },
+  "646" : {
+    "craft_num" : 30,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 147,
+    "quality" : 3
+  },
+  "610" : {
+    "craft_num" : 60,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 192,
+    "quality" : 4
+  },
+  "611" : {
+    "craft_num" : 60,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 193,
+    "quality" : 4
+  },
+  "612" : {
+    "craft_num" : 60,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 194,
+    "quality" : 4
+  },
+  "613" : {
+    "craft_num" : 60,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 196,
+    "quality" : 4
+  },
+  "614" : {
+    "craft_num" : 60,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 198,
+    "quality" : 4
+  },
+  "615" : {
+    "craft_num" : 60,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 199,
+    "quality" : 4
+  },
+  "616" : {
+    "craft_num" : 60,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 195,
+    "quality" : 4
+  },
+  "617" : {
+    "craft_num" : 60,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 184,
+    "quality" : 4
+  },
+  "618" : {
+    "craft_num" : 60,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 214,
+    "quality" : 4
+  },
+  "619" : {
+    "craft_num" : 60,
+    "bind_stages" : [ 101, 102 ],
+    "card_id" : 215,
+    "quality" : 4
+  }
+}

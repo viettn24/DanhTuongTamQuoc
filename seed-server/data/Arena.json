@@ -1,0 +1,461 @@
+{
+  "lucky_rank" : [ [ 1, 20, 2, 100 ], [ 21, 100, 5, 25 ] ],
+  "win" : [ {
+    "items" : [ [ 1002, 1, 115 ], [ 1002, 3, 115 ], [ 1002, 5, 58 ], [ 1004, 1, 58 ], [ 1004, 1, 58 ], [ 1004, 5, 25 ], [ 1600, 1, 190 ], [ 1601, 1, 190 ], [ 1602, 1, 125 ], [ 1603, 1, 60 ] ],
+    "gamemoney_coef" : 50,
+    "honor" : 20,
+    "exp" : 100
+  }, {
+    "items" : [ [ 1002, 1, 115 ], [ 1002, 3, 115 ], [ 1002, 5, 58 ], [ 1004, 1, 58 ], [ 1004, 1, 58 ], [ 1004, 5, 25 ], [ 1600, 1, 190 ], [ 1601, 1, 190 ], [ 1602, 1, 125 ], [ 1603, 1, 60 ] ],
+    "gamemoney_coef" : 50,
+    "honor" : 10,
+    "exp" : 100
+  } ],
+  "reward_time" : "22:00",
+  "rewards" : [ {
+    "rank_range" : [ 1, 1 ],
+    "gamemoney" : 100000,
+    "money" : 4000,
+    "honor" : 4000,
+    "items" : [ 4502, 8 ]
+  }, {
+    "rank_range" : [ 2, 2 ],
+    "gamemoney" : 95000,
+    "money" : 3000,
+    "honor" : 3500,
+    "items" : [ 4502, 6 ]
+  }, {
+    "rank_range" : [ 3, 3 ],
+    "gamemoney" : 90000,
+    "money" : 2400,
+    "honor" : 3200,
+    "items" : [ 4502, 4 ]
+  }, {
+    "rank_range" : [ 4, 4 ],
+    "gamemoney" : 85000,
+    "money" : 2200,
+    "honor" : 3000,
+    "items" : [ 4502, 3 ]
+  }, {
+    "rank_range" : [ 5, 5 ],
+    "gamemoney" : 82000,
+    "money" : 2000,
+    "honor" : 2800,
+    "items" : [ 4502, 3 ]
+  }, {
+    "rank_range" : [ 6, 6 ],
+    "gamemoney" : 80000,
+    "money" : 1900,
+    "honor" : 2600,
+    "items" : [ 4502, 2 ]
+  }, {
+    "rank_range" : [ 7, 7 ],
+    "gamemoney" : 78000,
+    "money" : 1800,
+    "honor" : 2400,
+    "items" : [ 4502, 2 ]
+  }, {
+    "rank_range" : [ 8, 8 ],
+    "gamemoney" : 76000,
+    "money" : 1700,
+    "honor" : 2200,
+    "items" : [ 4502, 2 ]
+  }, {
+    "rank_range" : [ 9, 9 ],
+    "gamemoney" : 74000,
+    "money" : 1600,
+    "honor" : 2000,
+    "items" : [ 4502, 1 ]
+  }, {
+    "rank_range" : [ 10, 10 ],
+    "gamemoney" : 72000,
+    "money" : 1500,
+    "honor" : 1800,
+    "items" : [ 4502, 1 ]
+  }, {
+    "rank_range" : [ 11, 20 ],
+    "gamemoney" : 70000,
+    "money" : 1400,
+    "honor" : 1600,
+    "items" : [ ]
+  }, {
+    "rank_range" : [ 21, 30 ],
+    "gamemoney" : 68000,
+    "money" : 1300,
+    "honor" : 1400,
+    "items" : [ ]
+  }, {
+    "rank_range" : [ 31, 40 ],
+    "gamemoney" : 66000,
+    "money" : 1200,
+    "honor" : 1200,
+    "items" : [ ]
+  }, {
+    "rank_range" : [ 41, 50 ],
+    "gamemoney" : 64000,
+    "money" : 1100,
+    "honor" : 1000,
+    "items" : [ ]
+  }, {
+    "rank_range" : [ 51, 70 ],
+    "gamemoney" : 62000,
+    "money" : 1000,
+    "honor" : 750,
+    "items" : [ ]
+  }, {
+    "rank_range" : [ 71, 100 ],
+    "gamemoney" : 60000,
+    "money" : 800,
+    "honor" : 600,
+    "items" : [ ]
+  }, {
+    "rank_range" : [ 101, 200 ],
+    "gamemoney" : 58000,
+    "money" : 600,
+    "honor" : 450,
+    "items" : [ ]
+  }, {
+    "rank_range" : [ 201, 300 ],
+    "gamemoney" : 56000,
+    "money" : 400,
+    "honor" : 390,
+    "items" : [ ]
+  }, {
+    "rank_range" : [ 301, 400 ],
+    "gamemoney" : 54000,
+    "money" : 200,
+    "honor" : 360,
+    "items" : [ ]
+  }, {
+    "rank_range" : [ 401, 500 ],
+    "gamemoney" : 52000,
+    "money" : 0,
+    "honor" : 330,
+    "items" : [ ]
+  }, {
+    "rank_range" : [ 501, 600 ],
+    "gamemoney" : 50000,
+    "money" : 0,
+    "honor" : 300,
+    "items" : [ ]
+  }, {
+    "rank_range" : [ 601, 700 ],
+    "gamemoney" : 48000,
+    "money" : 0,
+    "honor" : 280,
+    "items" : [ ]
+  }, {
+    "rank_range" : [ 701, 800 ],
+    "gamemoney" : 46000,
+    "money" : 0,
+    "honor" : 260,
+    "items" : [ ]
+  }, {
+    "rank_range" : [ 801, 900 ],
+    "gamemoney" : 44000,
+    "money" : 0,
+    "honor" : 240,
+    "items" : [ ]
+  }, {
+    "rank_range" : [ 901, 1000 ],
+    "gamemoney" : 42000,
+    "money" : 0,
+    "honor" : 220,
+    "items" : [ ]
+  }, {
+    "rank_range" : [ 1001, 1100 ],
+    "gamemoney" : 40000,
+    "money" : 0,
+    "honor" : 200,
+    "items" : [ ]
+  }, {
+    "rank_range" : [ 1101, 1200 ],
+    "gamemoney" : 38000,
+    "money" : 0,
+    "honor" : 190,
+    "items" : [ ]
+  }, {
+    "rank_range" : [ 1201, 1300 ],
+    "gamemoney" : 36000,
+    "money" : 0,
+    "honor" : 180,
+    "items" : [ ]
+  }, {
+    "rank_range" : [ 1301, 1400 ],
+    "gamemoney" : 34000,
+    "money" : 0,
+    "honor" : 170,
+    "items" : [ ]
+  }, {
+    "rank_range" : [ 1401, 1500 ],
+    "gamemoney" : 32000,
+    "money" : 0,
+    "honor" : 160,
+    "items" : [ ]
+  }, {
+    "rank_range" : [ 1501, 1600 ],
+    "gamemoney" : 31000,
+    "money" : 0,
+    "honor" : 150,
+    "items" : [ ]
+  }, {
+    "rank_range" : [ 1601, 1700 ],
+    "gamemoney" : 30000,
+    "money" : 0,
+    "honor" : 140,
+    "items" : [ ]
+  }, {
+    "rank_range" : [ 1701, 1800 ],
+    "gamemoney" : 29000,
+    "money" : 0,
+    "honor" : 130,
+    "items" : [ ]
+  }, {
+    "rank_range" : [ 1801, 2000 ],
+    "gamemoney" : 28000,
+    "money" : 0,
+    "honor" : 120,
+    "items" : [ ]
+  }, {
+    "rank_range" : [ 2001, 3000 ],
+    "gamemoney" : 27000,
+    "money" : 0,
+    "honor" : 100,
+    "items" : [ ]
+  }, {
+    "rank_range" : [ 3001, 4000 ],
+    "gamemoney" : 26000,
+    "money" : 0,
+    "honor" : 80,
+    "items" : [ ]
+  }, {
+    "rank_range" : [ 4001, 5000 ],
+    "gamemoney" : 25000,
+    "money" : 0,
+    "honor" : 60,
+    "items" : [ ]
+  }, {
+    "rank_range" : [ 5001, 7000 ],
+    "gamemoney" : 24000,
+    "money" : 0,
+    "honor" : 50,
+    "items" : [ ]
+  }, {
+    "rank_range" : [ 7001, 10000 ],
+    "gamemoney" : 23000,
+    "money" : 0,
+    "honor" : 40,
+    "items" : [ ]
+  }, {
+    "rank_range" : [ 10001, 15000 ],
+    "gamemoney" : 22000,
+    "money" : 0,
+    "honor" : 30,
+    "items" : [ ]
+  }, {
+    "rank_range" : [ 15001, -1 ],
+    "gamemoney" : 21000,
+    "money" : 0,
+    "honor" : 20,
+    "items" : [ ]
+  } ],
+  "stamina_cost" : 2,
+  "exchange" : {
+    "1" : [ 1002, 10, 100, 10, 1 ],
+    "2" : [ 1002, 50, 500, 4, 1 ],
+    "4" : [ 2001, 1, 50000, 1, 1 ],
+    "8" : [ 560, 1, 700, 5, 1 ],
+    "16" : [ 516, 1, 1500, 5, 1 ],
+    "17" : [ 646, 1, 2250, 2, 1 ],
+    "9" : [ 538, 1, 700, 5, 1 ],
+    "5" : [ 2049, 1, 50000, 1, 1 ],
+    "10" : [ 545, 1, 700, 5, 1 ],
+    "11" : [ 510, 1, 700, 5, 1 ],
+    "3" : [ 1002, 100, 1000, 1, 1 ],
+    "6" : [ 2017, 1, 25000, 1, 1 ],
+    "12" : [ 555, 1, 700, 5, 1 ],
+    "13" : [ 83, 1, 20000, 1, 1 ],
+    "10006":[1018,1,3000,1,55],
+    "10007":[1019,1,3000,1,65],
+    "10005" : [ 1016, 1, 3000, 1, 45 ],
+    "10004" : [ 1015, 1, 1000, 1, 35 ],
+    "7" : [ 2034, 1, 25000, 1, 1 ],
+    "14" : [ 73, 1, 20000, 1, 1 ],
+    "10003" : [ 1014, 1, 300, 1, 25 ],
+    "10001" : [ 1012, 1, 10, 1, 5 ],
+    "10002" : [ 1013, 1, 100, 1, 15 ],
+    "15" : [ 206, 1, 20000, 1, 1 ]
+  },
+  "guide_robot" : [ {
+    "cards" : [ [ 159, 160, 161 ], [ 63 ], [ 27 ] ],
+    "formations" : [ 1 ],
+    "level" : 1,
+    "attrs" : [ {
+      "add_attrs" : {
+        "rates" : {
+          "maxhp" : 0,
+          "atk" : 0,
+          "def" : 0
+        },
+        "statics" : {
+          "maxhp" : 0,
+          "atk" : 0,
+          "def" : 0
+        }
+      },
+      "unit_grade" : 1,
+      "level" : 1,
+      "unit_level" : 1,
+      "card_grade" : 0
+    }, {
+      "add_attrs" : {
+        "rates" : {
+          "maxhp" : 0,
+          "atk" : 0,
+          "def" : 0
+        },
+        "statics" : {
+          "maxhp" : 0,
+          "atk" : 0,
+          "def" : 0
+        }
+      },
+      "unit_grade" : 1,
+      "level" : 1,
+      "unit_level" : 1,
+      "card_grade" : 0
+    }, {
+      "add_attrs" : {
+        "rates" : {
+          "maxhp" : 0,
+          "atk" : 0,
+          "def" : 0
+        },
+        "statics" : {
+          "maxhp" : 0,
+          "atk" : 0,
+          "def" : 0
+        }
+      },
+      "unit_grade" : 1,
+      "level" : 1,
+      "unit_level" : 1,
+      "card_grade" : 0
+    } ],
+    "card_num" : [ 3, 0, 0 ]
+  }, {
+    "cards" : [ [ 159, 160, 161 ], [ 63 ], [ 27 ] ],
+    "formations" : [ 1 ],
+    "level" : 1,
+    "attrs" : [ {
+      "add_attrs" : {
+        "rates" : {
+          "maxhp" : 0,
+          "atk" : 0,
+          "def" : 0
+        },
+        "statics" : {
+          "maxhp" : 0,
+          "atk" : 0,
+          "def" : 0
+        }
+      },
+      "unit_grade" : 1,
+      "level" : 1,
+      "unit_level" : 1,
+      "card_grade" : 0
+    }, {
+      "add_attrs" : {
+        "rates" : {
+          "maxhp" : 0,
+          "atk" : 0,
+          "def" : 0
+        },
+        "statics" : {
+          "maxhp" : 0,
+          "atk" : 0,
+          "def" : 0
+        }
+      },
+      "unit_grade" : 1,
+      "level" : 1,
+      "unit_level" : 1,
+      "card_grade" : 0
+    }, {
+      "add_attrs" : {
+        "rates" : {
+          "maxhp" : 0,
+          "atk" : 0,
+          "def" : 0
+        },
+        "statics" : {
+          "maxhp" : 0,
+          "atk" : 0,
+          "def" : 0
+        }
+      },
+      "unit_grade" : 1,
+      "level" : 1,
+      "unit_level" : 1,
+      "card_grade" : 0
+    } ],
+    "card_num" : [ 3, 0, 0 ]
+  }, {
+    "cards" : [ [ 159, 160, 161 ], [ 63 ], [ 27 ] ],
+    "formations" : [ 1 ],
+    "level" : 1,
+    "attrs" : [ {
+      "add_attrs" : {
+        "rates" : {
+          "maxhp" : 0,
+          "atk" : 0,
+          "def" : 0
+        },
+        "statics" : {
+          "maxhp" : 0,
+          "atk" : 0,
+          "def" : 0
+        }
+      },
+      "unit_grade" : 1,
+      "level" : 1,
+      "unit_level" : 1,
+      "card_grade" : 0
+    }, {
+      "add_attrs" : {
+        "rates" : {
+          "maxhp" : 0,
+          "atk" : 0,
+          "def" : 0
+        },
+        "statics" : {
+          "maxhp" : 0,
+          "atk" : 0,
+          "def" : 0
+        }
+      },
+      "unit_grade" : 1,
+      "level" : 1,
+      "unit_level" : 1,
+      "card_grade" : 0
+    }, {
+      "add_attrs" : {
+        "rates" : {
+          "maxhp" : 0,
+          "atk" : 0,
+          "def" : 0
+        },
+        "statics" : {
+          "maxhp" : 0,
+          "atk" : 0,
+          "def" : 0
+        }
+      },
+      "unit_grade" : 1,
+      "level" : 1,
+      "unit_level" : 1,
+      "card_grade" : 0
+    } ],
+    "card_num" : [ 3, 0, 0 ]
+  } ]
+}

@@ -1,0 +1,27 @@
+
+prewarbg.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+black_bg
+  rotate: false
+  xy: 324, 374
+  size: 114, 64
+  orig: 114, 64
+  offset: 0, 0
+  index: -1
+texture_Pre_war_bg/h1
+  rotate: false
+  xy: 2, 76
+  size: 316, 180
+  orig: 316, 180
+  offset: 0, 0
+  index: -1
+texture_Pre_war_bg/l1
+  rotate: false
+  xy: 2, 258
+  size: 320, 180
+  orig: 320, 180
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,132 @@
+
+TreasureBoxAction.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+quan2
+  rotate: false
+  xy: 2, 14
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 2, 14
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+wooden_chest/banqiu
+  rotate: false
+  xy: 213, 35
+  size: 60, 47
+  orig: 60, 47
+  offset: 0, 0
+  index: -1
+wooden_chest/banqiu2
+  rotate: true
+  xy: 444, 302
+  size: 77, 51
+  orig: 77, 51
+  offset: 0, 0
+  index: -1
+wooden_chest/blue1
+  rotate: true
+  xy: 242, 270
+  size: 102, 96
+  orig: 102, 96
+  offset: 0, 0
+  index: -1
+wooden_chest/blue2
+  rotate: false
+  xy: 2, 133
+  size: 111, 114
+  orig: 111, 114
+  offset: 0, 0
+  index: -1
+wooden_chest/fasanguang
+  rotate: false
+  xy: 2, 370
+  size: 141, 125
+  orig: 141, 125
+  offset: 0, 0
+  index: -1
+wooden_chest/gold1
+  rotate: false
+  xy: 340, 283
+  size: 102, 96
+  orig: 102, 96
+  offset: 0, 0
+  index: -1
+wooden_chest/gold2
+  rotate: false
+  xy: 268, 381
+  size: 111, 114
+  orig: 111, 114
+  offset: 0, 0
+  index: -1
+wooden_chest/green1
+  rotate: true
+  xy: 115, 145
+  size: 102, 96
+  orig: 102, 96
+  offset: 0, 0
+  index: -1
+wooden_chest/green2
+  rotate: false
+  xy: 2, 17
+  size: 111, 114
+  orig: 111, 114
+  offset: 0, 0
+  index: -1
+wooden_chest/mu1
+  rotate: true
+  xy: 115, 41
+  size: 102, 96
+  orig: 102, 96
+  offset: 0, 0
+  index: -1
+wooden_chest/mu1r
+  rotate: false
+  xy: 2, 249
+  size: 125, 119
+  orig: 125, 119
+  offset: 0, 0
+  index: -1
+wooden_chest/mu2
+  rotate: false
+  xy: 381, 381
+  size: 111, 114
+  orig: 111, 114
+  offset: 0, 0
+  index: -1
+wooden_chest/purple1
+  rotate: true
+  xy: 213, 150
+  size: 102, 96
+  orig: 102, 96
+  offset: 0, 0
+  index: -1
+wooden_chest/purple2
+  rotate: false
+  xy: 129, 254
+  size: 111, 114
+  orig: 111, 114
+  offset: 0, 0
+  index: -1
+wooden_chest/quan2
+  rotate: false
+  xy: 145, 374
+  size: 121, 121
+  orig: 121, 121
+  offset: 0, 0
+  index: -1
+wooden_chest/star
+  rotate: false
+  xy: 213, 84
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

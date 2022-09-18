@@ -1,0 +1,34 @@
+
+tearScreenBg.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tearScreenBg/lgg
+  rotate: false
+  xy: 2, 2
+  size: 433, 252
+  orig: 433, 252
+  offset: 0, 0
+  index: -1
+tearScreenBg/lggr
+  rotate: false
+  xy: 437, 128
+  size: 217, 126
+  orig: 217, 126
+  offset: 0, 0
+  index: -1
+tearScreenBg/sp2
+  rotate: false
+  xy: 2, 256
+  size: 655, 249
+  orig: 655, 249
+  offset: 0, 0
+  index: -1
+tearScreenBg/sp2r
+  rotate: false
+  xy: 659, 380
+  size: 328, 125
+  orig: 328, 125
+  offset: 0, 0
+  index: -1

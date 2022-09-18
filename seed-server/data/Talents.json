@@ -1,0 +1,460 @@
+[ {
+  "coefs" : [ 2, 3 ],
+  "talent_type" : 2
+}, {
+  "coefs" : [ 2, 4 ],
+  "talent_type" : 2
+}, {
+  "coefs" : [ 2, 5 ],
+  "talent_type" : 2
+}, {
+  "coefs" : [ 2, 6 ],
+  "talent_type" : 2
+}, {
+  "coefs" : [ 2, 7 ],
+  "talent_type" : 2
+}, {
+  "coefs" : [ 2, 8 ],
+  "talent_type" : 2
+}, {
+  "coefs" : [ 2, 9 ],
+  "talent_type" : 2
+}, {
+  "coefs" : [ 2, 10 ],
+  "talent_type" : 2
+}, {
+  "coefs" : [ 2, 11 ],
+  "talent_type" : 2
+}, {
+  "coefs" : [ 2, 12 ],
+  "talent_type" : 2
+}, {
+  "coefs" : [ 3, 5 ],
+  "talent_type" : 2
+}, {
+  "coefs" : [ 3, 6 ],
+  "talent_type" : 2
+}, {
+  "coefs" : [ 3, 7 ],
+  "talent_type" : 2
+}, {
+  "coefs" : [ 3, 8 ],
+  "talent_type" : 2
+}, {
+  "coefs" : [ 3, 9 ],
+  "talent_type" : 2
+}, {
+  "coefs" : [ 3, 10 ],
+  "talent_type" : 2
+}, {
+  "coefs" : [ 3, 11 ],
+  "talent_type" : 2
+}, {
+  "coefs" : [ 3, 12 ],
+  "talent_type" : 2
+}, {
+  "coefs" : [ 3, 13 ],
+  "talent_type" : 2
+}, {
+  "coefs" : [ 3, 15 ],
+  "talent_type" : 2
+}, {
+  "coefs" : [ 1, 3 ],
+  "talent_type" : 2
+}, {
+  "coefs" : [ 1, 4 ],
+  "talent_type" : 2
+}, {
+  "coefs" : [ 1, 5 ],
+  "talent_type" : 2
+}, {
+  "coefs" : [ 1, 6 ],
+  "talent_type" : 2
+}, {
+  "coefs" : [ 1, 7 ],
+  "talent_type" : 2
+}, {
+  "coefs" : [ 1, 8 ],
+  "talent_type" : 2
+}, {
+  "coefs" : [ 1, 9 ],
+  "talent_type" : 2
+}, {
+  "coefs" : [ 1, 10 ],
+  "talent_type" : 2
+}, {
+  "coefs" : [ 1, 11 ],
+  "talent_type" : 2
+}, {
+  "coefs" : [ 1, 12 ],
+  "talent_type" : 2
+}, {
+  "coefs" : [ 7, 100 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 7, 200 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 7, 300 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 7, 400 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 7, 500 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 7, 600 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 7, 700 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 7, 800 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 7, 900 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 7, 1000 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 8, 100 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 8, 200 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 8, 300 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 8, 400 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 8, 500 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 8, 600 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 8, 700 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 8, 800 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 8, 900 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 8, 1000 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 11, 50 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 11, 75 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 11, 100 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 11, 125 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 11, 150 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 11, 175 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 11, 200 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 11, 225 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 11, 250 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 11, 275 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 10, 50 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 10, 75 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 10, 100 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 10, 125 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 10, 150 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 10, 175 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 10, 200 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 10, 225 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 10, 250 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 10, 275 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 0, 1 ],
+  "talent_type" : 3
+}, {
+  "coefs" : [ 0, 2 ],
+  "talent_type" : 3
+}, {
+  "coefs" : [ 0, 3 ],
+  "talent_type" : 3
+}, {
+  "coefs" : [ 0, 4 ],
+  "talent_type" : 3
+}, {
+  "coefs" : [ 0, 5 ],
+  "talent_type" : 3
+}, {
+  "coefs" : [ 0, 6 ],
+  "talent_type" : 3
+}, {
+  "coefs" : [ 0, 7 ],
+  "talent_type" : 3
+}, {
+  "coefs" : [ 0, 8 ],
+  "talent_type" : 3
+}, {
+  "coefs" : [ 0, 9 ],
+  "talent_type" : 3
+}, {
+  "coefs" : [ 0, 10 ],
+  "talent_type" : 3
+}, {
+  "coefs" : [ 4, 100 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 4, 200 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 4, 300 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 4, 400 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 4, 500 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 4, 600 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 4, 700 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 4, 800 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 4, 900 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 4, 1000 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 5, 100 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 5, 200 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 5, 300 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 5, 400 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 5, 500 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 5, 600 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 5, 700 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 5, 800 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 5, 900 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 5, 1000 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 9, 100 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 9, 200 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 9, 300 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 9, 400 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 9, 500 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 9, 600 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 9, 700 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 9, 800 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 9, 900 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 9, 1000 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 6, 100 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 6, 200 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 6, 300 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 6, 400 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 6, 500 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 6, 600 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 6, 700 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 6, 800 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 6, 900 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 6, 1000 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 0, 0 ],
+  "talent_type" : 5
+}, {
+  "coefs" : [ 0, 0 ],
+  "talent_type" : 6
+}, {
+  "coefs" : [ 0, 0 ],
+  "talent_type" : 7
+}, {
+  "coefs" : [ 2, 100 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 2, 150 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 2, 200 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 2, 250 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 2, 300 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 2, 350 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 2, 400 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 2, 450 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 2, 500 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 2, 550 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 3, 100 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 3, 150 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 3, 200 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 3, 250 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 3, 300 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 3, 350 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 3, 400 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 3, 450 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 3, 500 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 3, 550 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 1, 200 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 1, 300 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 1, 400 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 1, 500 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 1, 600 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 1, 700 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 1, 800 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 1, 900 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 1, 1000 ],
+  "talent_type" : 1
+}, {
+  "coefs" : [ 1, 1100 ],
+  "talent_type" : 1
+} ]

@@ -1,0 +1,55 @@
+
+maincity.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+texture_maincity/men
+  rotate: true
+  xy: 68, 25
+  size: 51, 85
+  orig: 51, 85
+  offset: 0, 0
+  index: -1
+texture_maincity/qi1
+  rotate: true
+  xy: 155, 16
+  size: 60, 75
+  orig: 60, 75
+  offset: 0, 0
+  index: -1
+texture_maincity/qi2
+  rotate: true
+  xy: 232, 14
+  size: 62, 72
+  orig: 62, 72
+  offset: 0, 0
+  index: -1
+texture_maincity/qi3
+  rotate: false
+  xy: 2, 2
+  size: 64, 74
+  orig: 64, 74
+  offset: 0, 0
+  index: -1
+texture_maincity/qigan
+  rotate: false
+  xy: 473, 413
+  size: 17, 88
+  orig: 17, 88
+  offset: 0, 0
+  index: -1
+texture_maincity/zhezhao
+  rotate: false
+  xy: 306, 47
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+texture_maincity/zhucheng
+  rotate: false
+  xy: 2, 78
+  size: 469, 423
+  orig: 469, 423
+  offset: 0, 0
+  index: -1
