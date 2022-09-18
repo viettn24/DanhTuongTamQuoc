@@ -7,6 +7,7 @@ $conn = @mysql_connect("127.0.0.1","root","123456") or die ("接口异常,请联
 mysql_query("set names UTF8"); 
 $user=$_GET['user'];
 $pass=$_GET['pass'];
+$signweb3=$_GET['signweb3'];
 if(empty($user)){
 	echo '请输入用户名！';
 	exit;
@@ -23,14 +24,14 @@ $sql="select * from login_account where uname='".$user."'";
 $res=mysql_query($sql);
 $row=mysql_fetch_array($res);	
 if($row['Id']){
-	if($row['pwd'] != md5($pass)){
+	if($row['signweb3'] != md5($pass)){
 		echo '用户名或密码错误！';
 		exit;		
 	}
 	echo 1;
 	exit;
 }else{
-	$sql="insert into login_account (uname,pwd) values ('".$user."','".md5($pass)."')";
+	$sql="insert into login_account (uname,signweb3) values ('".$user."','".md5($signweb3)."')";
 	$res=mysql_query($sql);	
 	if($res){
 		echo 1;
