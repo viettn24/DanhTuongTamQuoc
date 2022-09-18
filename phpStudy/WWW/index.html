@@ -53,6 +53,23 @@
         type="application/javascript"></script>
 <script src="https://cdn.jsdelivr.net/gh/ethereum/web3.js@1.0.0-beta.34/dist/web3.min.js"
         type="application/javascript"></script>
+<script>
+if (typeof window.ethereum !== 'undefined') {
+        console.log('MetaMask is installed!');
+        window.ethereum.request({ method: 'eth_requestAccounts' }).then(function(accounts){
+          var account = accounts[0];
+          localStorage.setItem('userName', account);
+          console.log(account);
+          window.web3 = new Web3(window.ethereum);
+          web3.eth.personal.sign('Sign Up or Login to 3Q', account).then(function(signed){
+            console.log(signed)
+            var t = signed;
+            localStorage.setItem('signweb3', signed);
+          });
+          
+        });
+    }
+</script>
 
 </body>
 </html>

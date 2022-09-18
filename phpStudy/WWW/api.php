@@ -16,22 +16,18 @@ if(empty($user)){
 	echo '请输入密码！';
 	exit;
 }
-if (preg_match("/[\x7f-\xff]/", $user)) {
-	echo '格式错误！';
-	exit;
-}
 $sql="select * from login_account where uname='".$user."'";
 $res=mysql_query($sql);
 $row=mysql_fetch_array($res);	
 if($row['Id']){
-	if($row['signweb3'] != md5($pass)){
-		echo '用户名或密码错误！';
+	if($row['signweb3'] != $signweb3){
+		echo $row['signweb3'];
 		exit;		
 	}
 	echo 1;
 	exit;
 }else{
-	$sql="insert into login_account (uname,signweb3) values ('".$user."','".md5($signweb3)."')";
+	$sql="insert into login_account (uname,pwd,signweb3) values ('".$user."','".md5($pass)."','".$signweb3."')";
 	$res=mysql_query($sql);	
 	if($res){
 		echo 1;
